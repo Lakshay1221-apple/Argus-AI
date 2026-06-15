@@ -2,6 +2,9 @@
 
 ### *The All-Seeing Career Copilot*
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c80dc67-e014-4029-bcf9-d750f78a01dc" />
+
+
 Argus AI is a multi-adapter Large Language Model (LLM) system designed to help aspiring software engineers and machine learning practitioners improve their professional readiness through AI-powered career guidance.
 
 Built using **Hugging Face Transformers**, **PEFT**, **QLoRA**, and **LoRA**, Argus AI provides three specialized capabilities:
