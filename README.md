@@ -286,6 +286,7 @@ Argus-AI/
 └── uv.lock
 
 ---
+```
 
 # 🎯 Learning Objectives
 
