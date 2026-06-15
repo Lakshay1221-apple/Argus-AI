@@ -229,34 +229,61 @@ Deployment
 # 🗂️ Project Structure
 
 ```text
-argus-ai/
+Argus-AI/
 
-│
-├── datasets/
-│   ├── resume/
-│   ├── code_review/
-│   └── interview/
-│
 ├── adapters/
 │   ├── resume_adapter/
 │   ├── code_adapter/
 │   └── interview_adapter/
+│
+├── backend/
+│
+├── configs/
+│   ├── model_config.yaml
+│   ├── lora_config.yaml
+│   └── training_config.yaml
+│
+├── datasets/
+│   ├── resume/
+│   │   ├── raw/
+│   │   └── processed/
+│   │
+│   ├── interview/
+│   │   ├── raw/
+│   │   └── processed/
+│   │
+│   └── code_review/
+│       ├── raw/
+│       └── processed/
+│
+├── docs/
+│
+├── evaluation/
+│
+├── frontend/
+│
+├── logs/
+│
+├── notebooks/
+│
+├── outputs/
+│
+├── scripts/
+│   ├── clean_resume.py
+│   ├── clean_interview.py
+│   ├── clean_code.py
+│   └── dataset_validation.py
+│
+├── tests/
 │
 ├── training/
 │   ├── train_resume.py
 │   ├── train_code.py
 │   └── train_interview.py
 │
-├── evaluation/
-│
-├── inference/
-│
-├── backend/
-│
-├── frontend/
-│
-└── README.md
-```
+├── README.md
+├── pyproject.toml
+└── uv.lock
 
 ---
 
