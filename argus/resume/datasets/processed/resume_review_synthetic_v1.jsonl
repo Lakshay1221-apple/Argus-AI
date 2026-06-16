@@ -1,0 +1,4299 @@
+[
+  {
+    "resume_text": "SUMMARY: Visionary Chief Technology Officer with 18 years driving enterprise architecture and cloud strategy. EXPERIENCE: CTO | CloudNet | 2016-Present. Scaled AWS microservices to support 25M users. Reduced infrastructure costs by 30% saving $5M annually. SKILLS: AWS, Kubernetes, IT Strategy, Budgeting. EDU: MS Computer Science.",
+    "review": {
+      "ats_score": 95,
+      "strengths": [
+        "Clear executive summary",
+        "Strong cost-saving metrics",
+        "Relevant modern technical skills"
+      ],
+      "weaknesses": [
+        "Lacks details on team size",
+        "Short education section"
+      ],
+      "suggestions": [
+        "Include number of direct reports",
+        "Expand on specific compliance frameworks managed"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Principal Machine Learning Engineer | 2015-Present\n- Architected NLP recommendation engine boosting sales by 18%.\n- Led migration of TensorFlow models to PyTorch, decreasing latency by 25%.\n- Authored 2 patents on deep learning. \nSKILLS: Python, PyTorch, NLP, AWS SageMaker.\nEDUCATION: PhD in AI, 2014.",
+    "review": {
+      "ats_score": 92,
+      "strengths": [
+        "Highly quantified AI achievements",
+        "Mentions patents and advanced degree",
+        "Clear ML framework transitions"
+      ],
+      "weaknesses": [
+        "Missing professional summary",
+        "Could expand on cross-functional collaboration"
+      ],
+      "suggestions": [
+        "Add a brief summary of career focus",
+        "Mention mentorship or leadership duties"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Senior Full Stack Developer bridging front-end elegance with back-end stability. EXPERIENCE: Senior Engineer | 2017-2023. Built React/Node.js SaaS platform generating $2M ARR. Optimized MongoDB queries reducing load time by 40%. SKILLS: React, Node.js, MongoDB, Express, AWS. EDU: BS Software Engineering.",
+    "review": {
+      "ats_score": 89,
+      "strengths": [
+        "Highlights full MERN stack",
+        "Strong revenue and performance metrics",
+        "Clear summary statement"
+      ],
+      "weaknesses": [
+        "Does not mention testing frameworks",
+        "Lacks details on Agile/Scrum"
+      ],
+      "suggestions": [
+        "Add testing tools like Jest or Cypress",
+        "Mention specific CI/CD pipeline experience"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Enterprise Cloud Architect | 2014-Present\n- Designed multi-region Azure topology for global logistics firm.\n- Migrated 500+ on-prem VMs to Azure, ensuring 99.99% uptime.\n- Enforced zero-trust security policies across all cloud environments.\nSKILLS: Azure, Terraform, PowerShell, Zero-Trust. CERTIFICATIONS: Azure Solutions Architect Expert.",
+    "review": {
+      "ats_score": 94,
+      "strengths": [
+        "Includes prestigious cloud certification",
+        "Strong scale of VM migration",
+        "Highlights security architecture"
+      ],
+      "weaknesses": [
+        "Missing education history",
+        "No summary provided"
+      ],
+      "suggestions": [
+        "Add a summary outlining architecture philosophy",
+        "Include bachelor's or master's degree"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: VP of Information Security defending critical infrastructure. EXPERIENCE: VP Security | 2012-Present. Directed global SOC reducing threat response time by 60%. Managed $10M security budget. Achieved ISO 27001 certification across 5 data centers. SKILLS: Risk Management, SOC, SIEM, ISO 27001. EDU: MBA, CISSP.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Exceptional budget and response metrics",
+        "Shows regulatory compliance success",
+        "Lists top-tier CISSP certification"
+      ],
+      "weaknesses": [
+        "Very brief descriptions of complex tasks",
+        "Lacks mention of specific SIEM tools used"
+      ],
+      "suggestions": [
+        "Specify tools like Splunk or QRadar",
+        "Elaborate on board-level reporting"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Lead Data Engineer | 2016-2023\n- Engineered real-time data streaming pipelines using Apache Kafka processing 1M events/sec.\n- Transitioned legacy data warehouse to Snowflake, cutting query costs by $50k/year.\n- Mentored 4 junior engineers.\nSKILLS: Kafka, Snowflake, Python, dbt, SQL. EDU: MS Data Science.",
+    "review": {
+      "ats_score": 91,
+      "strengths": [
+        "Massive data scale metrics",
+        "Clear cost reduction achievements",
+        "Demonstrates mentorship"
+      ],
+      "weaknesses": [
+        "No summary section",
+        "Brief education details"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Expand on data orchestration tools like Airflow"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Senior SDET driving automation excellence. EXPERIENCE: SDET Lead | 2015-Present. Built Java/Selenium automation framework from scratch covering 95% of regression tests. Integrated tests into Jenkins CI/CD allowing daily deployments. SKILLS: Java, Selenium, Jenkins, JUnit, API Testing. EDU: BS Computer Science.",
+    "review": {
+      "ats_score": 88,
+      "strengths": [
+        "High percentage of test coverage",
+        "Clear CI/CD integration",
+        "Strong object-oriented test skills"
+      ],
+      "weaknesses": [
+        "Missing specific API tools",
+        "Could expand on cross-browser testing"
+      ],
+      "suggestions": [
+        "Mention tools like Postman or REST Assured",
+        "Include cloud device testing (e.g., BrowserStack)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Enterprise IT Architect | 2013-Present\n- Aligned business goals with IT capabilities for a $2B retail chain.\n- Designed API gateway connecting legacy ERP with modern web storefronts.\n- Chaired the Architecture Review Board. \nSKILLS: TOGAF, API Design, ERP Integration, IT Governance. EDU: MS IT.",
+    "review": {
+      "ats_score": 87,
+      "strengths": [
+        "Shows high-level business alignment",
+        "Highlights governance leadership",
+        "Includes TOGAF methodology"
+      ],
+      "weaknesses": [
+        "No quantifiable financial outcomes",
+        "Lacks specific middleware product names"
+      ],
+      "suggestions": [
+        "Add metrics for efficiency or revenue gained",
+        "Name specific API tools (e.g., MuleSoft)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Director of IT optimizing enterprise systems. EXPERIENCE: IT Director | 2014-Present. Managed 50-person IT department and $12M budget. Negotiated enterprise software licenses saving $1M. Led full-scale Office 365 migration for 2,000 users. SKILLS: IT Leadership, Vendor Management, O365, Budgeting. EDU: MBA.",
+    "review": {
+      "ats_score": 93,
+      "strengths": [
+        "Strong team and budget scale",
+        "Clear negotiation and savings metrics",
+        "Significant migration experience"
+      ],
+      "weaknesses": [
+        "Brief technical details",
+        "Lacks ITSM frameworks"
+      ],
+      "suggestions": [
+        "Mention ITIL or similar frameworks",
+        "Expand on helpdesk or infrastructure oversight"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Senior Database Administrator | 2011-2023\n- Administered 100+ Oracle and PostgreSQL databases ensuring 99.99% availability.\n- Automated backup and disaster recovery using shell scripts, reducing RTO to under 1 hour.\n- Optimized complex queries reducing CPU load by 30%. \nSKILLS: Oracle, PostgreSQL, Bash, Performance Tuning. EDU: BS CS.",
+    "review": {
+      "ats_score": 90,
+      "strengths": [
+        "Clear availability and RTO metrics",
+        "Shows cross-database expertise",
+        "Highlights performance tuning"
+      ],
+      "weaknesses": [
+        "No cloud database experience listed",
+        "Lacks professional summary"
+      ],
+      "suggestions": [
+        "Add AWS RDS or similar cloud DB experience",
+        "Include a brief summary of career focus"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Junior Web Developer | 2021-Present\n- Built front-end components using Vue.js.\n- Fixed bugs in legacy PHP code.\n- Wrote HTML and CSS for landing pages.\nSKILLS: Vue.js, PHP, HTML, CSS, JavaScript.\nEDUCATION: Bootcamp Certificate.",
+    "review": {
+      "ats_score": 65,
+      "strengths": [
+        "Lists modern framework (Vue.js)",
+        "Shows practical bug-fixing experience",
+        "Clear, readable format"
+      ],
+      "weaknesses": [
+        "No measurable impact or metrics",
+        "Missing a summary",
+        "Vague degree/education details"
+      ],
+      "suggestions": [
+        "Quantify how many pages or components built",
+        "Specify the name of the bootcamp",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Python Programmer | 2019-2022\n- Wrote scripts to automate data entry.\n- Used Flask to build internal web forms.\n- Managed code using Git.\nSKILLS: Python, Flask, Git, Automation.\nEDUCATION: BS Computer Science, 2019.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Relevant degree included",
+        "Shows automation experience",
+        "Mentions version control"
+      ],
+      "weaknesses": [
+        "Bullets are very brief",
+        "No scale of automation impact",
+        "Lacks database skills"
+      ],
+      "suggestions": [
+        "Include how much time the automation saved",
+        "List SQL or NoSQL database experience",
+        "Describe the purpose of the web forms"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Data Analyst | 2020-Present\n- Created reports for the marketing team.\n- Used SQL to query customer databases.\n- Cleaned data in Excel using VLOOKUP.\nSKILLS: SQL, Excel, Reporting.\nEDUCATION: BA Economics.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Highlights core analyst tools",
+        "Shows business alignment (marketing)",
+        "Mentions specific Excel functions"
+      ],
+      "weaknesses": [
+        "Missing data visualization tools",
+        "No metrics on dataset size",
+        "Lacks business outcomes"
+      ],
+      "suggestions": [
+        "Add tools like Tableau or Power BI",
+        "Quantify the impact of the reports",
+        "Specify database types (e.g., MySQL)"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "IT Support Technician | 2018-2023\n- Answered tier 1 helpdesk tickets.\n- Reset Active Directory passwords.\n- Fixed broken hardware and laptops.\nSKILLS: Active Directory, Windows 10, Hardware Repair.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 62,
+      "strengths": [
+        "Covers essential IT support tasks",
+        "Mentions Active Directory",
+        "Solid tenure"
+      ],
+      "weaknesses": [
+        "No ticketing system mentioned",
+        "Lacks ticket volume metrics",
+        "No certifications listed"
+      ],
+      "suggestions": [
+        "Specify the ticketing software used (e.g., Jira, ServiceNow)",
+        "Include CompTIA A+ or similar certifications",
+        "Quantify daily ticket resolutions"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "QA Tester | 2019-Present\n- Executed manual test cases for web apps.\n- Logged defects in Jira.\n- Verified bug fixes from developers.\nSKILLS: Manual Testing, Jira, Bug Tracking.\nEDUCATION: Associates in IT.",
+    "review": {
+      "ats_score": 66,
+      "strengths": [
+        "Shows understanding of bug life cycle",
+        "Mentions industry-standard tracking tool",
+        "Clear role definition"
+      ],
+      "weaknesses": [
+        "No automation experience",
+        "Vague description of test cases",
+        "No summary"
+      ],
+      "suggestions": [
+        "Introduce basic automation tools like Selenium",
+        "Mention types of testing (Regression, Smoke)",
+        "Add a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Network Administrator | 2017-2022\n- Configured Cisco switches and routers.\n- Maintained office VPN access.\n- Monitored network traffic for issues.\nSKILLS: Cisco, VPN, Networking, TCP/IP.\nEDUCATION: CCNA Certification.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Includes CCNA certification",
+        "Covers core networking duties",
+        "Mentions standard protocols"
+      ],
+      "weaknesses": [
+        "Lacks scale of the network",
+        "No specific monitoring tools listed",
+        "No quantifiable achievements"
+      ],
+      "suggestions": [
+        "List monitoring tools like SolarWinds or PRTG",
+        "Specify the number of users or nodes supported",
+        "Expand on VPN technologies used"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "BI Developer | 2018-Present\n- Developed Power BI dashboards for executives.\n- Wrote SQL queries to extract data.\n- Managed data refresh schedules.\nSKILLS: Power BI, SQL, Data Modeling.\nEDUCATION: BS Information Systems.",
+    "review": {
+      "ats_score": 78,
+      "strengths": [
+        "Relevant degree",
+        "Mentions executive-level deliverables",
+        "Highlights key BI tools"
+      ],
+      "weaknesses": [
+        "No details on data modeling techniques",
+        "Lacks ETL/pipeline experience",
+        "No metrics on dashboard usage"
+      ],
+      "suggestions": [
+        "Mention Star Schema or Snowflake modeling",
+        "Detail any ETL tools used (e.g., SSIS)",
+        "Quantify time saved by dashboards"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Junior Cybersecurity Analyst | 2021-2023\n- Monitored firewall logs for suspicious activity.\n- Conducted phishing awareness training for staff.\n- Updated antivirus definitions.\nSKILLS: Firewalls, Phishing, Antivirus, Security+.\nEDUCATION: BA Criminal Justice.",
+    "review": {
+      "ats_score": 70,
+      "strengths": [
+        "Includes Security+ certification",
+        "Shows proactive user training",
+        "Covers basic SOC duties"
+      ],
+      "weaknesses": [
+        "Lacks SIEM tool experience",
+        "Vague firewall descriptions",
+        "No incident response details"
+      ],
+      "suggestions": [
+        "Specify firewall brands (Cisco, Palo Alto)",
+        "Mention SIEM tools if used",
+        "Detail specific remediation actions taken"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Systems Administrator | 2016-2022\n- Managed Windows Server 2016/2019 environments.\n- Handled VMware virtual machines.\n- Applied server patches monthly.\nSKILLS: Windows Server, VMware, Patch Management.\nEDUCATION: BS IT.",
+    "review": {
+      "ats_score": 74,
+      "strengths": [
+        "Highlights core server OS",
+        "Mentions virtualization (VMware)",
+        "Shows routine maintenance discipline"
+      ],
+      "weaknesses": [
+        "No scale (number of servers) provided",
+        "Lacks cloud infrastructure exposure",
+        "Missing automation/scripting skills"
+      ],
+      "suggestions": [
+        "Quantify the server fleet size",
+        "Add PowerShell or Bash scripting skills",
+        "Mention AWS or Azure if applicable"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Junior DevOps Engineer | 2022-Present\n- Helped set up Docker containers.\n- Monitored server health using Datadog.\n- Assisted with Jenkins builds.\nSKILLS: Docker, Jenkins, Datadog, Linux.\nEDUCATION: Bootcamp Graduate.",
+    "review": {
+      "ats_score": 71,
+      "strengths": [
+        "Lists highly relevant DevOps tools",
+        "Shows practical monitoring experience",
+        "Indicates CI/CD exposure"
+      ],
+      "weaknesses": [
+        "Passive action verbs ('Helped', 'Assisted')",
+        "No cloud platform mentioned",
+        "Lacks infrastructure-as-code details"
+      ],
+      "suggestions": [
+        "Use stronger action verbs (e.g., Configured, Deployed)",
+        "Include AWS/Azure/GCP experience",
+        "Mention Terraform or Ansible"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Computer Guy\nWorked with computers for 3 years. Fixed broken code. Made websites look good. Used html and python. Very good at typing.",
+    "review": {
+      "ats_score": 42,
+      "strengths": [
+        "Mentions Python and HTML",
+        "Indicates some web experience"
+      ],
+      "weaknesses": [
+        "Extremely unprofessional job title",
+        "No dates, formatting, or company names",
+        "Irrelevant skills (typing)"
+      ],
+      "suggestions": [
+        "Use a professional title like Web Developer",
+        "Format with bullet points and exact dates",
+        "Remove conversational language"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Programmer\nI write java code. I did a project in college using databases. I want a job in programming. Know eclipse.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Mentions Java",
+        "Indicates database exposure"
+      ],
+      "weaknesses": [
+        "No work experience listed",
+        "Outdated tool emphasis (Eclipse)",
+        "Written in first person"
+      ],
+      "suggestions": [
+        "Create a dedicated projects section",
+        "Remove 'I' statements",
+        "Add modern IDEs or version control (Git)"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Data Entry\n2018 to now. Put numbers into excel. Made sure there were no mistakes. Sent emails to boss.",
+    "review": {
+      "ats_score": 45,
+      "strengths": [
+        "Shows attention to detail",
+        "Long tenure indicated"
+      ],
+      "weaknesses": [
+        "Extremely vague descriptions",
+        "Lacks professional terminology",
+        "No specific data volume metrics"
+      ],
+      "suggestions": [
+        "Use terms like 'Data Quality Assurance'",
+        "Quantify the amount of data entered daily",
+        "Format into bulleted lists"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Tech Fixer\nFixed laptops for friends and family. Installed windows. Removed viruses. Built a custom PC.",
+    "review": {
+      "ats_score": 41,
+      "strengths": [
+        "Shows hands-on hardware experience",
+        "Mentions OS installation"
+      ],
+      "weaknesses": [
+        "No professional corporate experience",
+        "Unprofessional title",
+        "No certifications listed"
+      ],
+      "suggestions": [
+        "Reframe as Freelance IT Technician",
+        "Pursue and list a CompTIA A+ certification",
+        "Use standard resume formatting"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Webmaster\nRan a blog. Installed wordpress plugins. Changed colors using CSS. Posted articles every week.",
+    "review": {
+      "ats_score": 48,
+      "strengths": [
+        "Mentions WordPress and CSS",
+        "Shows consistent content management"
+      ],
+      "weaknesses": [
+        "Outdated job title",
+        "Lacks advanced web development skills",
+        "No metrics on blog traffic"
+      ],
+      "suggestions": [
+        "Update title to Content Manager or Web Admin",
+        "Quantify weekly visitors or posts",
+        "Include SEO or Google Analytics skills"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Testing Intern\nLooked at the app to find bugs. Told the dev team. Used my iphone to test.",
+    "review": {
+      "ats_score": 43,
+      "strengths": [
+        "Indicates mobile testing experience",
+        "Shows communication with developers"
+      ],
+      "weaknesses": [
+        "No bug tracking software mentioned",
+        "Extremely brief and informal",
+        "No testing methodologies listed"
+      ],
+      "suggestions": [
+        "Mention tools like Jira or Bugzilla",
+        "Use terms like 'Manual Exploratory Testing'",
+        "Provide specific internship dates"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Security Student\nTaking classes in cybersecurity. Learned about firewalls and hackers. Kali linux.",
+    "review": {
+      "ats_score": 44,
+      "strengths": [
+        "Mentions Kali Linux",
+        "Shows active learning"
+      ],
+      "weaknesses": [
+        "No practical experience",
+        "Vague coursework description",
+        "No formal degree or graduation date listed"
+      ],
+      "suggestions": [
+        "List specific academic projects (e.g., network scanning)",
+        "Include expected graduation date",
+        "Add relevant certifications"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Database Helper\nHelped organize the database. Typed SQL commands. Fixed broken tables.",
+    "review": {
+      "ats_score": 46,
+      "strengths": [
+        "Mentions SQL",
+        "Indicates database maintenance"
+      ],
+      "weaknesses": [
+        "Unprofessional title",
+        "No specific RDBMS named (e.g., Oracle, MySQL)",
+        "Lacks context on database size"
+      ],
+      "suggestions": [
+        "Change title to Junior DBA or Database Assistant",
+        "Specify the exact SQL systems used",
+        "Describe what 'broken tables' means technically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "IT Person\nDid IT for a small office. Hooked up printers. Set up wifi. Restarted routers. 2020-2021.",
+    "review": {
+      "ats_score": 45,
+      "strengths": [
+        "Shows practical office support",
+        "Mentions basic networking tasks"
+      ],
+      "weaknesses": [
+        "Informal language",
+        "Missing software troubleshooting",
+        "No standard formatting"
+      ],
+      "suggestions": [
+        "Use bullet points for duties",
+        "Use professional terms (e.g., Peripheral Configuration)",
+        "Add any software or OS support provided"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Coding Beginner\nJust finished learning C++. Want a job writing software. I am a fast learner and work hard.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Lists a core programming language",
+        "Expresses enthusiasm"
+      ],
+      "weaknesses": [
+        "No portfolio or projects listed",
+        "Cliche phrases ('fast learner')",
+        "No educational background"
+      ],
+      "suggestions": [
+        "Add a GitHub link with sample C++ projects",
+        "Remove subjective cliches",
+        "Include formal education or coursework"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Chief Financial Officer driving $500M enterprise growth. EXPERIENCE: CFO | Global Logistics | 2015-Present. Directed global finance operations, increasing EBITDA by 18%. Executed a $150M M&A integration flawlessly. Managed a 60-person finance department. SKILLS: M&A, Corporate Strategy, FP&A, Risk Management. EDU: MBA, CPA.",
+    "review": {
+      "ats_score": 97,
+      "strengths": [
+        "Massive financial scale and impact",
+        "Clear leadership of large teams",
+        "Prestigious CPA credential"
+      ],
+      "weaknesses": [
+        "Very brief descriptions for a C-level role",
+        "Lacks specific ERP software mentions"
+      ],
+      "suggestions": [
+        "Specify financial systems used (e.g., SAP, Oracle)",
+        "Expand on board of directors reporting duties"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "VP of Marketing | Tech Innovations | 2016-Present\n- Orchestrated global rebranding campaign, increasing market share by 22%.\n- Managed $20M annual marketing budget achieving a 4:1 ROI.\n- Directed a cross-functional team of 45 across SEO, Content, and Paid Media.\nSKILLS: Marketing Strategy, Brand Positioning, Budgeting, ROI Optimization. EDU: MS Marketing.",
+    "review": {
+      "ats_score": 95,
+      "strengths": [
+        "Excellent budget and ROI metrics",
+        "Shows large-scale team leadership",
+        "Clear strategic impact"
+      ],
+      "weaknesses": [
+        "Missing a professional summary",
+        "Could detail specific digital platforms"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Include tools like Salesforce or Marketo"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Senior Financial Analyst optimizing corporate capital. EXPERIENCE: Senior Analyst | Apex Capital | 2017-Present. Built dynamic DCF models guiding $40M in capital expenditures. Automated variance reporting in Tableau, saving 20 hours monthly. SKILLS: Financial Modeling, DCF, Tableau, SQL, Variance Analysis. EDU: BS Finance.",
+    "review": {
+      "ats_score": 90,
+      "strengths": [
+        "Strong mix of finance and tech skills (SQL, Tableau)",
+        "Quantified time-saving automation",
+        "Clear modeling expertise"
+      ],
+      "weaknesses": [
+        "Lacks cross-functional collaboration details",
+        "Brief education section"
+      ],
+      "suggestions": [
+        "Mention presentations to executive leadership",
+        "Include any progress toward CFA if applicable"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Director of Sales | Enterprise Solutions | 2015-Present\n- Grew regional ARR from $10M to $35M over 5 years.\n- Managed and mentored a team of 25 Account Executives.\n- Implemented MEDDIC sales methodology, improving close rates by 15%.\nSKILLS: B2B Sales, Salesforce, Sales Strategy, MEDDIC. EDU: BA Business.",
+    "review": {
+      "ats_score": 93,
+      "strengths": [
+        "Exceptional revenue growth metrics",
+        "Mentions specific sales methodology",
+        "Clear leadership and mentorship"
+      ],
+      "weaknesses": [
+        "No summary provided",
+        "Lacks detail on deal sizes"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Specify the average enterprise contract value"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Chief Marketing Officer specializing in digital transformation. EXPERIENCE: CMO | Retail Giant | 2014-Present. Transitioned legacy retail marketing to digital-first, boosting e-commerce sales by 150%. Oversaw $30M ad spend across social and search. SKILLS: E-commerce, Digital Strategy, PPC, SEO. EDU: MBA.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive e-commerce scaling metrics",
+        "Large budget oversight",
+        "Clear strategic transition narrative"
+      ],
+      "weaknesses": [
+        "Team size is missing",
+        "Very brief descriptions"
+      ],
+      "suggestions": [
+        "Quantify the number of direct reports",
+        "Elaborate on specific digital channels"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Corporate Controller | Global Manufacturing | 2013-Present\n- Reduced month-end close from 12 days to 4 days via ERP automation.\n- Ensured 100% compliance with US GAAP and coordinated external audits.\n- Managed global accounting operations and a team of 30.\nSKILLS: GAAP, Auditing, ERP, Consolidation. EDU: CPA, Master of Accountancy.",
+    "review": {
+      "ats_score": 94,
+      "strengths": [
+        "Excellent process efficiency metric (close time)",
+        "Prestigious CPA credential",
+        "Clear compliance and audit experience"
+      ],
+      "weaknesses": [
+        "Missing a professional summary",
+        "ERP system is not specifically named"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Specify the ERP used (e.g., SAP, Oracle)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: VP of Strategy driving corporate expansion. EXPERIENCE: VP Strategy | TechCorp | 2016-Present. Led cross-functional task force to execute European market entry, capturing $25M in new revenue. Optimized global supply chain saving 10% in overhead. SKILLS: Corporate Strategy, Market Entry, P&L. EDU: MBA.",
+    "review": {
+      "ats_score": 92,
+      "strengths": [
+        "Strong market expansion metrics",
+        "Clear cross-functional leadership",
+        "Highlights overhead reduction"
+      ],
+      "weaknesses": [
+        "Lacks specific modeling/analysis tools",
+        "Brief descriptions"
+      ],
+      "suggestions": [
+        "Mention strategic frameworks used (e.g., OKRs)",
+        "Detail specific consulting or analytical tools"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Senior Investment Banker | City Group | 2014-Present\n- Directed M&A advisory for technology sector, closing 10 deals valued at $2B+.\n- Built complex LBO and accretion/dilution models to guide corporate boards.\n- Mentored a cohort of 5 junior analysts.\nSKILLS: M&A, LBO Modeling, Valuation, Due Diligence. EDU: MS Finance.",
+    "review": {
+      "ats_score": 91,
+      "strengths": [
+        "Massive deal valuation metrics",
+        "Specific advanced financial modeling skills",
+        "Shows mentorship"
+      ],
+      "weaknesses": [
+        "Missing a summary section",
+        "Could expand on specific tech sub-sectors"
+      ],
+      "suggestions": [
+        "Add a career summary",
+        "Mention FINRA licenses (Series 7, 63, etc.)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Director of Public Relations protecting enterprise brand reputation. EXPERIENCE: PR Director | Media Co | 2015-Present. Secured tier-1 media placements in WSJ and Forbes. Handled crisis communications during product recall, maintaining neutral brand sentiment. SKILLS: Crisis Management, Media Relations, Press Releases. EDU: BA PR.",
+    "review": {
+      "ats_score": 89,
+      "strengths": [
+        "Specific top-tier media mentions",
+        "Highlights crucial crisis management experience",
+        "Clear PR skill set"
+      ],
+      "weaknesses": [
+        "No metrics on media impressions or reach",
+        "Lacks team management details"
+      ],
+      "suggestions": [
+        "Quantify total media reach/impressions",
+        "Mention PR tools used (e.g., Cision, Meltwater)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Senior Product Manager | Innovate SaaS | 2017-Present\n- Owned roadmap for enterprise software, increasing MAU by 40%.\n- Led Agile sprint planning for a team of 15 engineers and designers.\n- Conducted user interviews to define MVP features. \nSKILLS: Agile/Scrum, Roadmap Planning, Jira, A/B Testing. EDU: BS Business.",
+    "review": {
+      "ats_score": 92,
+      "strengths": [
+        "Strong user growth metrics",
+        "Clear Agile/Scrum leadership",
+        "Highlights user-centric design (MVP, interviews)"
+      ],
+      "weaknesses": [
+        "Missing an executive summary",
+        "Lacks financial/revenue impact"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Quantify the revenue generated by the product"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Junior Accountant | 2021-Present\n- Processed accounts payable and receivable.\n- Reconciled monthly bank statements.\n- Assisted with tax preparation for small businesses.\nSKILLS: QuickBooks, AP/AR, Excel, Bookkeeping.\nEDUCATION: BS Accounting, 2021.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Covers essential accounting duties",
+        "Mentions standard software (QuickBooks)",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No volume metrics (e.g., invoices processed)",
+        "Lacks advanced Excel skills",
+        "No summary"
+      ],
+      "suggestions": [
+        "Quantify monthly invoice volume",
+        "Specify Excel skills (VLOOKUP, Pivot Tables)",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Digital Marketer | 2019-2023\n- Ran Google Ads campaigns.\n- Posted daily on Facebook and Instagram.\n- Wrote blog posts for the company website.\nSKILLS: Google Ads, Social Media, Copywriting, WordPress.\nEDUCATION: BA Marketing.",
+    "review": {
+      "ats_score": 66,
+      "strengths": [
+        "Relevant degree included",
+        "Lists common digital marketing channels",
+        "Shows content creation experience"
+      ],
+      "weaknesses": [
+        "No metrics on ad spend or ROI",
+        "Lacks engagement growth numbers",
+        "Vague bullet points"
+      ],
+      "suggestions": [
+        "Quantify ad budget and return on ad spend (ROAS)",
+        "Include follower growth percentages",
+        "Detail specific SEO practices used"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Sales Rep | 2018-2022\n- Made cold calls to local businesses.\n- Met monthly sales targets.\n- Put client information into Salesforce.\nSKILLS: Cold Calling, Salesforce, B2B Sales, Customer Service.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 64,
+      "strengths": [
+        "Mentions industry-standard CRM",
+        "Shows B2B outbound experience",
+        "Indicates quota achievement"
+      ],
+      "weaknesses": [
+        "No specific revenue numbers",
+        "Lacks details on products sold",
+        "Very basic task descriptions"
+      ],
+      "suggestions": [
+        "Quantify the monthly sales targets and revenue",
+        "Specify the number of outbound calls made daily",
+        "Use stronger action verbs"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Financial Advisor | 2017-Present\n- Advised clients on retirement planning.\n- Managed mutual fund portfolios.\n- Answered questions about the stock market.\nSKILLS: Retirement Planning, Portfolio Management, Customer Service.\nEDUCATION: BS Finance.",
+    "review": {
+      "ats_score": 71,
+      "strengths": [
+        "Relevant degree included",
+        "Covers core advisory duties",
+        "Steady tenure"
+      ],
+      "weaknesses": [
+        "No metrics on Assets Under Management (AUM)",
+        "Lacks mention of FINRA licenses",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Quantify the total AUM",
+        "List required licenses (Series 7, 66)",
+        "Add a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Social Media Manager | 2020-Present\n- Grew Twitter followers by posting engaging content.\n- Answered customer complaints in direct messages.\n- Tracked likes and shares.\nSKILLS: Twitter, Instagram, Hootsuite, Customer Service.\nEDUCATION: BA Communications.",
+    "review": {
+      "ats_score": 67,
+      "strengths": [
+        "Mentions standard management tool (Hootsuite)",
+        "Includes social customer service",
+        "Relevant educational background"
+      ],
+      "weaknesses": [
+        "No specific growth percentages",
+        "Lacks formal analytics tools",
+        "Very informal phrasing"
+      ],
+      "suggestions": [
+        "Quantify follower growth (e.g., grew by 45%)",
+        "Use professional terms (e.g., Engagement Metrics)",
+        "Mention native analytics or Google Analytics"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Bookkeeper | 2016-2022\n- Kept the ledgers balanced for a small retail shop.\n- Paid vendor bills on time.\n- Counted the cash drawer weekly.\nSKILLS: Bookkeeping, Cash Handling, Accounts Payable.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 62,
+      "strengths": [
+        "Shows long, stable tenure",
+        "Covers fundamental bookkeeping tasks",
+        "Highlights reliability (paid on time)"
+      ],
+      "weaknesses": [
+        "No software mentioned (QuickBooks, Excel)",
+        "Lacks formal accounting terminology",
+        "No transaction volume metrics"
+      ],
+      "suggestions": [
+        "Specify any accounting software used",
+        "Use formal terms like 'General Ledger Reconciliation'",
+        "Include volume of AP transactions"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "PR Specialist | 2019-Present\n- Wrote press releases for new products.\n- Sent pitches to local journalists.\n- Organized company events.\nSKILLS: Press Releases, Event Planning, Media Pitching.\nEDUCATION: BA Public Relations.",
+    "review": {
+      "ats_score": 69,
+      "strengths": [
+        "Relevant degree included",
+        "Lists core PR functions",
+        "Shows event planning capability"
+      ],
+      "weaknesses": [
+        "No metrics on media pickups or event attendance",
+        "Lacks mention of PR distribution tools",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Quantify the number of successful media placements",
+        "Mention tools like PR Newswire or Cision",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Product Owner | 2018-2022\n- Wrote user stories for the dev team.\n- Attended daily standups.\n- Checked if the product worked before launch.\nSKILLS: Agile, User Stories, Scrum, QA.\nEDUCATION: BS IT.",
+    "review": {
+      "ats_score": 73,
+      "strengths": [
+        "Mentions core Agile/Scrum ceremonies",
+        "Shows interaction with development teams",
+        "Includes QA validation experience"
+      ],
+      "weaknesses": [
+        "Lacks strategic roadmap experience",
+        "Very basic descriptions of duties",
+        "No business impact or metrics"
+      ],
+      "suggestions": [
+        "Use professional terminology (e.g., Backlog Grooming, UAT)",
+        "Detail the type of product managed",
+        "Include CSPO certification if applicable"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "B2B Sales Representative | 2020-Present\n- Sold office supplies to corporate clients.\n- Maintained existing accounts.\n- Generated leads through email.\nSKILLS: B2B Sales, Lead Generation, Account Maintenance.\nEDUCATION: BA Business.",
+    "review": {
+      "ats_score": 65,
+      "strengths": [
+        "Clear industry focus",
+        "Shows full-cycle sales exposure",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No CRM tools mentioned",
+        "Lacks revenue or quota metrics",
+        "Vague descriptions"
+      ],
+      "suggestions": [
+        "Quantify the number of accounts managed",
+        "Specify email automation tools used",
+        "Include specific sales achievements"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Marketing Coordinator | 2021-Present\n- Helped set up trade show booths.\n- Ordered promotional materials.\n- Updated the company website.\nSKILLS: Event Coordination, Vendor Ordering, CMS.\nEDUCATION: BA Marketing.",
+    "review": {
+      "ats_score": 66,
+      "strengths": [
+        "Shows practical operational support",
+        "Relevant degree",
+        "Indicates basic CMS usage"
+      ],
+      "weaknesses": [
+        "Passive action verbs ('Helped')",
+        "No specific CMS named (e.g., WordPress)",
+        "Lacks strategic marketing involvement"
+      ],
+      "suggestions": [
+        "Specify the CMS platform used",
+        "Use stronger action verbs (e.g., Coordinated, Managed)",
+        "Quantify event sizes or budgets"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Money Manager\nHandled the money for a business. Paid people. Went to the bank to deposit cash. Did math.",
+    "review": {
+      "ats_score": 41,
+      "strengths": [
+        "Indicates cash handling",
+        "Mentions payroll basics"
+      ],
+      "weaknesses": [
+        "Extremely unprofessional title and tone",
+        "No dates, formatting, or software",
+        "Irrelevant phrasing ('Did math')"
+      ],
+      "suggestions": [
+        "Change title to Accounting Clerk or Bookkeeper",
+        "Use bullet points and specific dates",
+        "Remove informal language"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Ad Guy\nMade ads for newspapers. Drew logos. Thought of slogans for the company.",
+    "review": {
+      "ats_score": 43,
+      "strengths": [
+        "Indicates copywriting experience",
+        "Shows graphic design exposure"
+      ],
+      "weaknesses": [
+        "Unprofessional title",
+        "No design software mentioned (e.g., Adobe CS)",
+        "Lacks chronological work history"
+      ],
+      "suggestions": [
+        "Rename to Advertising Specialist or Graphic Designer",
+        "List specific design software used",
+        "Format into a standard resume layout"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Salesperson\n2018-2021. Sold things to people. Answered the phone. Tried to get people to buy more.",
+    "review": {
+      "ats_score": 44,
+      "strengths": [
+        "Indicates sales experience",
+        "Shows upselling attempts"
+      ],
+      "weaknesses": [
+        "Extremely vague product descriptions",
+        "Lacks any sales metrics",
+        "Poor sentence structure"
+      ],
+      "suggestions": [
+        "Specify what products were sold",
+        "Quantify sales goals and achievements",
+        "Use professional terms like 'Upselling' and 'Inbound Sales'"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Bank Teller\nWorked at a bank for 2 years. Counted money. Smiled at customers. Used the bank computer.",
+    "review": {
+      "ats_score": 47,
+      "strengths": [
+        "Shows customer service experience",
+        "Indicates cash handling in a regulated environment"
+      ],
+      "weaknesses": [
+        "Vague software description",
+        "Subjective filler ('Smiled at customers')",
+        "No specific dates provided"
+      ],
+      "suggestions": [
+        "Provide exact dates of employment",
+        "Use terms like 'Client Relations' and 'Transaction Processing'",
+        "Quantify daily transaction volume"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Facebook Poster\nI run the facebook page. I post memes. I get likes. Sometimes I run contests.",
+    "review": {
+      "ats_score": 42,
+      "strengths": [
+        "Mentions contest administration",
+        "Shows platform familiarity"
+      ],
+      "weaknesses": [
+        "First-person perspective",
+        "Highly unprofessional job title",
+        "Lacks engagement metrics"
+      ],
+      "suggestions": [
+        "Change title to Social Media Coordinator",
+        "Remove 'I' statements",
+        "Quantify engagement rates and follower growth"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Accounting Temp\nFiled papers. Put numbers in excel. Filled out tax forms for the boss.",
+    "review": {
+      "ats_score": 45,
+      "strengths": [
+        "Mentions Excel",
+        "Indicates basic tax exposure"
+      ],
+      "weaknesses": [
+        "No formal formatting or dates",
+        "Lacks specific tax form knowledge",
+        "Vague responsibilities"
+      ],
+      "suggestions": [
+        "Specify the types of tax forms filled out",
+        "Use terms like 'Data Entry' and 'Record Maintenance'",
+        "Format chronologically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "PR Intern\nHelped with parties. Talked to the news people. Wrote down notes in meetings.",
+    "review": {
+      "ats_score": 46,
+      "strengths": [
+        "Shows media interaction",
+        "Indicates event support"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "No dates or company name",
+        "Lacks standard PR terminology"
+      ],
+      "suggestions": [
+        "Use professional phrasing (e.g., 'Media Relations', 'Event Coordination')",
+        "Include the company name and internship dates",
+        "Detail the purpose of the events"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Idea Guy\nCame up with new products. Told the engineers what to build. Made presentations.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Shows product ideation",
+        "Indicates cross-functional communication"
+      ],
+      "weaknesses": [
+        "Unprofessional title",
+        "Lacks formal product management frameworks",
+        "No concrete outcomes listed"
+      ],
+      "suggestions": [
+        "Rename to Product Manager or Innovator",
+        "Mention frameworks like Agile or Design Thinking",
+        "Quantify the success of the new products"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Cold Caller\nCalled people all day from a list. Read a script. Got yelled at. Made a few sales.",
+    "review": {
+      "ats_score": 41,
+      "strengths": [
+        "Shows resilience in outbound sales",
+        "Indicates lead generation experience"
+      ],
+      "weaknesses": [
+        "Negative and highly informal tone",
+        "No software or CRM mentioned",
+        "Lacks quantifiable sales metrics"
+      ],
+      "suggestions": [
+        "Remove negative phrasing",
+        "Use title like 'Sales Development Representative'",
+        "Quantify calls per day and sales conversion rate"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Marketing Helper\nHanded out flyers. Set up the tent at festivals. Wore the mascot suit.",
+    "review": {
+      "ats_score": 44,
+      "strengths": [
+        "Shows grassroots/field marketing experience",
+        "Indicates event setup skills"
+      ],
+      "weaknesses": [
+        "Unprofessional job title",
+        "No analytical or strategic marketing skills",
+        "Missing dates and company"
+      ],
+      "suggestions": [
+        "Rename to Brand Ambassador or Field Marketer",
+        "Include metrics on event attendance or flyers distributed",
+        "Format professionally"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Chief Medical Officer directing multi-state clinical operations. EXPERIENCE: CMO | Regional Health | 2016-Present. Managed 500+ physicians across 10 hospitals. Implemented telemedicine program scaling to 50k visits/year. Improved patient safety scores by 20%. SKILLS: Clinical Leadership, Telemedicine, Regulatory Compliance. EDU: MD, Board Certified.",
+    "review": {
+      "ats_score": 98,
+      "strengths": [
+        "Massive clinical scale and leadership",
+        "Clear technological innovation (Telemedicine)",
+        "Strong patient safety metrics"
+      ],
+      "weaknesses": [
+        "Brief descriptions of regulatory oversight",
+        "Missing specific EMR software management"
+      ],
+      "suggestions": [
+        "Include EMR implementations (e.g., Epic, Cerner)",
+        "Elaborate on joint commission audits"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Senior Civil Engineer | Infrastructure Inc | 2014-Present\n- Led $50M highway expansion project, delivering 2 months ahead of schedule.\n- Conducted structural analysis using AutoCAD Civil 3D and STAAD.Pro.\n- Secured municipal environmental permits. \nSKILLS: AutoCAD, Structural Design, Permitting, Project Management. EDU: MS Civil Engineering, PE.",
+    "review": {
+      "ats_score": 93,
+      "strengths": [
+        "Massive project budget metric",
+        "Lists top-tier engineering software",
+        "Includes prestigious PE license"
+      ],
+      "weaknesses": [
+        "Missing a professional summary",
+        "Could detail team leadership"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Mention the size of the engineering team managed"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Director of Nursing elevating patient care standards. EXPERIENCE: DON | Metro Hospital | 2015-Present. Oversee 200+ nursing staff and a $15M budget. Reduced hospital-acquired infections by 35%. Ensured 100% compliance during JCAHO surveys. SKILLS: Clinical Operations, JCAHO, Infection Control, Budgeting. EDU: MSN, RN.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Exceptional quality improvement metrics",
+        "Clear financial and personnel scale",
+        "Strong regulatory compliance record"
+      ],
+      "weaknesses": [
+        "Brief education section",
+        "Lacks details on staff retention initiatives"
+      ],
+      "suggestions": [
+        "Include metrics on staff turnover reduction",
+        "Mention specific EMR proficiency"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Principal Mechanical Engineer | AeroDynamics | 2013-Present\n- Designed propulsion housings for commercial aircraft, reducing weight by 12%.\n- Integrated CFD analysis into prototyping, cutting iteration cycles by 30%.\n- Hold 2 patents for heat dissipation. \nSKILLS: SolidWorks, CFD, Thermodynamics, FEA. EDU: MS Mechanical Engineering.",
+    "review": {
+      "ats_score": 95,
+      "strengths": [
+        "Strong aerospace design achievements",
+        "Mentions patents",
+        "Clear software and theoretical skills"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Lacks cross-functional team leadership details"
+      ],
+      "suggestions": [
+        "Add a summary highlighting aerospace expertise",
+        "Mention collaboration with electrical/systems engineers"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Lead Clinical Researcher specializing in Phase III trials. EXPERIENCE: Lead Researcher | PharmaCo | 2015-Present. Directed multi-center oncology trials resulting in FDA approval of a key therapeutic. Managed trial master files and strict GCP compliance. SKILLS: FDA Regulations, GCP, Oncology, EDC Systems. EDU: PhD Biology.",
+    "review": {
+      "ats_score": 94,
+      "strengths": [
+        "Highlights FDA approval success",
+        "Strong regulatory knowledge (GCP)",
+        "Advanced academic degree"
+      ],
+      "weaknesses": [
+        "No metrics on patient enrollment",
+        "Brief task descriptions"
+      ],
+      "suggestions": [
+        "Quantify the number of sites or patients managed",
+        "Specify the EDC systems utilized"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Chief Structural Engineer | BuildCorp | 2012-Present\n- Architected framework for 3 commercial skyscrapers.\n- Utilized ANSYS for stress testing, saving $2M in materials.\n- Ensured 100% OSHA safety compliance across all design phases.\nSKILLS: Structural Analysis, ANSYS, AutoCAD, OSHA. EDU: MS Structural Engineering, PE.",
+    "review": {
+      "ats_score": 93,
+      "strengths": [
+        "Large-scale commercial project experience",
+        "Clear cost-saving material metrics",
+        "Includes PE license"
+      ],
+      "weaknesses": [
+        "Missing a professional summary",
+        "Could expand on field inspection duties"
+      ],
+      "suggestions": [
+        "Add a professional summary",
+        "Detail collaboration with architects and contractors"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: VP of R&D driving innovative product development. EXPERIENCE: VP R&D | MedTech | 2014-Present. Managed $25M R&D budget, bringing 5 new medical devices to market. Streamlined product lifecycle reducing time-to-market by 20%. SKILLS: R&D Strategy, Medical Devices, FDA 510(k), Budget Management. EDU: MBA, MS Engineering.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Strong pipeline delivery metrics",
+        "Clear FDA regulatory knowledge",
+        "Excellent budget management"
+      ],
+      "weaknesses": [
+        "Team size is missing",
+        "Very brief descriptions for a VP role"
+      ],
+      "suggestions": [
+        "Quantify the number of engineers managed",
+        "Expand on specific medical device technologies"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Senior Aerospace Engineer | OrbitSpace | 2015-Present\n- Developed guidance systems for low-earth orbit satellites.\n- Performed complex orbital mechanics simulations in MATLAB.\n- Led a 10-person engineering pod. \nSKILLS: MATLAB, Orbital Mechanics, Systems Engineering, Avionics. EDU: BS Aerospace Engineering.",
+    "review": {
+      "ats_score": 91,
+      "strengths": [
+        "Highly specialized technical domain",
+        "Shows specific tool usage (MATLAB)",
+        "Includes team leadership"
+      ],
+      "weaknesses": [
+        "No summary provided",
+        "Lacks hardware-in-the-loop testing details"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Mention specific simulation tools or test methodologies"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Hospital Administrator focused on operational excellence. EXPERIENCE: Administrator | City General | 2016-Present. Directed administrative functions for a 300-bed facility. Implemented lean workflows reducing ER wait times by 25%. Managed $50M operating budget. SKILLS: Operations, P&L, Lean Healthcare, Compliance. EDU: MHA.",
+    "review": {
+      "ats_score": 94,
+      "strengths": [
+        "Clear operational scale (300 beds)",
+        "Strong efficiency metric (ER wait times)",
+        "Relevant advanced degree (MHA)"
+      ],
+      "weaknesses": [
+        "Missing details on physician relations",
+        "Lacks EMR strategy details"
+      ],
+      "suggestions": [
+        "Mention collaboration with clinical leadership",
+        "Include details on healthcare IT management"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Lead Electrical Engineer | PowerSystems | 2013-Present\n- Designed high-voltage distribution networks for 5 municipal grids.\n- Programmed PLC logic optimizing grid load balancing by 15%.\n- Authored safety standards for field technicians.\nSKILLS: Power Distribution, PLC, AutoCAD Electrical, SCADA. EDU: MS EE, PE License.",
+    "review": {
+      "ats_score": 93,
+      "strengths": [
+        "Strong municipal scale projects",
+        "Clear technical and software skills",
+        "Includes PE license"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Lacks specific budget metrics"
+      ],
+      "suggestions": [
+        "Add a summary highlighting utility experience",
+        "Quantify the monetary value of the grid projects"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Registered Nurse | 2018-Present\n- Provided direct care to patients in the Med-Surg unit.\n- Administered medications and updated patient charts in Epic.\n- Educated patients on post-discharge care.\nSKILLS: Med-Surg, Epic EMR, Patient Education, BLS/ACLS.\nEDUCATION: BSN, RN License.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Lists relevant unit experience",
+        "Mentions industry-standard EMR",
+        "Includes necessary licensure"
+      ],
+      "weaknesses": [
+        "No patient load metrics (ratio)",
+        "Vague on specific clinical procedures performed",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Quantify the typical patient-to-nurse ratio",
+        "Add a professional summary",
+        "Detail specific medical treatments administered"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Junior CAD Drafter | 2021-Present\n- Updated blueprints for senior engineers.\n- Used AutoCAD to draw basic floor plans.\n- Printed and organized schematic files.\nSKILLS: AutoCAD, Drafting, Blueprints, Organization.\nEDUCATION: Associates in Drafting.",
+    "review": {
+      "ats_score": 66,
+      "strengths": [
+        "Mentions core software (AutoCAD)",
+        "Relevant educational background",
+        "Clear entry-level support role"
+      ],
+      "weaknesses": [
+        "No scale or project types mentioned",
+        "Lacks 3D modeling experience",
+        "Very basic task descriptions"
+      ],
+      "suggestions": [
+        "Specify the types of buildings or parts drafted",
+        "Include 3D tools like Revit or SolidWorks if known",
+        "Use stronger action verbs"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Clinical Tech | 2019-2023\n- Cleaned laboratory equipment.\n- Recorded patient vitals before doctor visits.\n- Entered data into the computer system.\nSKILLS: Vitals, Data Entry, Lab Safety, Customer Service.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 64,
+      "strengths": [
+        "Shows foundational clinical support",
+        "Mentions lab safety",
+        "Stable tenure"
+      ],
+      "weaknesses": [
+        "Vague phrasing ('the computer system')",
+        "No patient volume metrics",
+        "Lacks formal clinical certifications"
+      ],
+      "suggestions": [
+        "Name the specific EMR system used",
+        "Quantify the number of patients seen daily",
+        "Pursue and list a CMA or CNA certification"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Mechanical Designer | 2017-2022\n- Designed metal brackets using SolidWorks.\n- Checked parts for quality control.\n- Worked with the manufacturing team.\nSKILLS: SolidWorks, Quality Control, Machining.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Relevant engineering degree",
+        "Mentions primary CAD software",
+        "Shows cross-functional interaction"
+      ],
+      "weaknesses": [
+        "No complex design achievements",
+        "Lacks GD&T mention",
+        "Very brief bullet points"
+      ],
+      "suggestions": [
+        "Add specific details about Geometric Dimensioning & Tolerancing (GD&T)",
+        "Quantify the number of parts designed",
+        "Include a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Lab Assistant | 2020-Present\n- Mixed chemicals for experiments.\n- Cleaned test tubes and organized the lab.\n- Logged results into an Excel spreadsheet.\nSKILLS: Excel, Chemistry Basics, Organization.\nEDUCATION: BS Biology.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Relevant scientific degree",
+        "Shows practical lab maintenance",
+        "Mentions data logging"
+      ],
+      "weaknesses": [
+        "Informal language ('Mixed chemicals')",
+        "No advanced laboratory software mentioned",
+        "Lacks detail on specific assays or protocols"
+      ],
+      "suggestions": [
+        "Use professional terms like 'Reagent Preparation'",
+        "Name specific lab techniques (e.g., PCR, ELISA)",
+        "Quantify the volume of experiments supported"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Field Engineer | 2018-2023\n- Went to construction sites to check progress.\n- Read blueprints and checked materials.\n- Wrote reports for the project manager.\nSKILLS: Site Inspection, Blueprints, Reporting.\nEDUCATION: BS Civil Engineering.",
+    "review": {
+      "ats_score": 69,
+      "strengths": [
+        "Relevant degree",
+        "Shows hands-on site experience",
+        "Includes reporting duties"
+      ],
+      "weaknesses": [
+        "Informal phrasing ('Went to')",
+        "No specific project types or sizes",
+        "Lacks mention of safety regulations (OSHA)"
+      ],
+      "suggestions": [
+        "Use professional terms like 'Conducted Site Inspections'",
+        "Specify the budget or scale of construction projects",
+        "Mention OSHA or local building codes"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Healthcare Billing Specialist | 2019-Present\n- Submitted claims to insurance companies.\n- Followed up on denied claims.\n- Answered patient phone calls about bills.\nSKILLS: Medical Billing, Claims Processing, Customer Service.\nEDUCATION: Billing Certificate.",
+    "review": {
+      "ats_score": 73,
+      "strengths": [
+        "Covers core billing lifecycle",
+        "Mentions denial management",
+        "Includes formal certification"
+      ],
+      "weaknesses": [
+        "No specific coding systems mentioned (ICD-10, CPT)",
+        "Lacks billing software names",
+        "No metrics on claims volume or recovery"
+      ],
+      "suggestions": [
+        "List specific coding knowledge (ICD-10)",
+        "Name the billing software used",
+        "Quantify the dollar amount of denied claims recovered"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "HVAC Engineer | 2016-2022\n- Designed air conditioning systems for offices.\n- Calculated heating loads.\n- Talked to contractors during installation.\nSKILLS: HVAC Design, Load Calculations, AutoCAD.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 71,
+      "strengths": [
+        "Clear niche focus",
+        "Mentions load calculations",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No specific software for load calculations (e.g., Trane TRACE)",
+        "Vague building sizes",
+        "No professional summary"
+      ],
+      "suggestions": [
+        "Specify the square footage of the offices designed",
+        "List specialized HVAC software",
+        "Add an executive summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Medical Assistant | 2020-Present\n- Brought patients to the exam room.\n- Took blood pressure and weight.\n- Scheduled follow-up appointments.\nSKILLS: Vitals, Scheduling, Patient Care.\nEDUCATION: Medical Assistant Diploma.",
+    "review": {
+      "ats_score": 67,
+      "strengths": [
+        "Covers essential MA duties",
+        "Mentions scheduling",
+        "Relevant diploma"
+      ],
+      "weaknesses": [
+        "Lacks phlebotomy or injection experience",
+        "No EMR software mentioned",
+        "Very brief descriptions"
+      ],
+      "suggestions": [
+        "Mention specific EMRs (e.g., eClinicalWorks)",
+        "Include clinical skills like phlebotomy or EKGs if applicable",
+        "Quantify daily patient volume"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Civil Drafter | 2018-2023\n- Drafted roads and pipes using CAD.\n- Printed maps for the city planners.\n- Fixed old drawings.\nSKILLS: CAD, Drafting, Maps.\nEDUCATION: Associates in Civil Technology.",
+    "review": {
+      "ats_score": 65,
+      "strengths": [
+        "Relevant educational background",
+        "Shows municipal project exposure",
+        "Mentions CAD"
+      ],
+      "weaknesses": [
+        "Does not specify AutoCAD Civil 3D or MicroStation",
+        "Informal phrasing",
+        "No scale of projects provided"
+      ],
+      "suggestions": [
+        "Specify the exact CAD software used",
+        "Use terms like 'Drafted infrastructure and utility plans'",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Nurse Helper\nHelped the nurses. Gave people water and blankets. Pushed wheelchairs. 2 years.",
+    "review": {
+      "ats_score": 42,
+      "strengths": [
+        "Shows compassion and patient interaction",
+        "Indicates healthcare environment exposure"
+      ],
+      "weaknesses": [
+        "Unprofessional title",
+        "No dates, formatting, or medical terminology",
+        "Lacks clinical skills"
+      ],
+      "suggestions": [
+        "Rename to Patient Care Assistant",
+        "Format chronologically with exact dates",
+        "Include any formal certifications like BLS or CPR"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Drawing Guy\nDrew pictures of machine parts on the computer. Sent them to the boss. 2019-2021.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Indicates drafting experience",
+        "Shows basic communication with management"
+      ],
+      "weaknesses": [
+        "Extremely informal job title",
+        "No software named (e.g., AutoCAD)",
+        "Missing company name and professional formatting"
+      ],
+      "suggestions": [
+        "Change title to CAD Drafter",
+        "Specify the software used",
+        "Use professional bullet points"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Lab Cleaner\nWashed beakers. Swept the lab floor. Threw away old experiments. 3 years experience.",
+    "review": {
+      "ats_score": 44,
+      "strengths": [
+        "Shows lab environment familiarity",
+        "Indicates 3 years of stability"
+      ],
+      "weaknesses": [
+        "Very basic responsibilities",
+        "Unprofessional phrasing",
+        "Lacks specific safety protocols"
+      ],
+      "suggestions": [
+        "Rename to Laboratory Assistant",
+        "Use terms like 'Maintained sterile equipment' and 'Hazardous waste disposal'",
+        "Include any OSHA or lab safety training"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Machine Fixer\nFixed the big machines when they broke. Oiled them. Used wrenches. 5 years.",
+    "review": {
+      "ats_score": 43,
+      "strengths": [
+        "Indicates mechanical maintenance experience",
+        "Long tenure"
+      ],
+      "weaknesses": [
+        "Unprofessional title",
+        "No specific machinery types mentioned",
+        "Missing dates and company names"
+      ],
+      "suggestions": [
+        "Rename to Maintenance Mechanic",
+        "Specify the types of industrial equipment maintained",
+        "Format with standard resume sections"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Health Temp\nWorked at a clinic for a few months. Answered phones. Filed papers in the back room.",
+    "review": {
+      "ats_score": 45,
+      "strengths": [
+        "Shows front-office exposure",
+        "Indicates filing and phone skills"
+      ],
+      "weaknesses": [
+        "Title is dismissive of own experience",
+        "No specific duration or dates",
+        "Lacks medical software exposure"
+      ],
+      "suggestions": [
+        "Rename to Administrative Clinic Assistant",
+        "Provide exact dates of employment",
+        "Use bullet points for duties"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Builder\nHammered wood. Poured concrete. Drove the truck. Built houses.",
+    "review": {
+      "ats_score": 41,
+      "strengths": [
+        "Shows hands-on construction skills",
+        "Mentions varied tasks"
+      ],
+      "weaknesses": [
+        "Extremely brief",
+        "Lacks safety certifications or OSHA mentions",
+        "No chronological history"
+      ],
+      "suggestions": [
+        "Rename to Construction Worker or Carpenter",
+        "Include specific project types and dates",
+        "Add any safety training (OSHA 10)"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Medical Biller\nTried to get insurance to pay us. Looked at computer screens. Made phone calls.",
+    "review": {
+      "ats_score": 46,
+      "strengths": [
+        "Indicates claims follow-up",
+        "Shows phone communication"
+      ],
+      "weaknesses": [
+        "Informal and slightly negative tone",
+        "No coding knowledge listed",
+        "No software mentioned"
+      ],
+      "suggestions": [
+        "Use professional phrasing like 'Insurance Claims Follow-up'",
+        "List specific billing software",
+        "Include metrics on recovered revenue"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "AC Repair\nWent to houses and fixed their AC. Changed filters. Checked the freon. 4 years.",
+    "review": {
+      "ats_score": 47,
+      "strengths": [
+        "Shows specific trade experience",
+        "Mentions core AC maintenance tasks"
+      ],
+      "weaknesses": [
+        "Unprofessional job title",
+        "No EPA certification listed",
+        "Lacks company and date formatting"
+      ],
+      "suggestions": [
+        "Rename to HVAC Technician",
+        "Add EPA Section 608 certification if held",
+        "Format into a standard work history section"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Clinic Worker\nChecked people in. Weighed them. Wrote down why they were there.",
+    "review": {
+      "ats_score": 44,
+      "strengths": [
+        "Covers basic intake duties",
+        "Shows patient interaction"
+      ],
+      "weaknesses": [
+        "Unprofessional phrasing",
+        "No medical terminology used",
+        "Missing formatting and dates"
+      ],
+      "suggestions": [
+        "Rename to Clinic Assistant or Intake Coordinator",
+        "Use terms like 'Recorded Chief Complaint'",
+        "Specify the type of clinic"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Bridge Helper\nHelped build a bridge. Carried steel. Wore a hard hat. 2020.",
+    "review": {
+      "ats_score": 42,
+      "strengths": [
+        "Indicates heavy civil construction experience",
+        "Mentions safety equipment"
+      ],
+      "weaknesses": [
+        "Very informal title and description",
+        "Extremely brief",
+        "No specific skills or tools listed"
+      ],
+      "suggestions": [
+        "Rename to Ironworker Apprentice or Construction Laborer",
+        "List specific tools and machinery operated",
+        "Use standard bullet points"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "HR Generalist | 2018-Present\n- Managed employee onboarding and orientation.\n- Administered healthcare benefits.\n- Handled employee complaints.\nSKILLS: Onboarding, Benefits, Employee Relations.\nEDUCATION: BA Human Resources.",
+    "review": {
+      "ats_score": 71,
+      "strengths": [
+        "Covers core HR functions",
+        "Relevant degree",
+        "Stable tenure"
+      ],
+      "weaknesses": [
+        "No HRIS software mentioned (e.g., Workday)",
+        "Lacks metrics on employee headcount",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Name the HRIS or payroll software used",
+        "Quantify the number of employees supported",
+        "Use professional terms for conflict resolution"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Operations Manager | 2016-2022\n- Oversaw daily warehouse operations.\n- Scheduled staff shifts.\n- Ordered supplies when low.\nSKILLS: Operations, Scheduling, Inventory.\nEDUCATION: BS Business.",
+    "review": {
+      "ats_score": 69,
+      "strengths": [
+        "Shows facility leadership",
+        "Mentions inventory and scheduling",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No facility size or budget metrics",
+        "Lacks process improvement details (e.g., Lean)",
+        "Very basic descriptions"
+      ],
+      "suggestions": [
+        "Quantify the square footage and team size",
+        "Mention any specific ERP or WMS systems used",
+        "Detail specific efficiency improvements"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Logistics Coordinator | 2019-Present\n- Tracked truck shipments.\n- Called drivers to check status.\n- Updated spreadsheets with delivery times.\nSKILLS: Tracking, Excel, Communication.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 65,
+      "strengths": [
+        "Covers basic freight tracking",
+        "Shows communication skills",
+        "Mentions Excel"
+      ],
+      "weaknesses": [
+        "No specific transportation management software (TMS)",
+        "Lacks volume metrics",
+        "Very brief bullet points"
+      ],
+      "suggestions": [
+        "Specify the TMS used",
+        "Quantify daily shipment volume",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Talent Acquisition Specialist | 2017-2022\n- Interviewed candidates for jobs.\n- Posted job descriptions online.\n- Went to career fairs.\nSKILLS: Interviewing, Job Boards, Sourcing.\nEDUCATION: BA Communications.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Relevant degree",
+        "Covers full-cycle basics",
+        "Mentions external sourcing (career fairs)"
+      ],
+      "weaknesses": [
+        "No ATS named",
+        "Lacks hiring volume metrics",
+        "Vague descriptions"
+      ],
+      "suggestions": [
+        "Name the Applicant Tracking System used (e.g., Greenhouse)",
+        "Quantify the number of hires made annually",
+        "Mention specific roles recruited for"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Supply Chain Analyst | 2020-Present\n- Looked at supply chain data to find savings.\n- Made reports for the director.\n- Talked to vendors about pricing.\nSKILLS: Data Analysis, Vendor Management, Reporting.\nEDUCATION: BS Supply Chain.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Highly relevant degree",
+        "Shows cost-saving focus",
+        "Includes vendor negotiation"
+      ],
+      "weaknesses": [
+        "No specific analytical tools named (SQL, Tableau)",
+        "Informal phrasing",
+        "Lacks quantifiable savings"
+      ],
+      "suggestions": [
+        "Specify data tools used",
+        "Quantify the monetary savings achieved",
+        "Use professional language (e.g., 'Analyzed data')"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Office Manager | 2015-2022\n- Bought office supplies.\n- Answered the main phone line.\n- Welcomed guests to the office.\nSKILLS: Ordering, Phones, Customer Service.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 63,
+      "strengths": [
+        "Shows long tenure",
+        "Covers basic front-desk duties",
+        "Indicates hospitality skills"
+      ],
+      "weaknesses": [
+        "No budget management mentioned",
+        "Lacks software skills (Microsoft Office)",
+        "Very brief descriptions"
+      ],
+      "suggestions": [
+        "Mention specific software used (Word, Excel)",
+        "Include any bookkeeping or budget tasks",
+        "Quantify the office size"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Warehouse Supervisor | 2016-Present\n- Watched over 15 warehouse workers.\n- Made sure trucks were loaded on time.\n- Locked up the building at night.\nSKILLS: Supervision, Loading, Security.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 67,
+      "strengths": [
+        "Clear team leadership metric",
+        "Shows responsibility for facility security",
+        "Stable tenure"
+      ],
+      "weaknesses": [
+        "No mention of safety regulations (OSHA)",
+        "Lacks inventory system exposure",
+        "Informal phrasing"
+      ],
+      "suggestions": [
+        "Mention OSHA or safety enforcement",
+        "Specify warehouse management software",
+        "Use professional terms (e.g., 'Directed 15 personnel')"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Benefits Coordinator | 2019-2023\n- Helped employees sign up for health insurance.\n- Answered questions about 401k.\n- Mailed paperwork to the insurance company.\nSKILLS: Benefits Administration, 401k, Communication.\nEDUCATION: BA HR.",
+    "review": {
+      "ats_score": 70,
+      "strengths": [
+        "Relevant degree",
+        "Clear focus on benefits",
+        "Shows employee support"
+      ],
+      "weaknesses": [
+        "No HRIS or benefits software mentioned",
+        "Vague phrasing",
+        "No summary"
+      ],
+      "suggestions": [
+        "Name the enrollment platforms used",
+        "Use terms like 'Open Enrollment Facilitation'",
+        "Quantify the number of employees supported"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Fleet Manager | 2017-Present\n- Kept track of 50 delivery vans.\n- Scheduled oil changes and repairs.\n- Checked GPS to see where drivers were.\nSKILLS: Fleet Maintenance, GPS Tracking, Scheduling.\nEDUCATION: Logistics Certificate.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Quantified fleet size",
+        "Covers maintenance scheduling",
+        "Mentions telematics (GPS)"
+      ],
+      "weaknesses": [
+        "No budget or cost reduction metrics",
+        "Lacks specific software names",
+        "Informal language"
+      ],
+      "suggestions": [
+        "Specify the GPS/Telematics software used",
+        "Include any fuel cost savings achieved",
+        "Use professional bullet points"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Administrative Assistant | 2020-2023\n- Typed up documents for the boss.\n- Organized the filing cabinet.\n- Scheduled meetings on the calendar.\nSKILLS: Typing, Filing, Calendars.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 64,
+      "strengths": [
+        "Covers essential admin tasks",
+        "Shows calendar management",
+        "Indicates organizational skills"
+      ],
+      "weaknesses": [
+        "No specific software listed (Outlook, Word)",
+        "Lacks detail on the complexity of the calendar",
+        "Very basic phrasing"
+      ],
+      "suggestions": [
+        "Explicitly list Microsoft Office Suite skills",
+        "Use terms like 'Executive Calendar Management'",
+        "Add a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  }
+]
+[
+  {
+    "resume_text": "EXPERIENCE\nHealthcare IT Director | 2016-Present\n- Led $5M Epic EHR integration across 12 clinics, achieving 100% Meaningful Use.\n- Directed 25-person health informatics team.\nSKILLS: EHR, HL7, HIPAA, Healthcare IT Strategy.\nEDUCATION: MS Health Informatics.",
+    "review": {
+      "ats_score": 94,
+      "strengths": [
+        "Highly quantified budget and scale",
+        "Lists specific healthcare IT protocols like HL7",
+        "Clear leadership of specialized teams"
+      ],
+      "weaknesses": [
+        "Missing professional executive summary",
+        "Does not detail vendor management strategies",
+        "Lacks specific early career progression"
+      ],
+      "suggestions": [
+        "Add a summary highlighting healthcare informatics expertise",
+        "Include metrics on system uptime or support tickets",
+        "Specify collaboration with clinical staff"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "SUMMARY: Clinical Director improving patient care.\nEXPERIENCE: Clinical Director | 2015-2023\n- Managed 50 clinical staff.\n- Reduced patient wait times by 20%.\n- Ensured OSHA compliance.\nSKILLS: Clinical Operations, OSHA, Staffing, Budgeting.\nEDUCATION: MHA.",
+    "review": {
+      "ats_score": 88,
+      "strengths": [
+        "Excellent efficiency metric for wait times",
+        "Relevant advanced degree (MHA)",
+        "Shows clear compliance knowledge"
+      ],
+      "weaknesses": [
+        "Very brief descriptions of duties",
+        "Missing specific budgeting dollar amounts",
+        "Lacks EMR software proficiency"
+      ],
+      "suggestions": [
+        "Quantify the managed budget",
+        "List specific healthcare management software used",
+        "Expand on specific quality of care improvements"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Healthcare Coordinator | 2018-Present\n- Scheduled patient appointments for 5 doctors.\n- Maintained HIPAA compliant records.\n- Processed insurance claims.\nSKILLS: HIPAA, Scheduling, Insurance Verification, Medical Billing.\nEDUCATION: BS Healthcare Administration.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Covers core front-office clinical duties",
+        "Mentions critical compliance framework",
+        "Relevant educational background"
+      ],
+      "weaknesses": [
+        "No metrics on patient volume",
+        "Lacks specific medical billing software",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Quantify daily patient or call volume",
+        "Name specific scheduling systems (e.g., Cerner, Epic)",
+        "Include metrics on claim denial reduction"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Medical Assistant | 2020-2023\n- Took patient vitals.\n- Updated EMR system.\n- Cleaned exam rooms.\nSKILLS: Vitals, EMR, Patient Care.\nEDUCATION: MA Certificate.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Highlights essential clinical support tasks",
+        "Mentions EMR usage",
+        "Includes relevant certification"
+      ],
+      "weaknesses": [
+        "Extremely brief bullet points",
+        "No specific EMR platform named",
+        "Lacks phlebotomy or injection experience"
+      ],
+      "suggestions": [
+        "Specify the exact EMR utilized",
+        "Add any specialized clinical skills performed",
+        "Use professional phrasing for room maintenance"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Clinic Worker\nAnswered phones at the doctor's office. Helped patients fill out forms. 2021 to now. Good at talking to people.",
+    "review": {
+      "ats_score": 45,
+      "strengths": [
+        "Shows basic patient interaction",
+        "Indicates front-desk exposure",
+        "Notes current employment"
+      ],
+      "weaknesses": [
+        "Highly unprofessional job title",
+        "Lacks exact dates and formatting",
+        "Missing all healthcare terminology"
+      ],
+      "suggestions": [
+        "Rename to Medical Receptionist or Clinic Assistant",
+        "Format using standard bullet points",
+        "Use terms like 'Patient Intake' and 'Records Management'"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Health Temp\nFiled papers in the back of the hospital. Used a computer to type names. 1 year.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Indicates hospital environment exposure",
+        "Mentions data entry basics",
+        "Shows administrative support"
+      ],
+      "weaknesses": [
+        "Dismissive and informal tone",
+        "No specific software mentioned",
+        "Lacks company name and specific dates"
+      ],
+      "suggestions": [
+        "Use a professional title like Health Information Clerk",
+        "Detail the types of records filed",
+        "Include strict adherence to privacy policies"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nDirector of Nursing | 2014-Present\n- Managed a 150-bed facility with $20M budget.\n- Decreased hospital-acquired infections by 30%.\n- Oversaw 200+ RNs and LPNs, maintaining JCAHO compliance.\nSKILLS: Clinical Leadership, JCAHO, Budgeting, Infection Control.\nEDUCATION: MSN, NEA-BC.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive clinical and financial scale",
+        "Excellent infection control metrics",
+        "Holds advanced nursing leadership certification"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Lacks details on staff retention initiatives",
+        "Missing specific technology/EMR oversight"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Include metrics on nursing staff turnover",
+        "Mention specific clinical software utilized"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "ICU Charge Nurse | 2016-2023\n- Led a 15-bed intensive care unit, supervising 10 nurses per shift.\n- Documented critical patient data in Epic EMR.\n- Certified in ACLS, BLS, and CCRN.\nSKILLS: Critical Care, Epic EMR, Team Leadership, ACLS/BLS.\nEDUCATION: BSN.",
+    "review": {
+      "ats_score": 89,
+      "strengths": [
+        "Strong leadership in high-stress environment",
+        "Mentions specific industry-standard EMR",
+        "Lists critical care certifications"
+      ],
+      "weaknesses": [
+        "Could expand on specific critical care procedures",
+        "Lacks patient outcome metrics",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Detail specific life-saving interventions managed",
+        "Add metrics on unit efficiency or patient satisfaction",
+        "Include a brief career objective"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Travel RN | 2019-Present\n- Completed 13-week assignments in various Med-Surg units.\n- Administered medications to 5-6 patients per shift.\n- Collaborated with doctors on care plans.\nSKILLS: Med-Surg, Medication Administration, Adaptability.\nEDUCATION: ADN, RN License.",
+    "review": {
+      "ats_score": 78,
+      "strengths": [
+        "Shows high adaptability across facilities",
+        "Quantifies patient load",
+        "Highlights core nursing duties"
+      ],
+      "weaknesses": [
+        "No specific EMRs mentioned",
+        "Lacks BSN degree",
+        "Vague collaboration details"
+      ],
+      "suggestions": [
+        "List all EMR systems used across different assignments",
+        "Specify types of medications or complex treatments",
+        "Consider pursuing a BSN to increase ATS scoring"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Pediatric Nurse | 2017-2022\n- Cared for pediatric patients.\n- Charted patient progress.\n- Educated parents on discharge instructions.\nSKILLS: Pediatrics, Charting, Patient Education.\nEDUCATION: BSN.",
+    "review": {
+      "ats_score": 65,
+      "strengths": [
+        "Clear specialty focus",
+        "Includes patient education duties",
+        "Relevant degree listed"
+      ],
+      "weaknesses": [
+        "Extremely vague bullet points",
+        "No patient volume metrics",
+        "Missing specific medical technologies"
+      ],
+      "suggestions": [
+        "Quantify the number of patients seen daily",
+        "Specify charting software used",
+        "Detail common pediatric conditions treated"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Nurse\nGave out medicine. Talked to sick people. Helped the doctors. 4 years of doing this. Have my license.",
+    "review": {
+      "ats_score": 42,
+      "strengths": [
+        "Indicates active licensure",
+        "Shows patient care experience",
+        "Mentions medication administration"
+      ],
+      "weaknesses": [
+        "Highly informal and unprofessional tone",
+        "No specific dates, hospitals, or unit types",
+        "Lacks proper formatting"
+      ],
+      "suggestions": [
+        "Use professional medical terminology",
+        "Format chronologically with clear facility names",
+        "Specify the type of license (RN, LPN)"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "CNA Helper\nHelped people in beds. Cleaned the rooms. Brought them food. Worked hard every day.",
+    "review": {
+      "ats_score": 39,
+      "strengths": [
+        "Shows foundational patient assistance",
+        "Indicates willingness to do manual tasks",
+        "Highlights basic care routines"
+      ],
+      "weaknesses": [
+        "Unprofessional title and formatting",
+        "No certifications listed explicitly",
+        "Missing dates and metrics"
+      ],
+      "suggestions": [
+        "Rename to Certified Nursing Assistant",
+        "Use terms like 'Activities of Daily Living (ADLs)'",
+        "List the CNA certification and expiration date"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nClinical Trial Manager | 2015-Present\n- Managed Phase III oncology trials across 20 international sites.\n- Ensured strict FDA and GCP compliance, leading to successful drug approval.\n- Designed EDC databases resulting in 15% faster data lock.\nSKILLS: Trial Management, FDA Regulations, GCP, EDC Systems, Oncology.\nEDUCATION: MS Clinical Research.",
+    "review": {
+      "ats_score": 95,
+      "strengths": [
+        "Highlights specific trial phases and therapeutic areas",
+        "Shows direct impact on drug approval",
+        "Quantifies database efficiency improvements"
+      ],
+      "weaknesses": [
+        "Lacks budget management details",
+        "No mention of specific EDC platforms",
+        "Missing a professional summary"
+      ],
+      "suggestions": [
+        "Name the EDC systems used (e.g., Medidata Rave)",
+        "Include the financial size of the trials managed",
+        "Add a summary section"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Principal Investigator | 2012-2023\n- Led oncology research securing $2M in NIH grant funding.\n- Published 10 peer-reviewed papers in top-tier medical journals.\n- Managed a lab of 15 researchers and technicians.\nSKILLS: Grant Writing, Oncology, Team Leadership, Clinical Research.\nEDUCATION: MD, PhD.",
+    "review": {
+      "ats_score": 92,
+      "strengths": [
+        "Exceptional grant funding metrics",
+        "Strong publication record",
+        "Prestigious dual degrees"
+      ],
+      "weaknesses": [
+        "Brief bullet points for a high-level role",
+        "Lacks mention of specific laboratory techniques",
+        "No cross-functional collaboration details"
+      ],
+      "suggestions": [
+        "Expand on the specific oncology focus",
+        "Mention collaboration with pharmaceutical sponsors",
+        "Detail specific statistical analysis methods used"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Clinical Research Associate | 2018-Present\n- Conducted site initiation, routine monitoring, and close-out visits.\n- Verified source data against EDC entries.\n- Ensured adherence to GCP guidelines.\nSKILLS: Site Monitoring, GCP, EDC, Source Data Verification.\nEDUCATION: BS Biology.",
+    "review": {
+      "ats_score": 79,
+      "strengths": [
+        "Covers the full lifecycle of site monitoring",
+        "Mentions essential compliance guidelines (GCP)",
+        "Relevant science degree"
+      ],
+      "weaknesses": [
+        "No metrics on the number of sites monitored",
+        "Lacks therapeutic area specialization",
+        "No professional summary"
+      ],
+      "suggestions": [
+        "Quantify the number of concurrent sites managed",
+        "Specify therapeutic areas (e.g., Cardiology, Neurology)",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Clinical Data Coordinator | 2019-2023\n- Entered patient data into the system.\n- Resolved data queries with nurses.\n- Kept trial files organized.\nSKILLS: Data Entry, Query Resolution, Organization.\nEDUCATION: BA Public Health.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Shows foundational clinical data management",
+        "Highlights query resolution experience",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "Very vague descriptions",
+        "No specific EDC or database software named",
+        "Lacks volume metrics"
+      ],
+      "suggestions": [
+        "Specify the electronic data capture systems used",
+        "Quantify the number of queries resolved daily",
+        "Use professional terms like 'Trial Master File (TMF)'"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Research Helper\nWashed the test tubes. Watched the mice to see what they did. Wrote notes in a notebook. 2 years.",
+    "review": {
+      "ats_score": 41,
+      "strengths": [
+        "Indicates in-vivo animal research exposure",
+        "Shows basic lab maintenance",
+        "Mentions observational documentation"
+      ],
+      "weaknesses": [
+        "Extremely informal job title and tone",
+        "Lacks specific scientific terminology",
+        "No dates or institution names"
+      ],
+      "suggestions": [
+        "Rename to Laboratory Assistant or Animal Technician",
+        "Use terms like 'In-vivo observations' and 'Equipment sterilization'",
+        "Format chronologically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Lab Guy\nPut data into excel. Checked the numbers. Helped the scientists do their jobs.",
+    "review": {
+      "ats_score": 37,
+      "strengths": [
+        "Mentions spreadsheet software",
+        "Shows data verification",
+        "Indicates support role experience"
+      ],
+      "weaknesses": [
+        "Highly unprofessional title",
+        "Missing all formatting and dates",
+        "Lacks specific assay or protocol knowledge"
+      ],
+      "suggestions": [
+        "Use a professional title like Research Data Assistant",
+        "Specify what kind of data was entered",
+        "Use standard bullet points"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nHospital CEO | 2013-Present\n- Directed a 500-bed acute care facility with $100M P&L responsibility.\n- Improved operating margins by 8% through strategic service line expansions.\n- Achieved Top 100 Hospital recognition.\nSKILLS: Healthcare Executive Leadership, P&L Management, Strategic Growth, Physician Relations.\nEDUCATION: MHA, FACHE.",
+    "review": {
+      "ats_score": 97,
+      "strengths": [
+        "Massive operational and financial scale",
+        "Prestigious FACHE credential",
+        "Clear profitability and recognition metrics"
+      ],
+      "weaknesses": [
+        "No early career trajectory shown",
+        "Lacks specific technology/digital health initiatives",
+        "No professional summary"
+      ],
+      "suggestions": [
+        "Add a powerful executive summary",
+        "Mention oversight of major EHR implementations",
+        "Include community or board relations details"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "VP of Patient Services | 2015-2023\n- Elevated HCAHPS patient satisfaction scores by 25% across 4 hospitals.\n- Managed a clinical support staff of 300+.\n- Implemented lean workflows in the ER, reducing throughput time by 15%.\nSKILLS: Patient Experience (HCAHPS), Lean Healthcare, Staff Management, Operations.\nEDUCATION: MBA, BSN.",
+    "review": {
+      "ats_score": 91,
+      "strengths": [
+        "Excellent quantifiable patient satisfaction metrics",
+        "Strong clinical and business educational background",
+        "Clear operational efficiency improvements"
+      ],
+      "weaknesses": [
+        "Missing specific budget oversight numbers",
+        "Brief bullet points",
+        "Lacks compliance/regulatory details"
+      ],
+      "suggestions": [
+        "Quantify the financial budget managed",
+        "Expand on joint commission or regulatory interactions",
+        "Detail specific lean methodologies used"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Department Administrator | 2018-Present\n- Managed scheduling for the radiology department.\n- Approved budget expenditures up to $50k.\n- Coordinated equipment maintenance.\nSKILLS: Department Management, Scheduling, Budget Approval, Maintenance Coordination.\nEDUCATION: BS Healthcare Administration.",
+    "review": {
+      "ats_score": 76,
+      "strengths": [
+        "Shows specific departmental focus",
+        "Demonstrates financial authority",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No metrics on staff size or patient volume",
+        "Lacks specific scheduling or accounting software",
+        "Very brief descriptions"
+      ],
+      "suggestions": [
+        "Quantify the number of staff scheduled",
+        "List specific healthcare management software",
+        "Include metrics on cost savings or efficiency"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Patient Access Manager | 2016-2022\n- Led a team of 15 front-desk registrars.\n- Ensured accurate collection of patient demographics and insurance.\n- Handled patient complaints.\nSKILLS: Patient Access, Insurance Verification, Team Leadership, Customer Service.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Clear leadership of frontline staff",
+        "Highlights critical revenue cycle entry points",
+        "Shows conflict resolution"
+      ],
+      "weaknesses": [
+        "No metrics on registration accuracy",
+        "Lacks mention of specific HIS/EMR systems",
+        "No professional summary"
+      ],
+      "suggestions": [
+        "Quantify registration error reduction rates",
+        "Specify software (e.g., Epic Prelude)",
+        "Add an objective or summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Hospital Manager\nDid the schedules for the nurses. Ordered supplies when we ran out. Talked to the doctors.",
+    "review": {
+      "ats_score": 44,
+      "strengths": [
+        "Indicates scheduling experience",
+        "Shows basic supply chain/procurement",
+        "Mentions physician interaction"
+      ],
+      "weaknesses": [
+        "Extremely vague and informal",
+        "No dates, formatting, or metrics",
+        "Lacks professional administrative terminology"
+      ],
+      "suggestions": [
+        "Use professional phrasing (e.g., 'Inventory Management')",
+        "Format with clear dates and facility names",
+        "Quantify the number of staff managed"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Front Desk Admin\nAnswered the hospital main phone line. Directed people to the right rooms. 3 years.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Shows customer service in a healthcare setting",
+        "Mentions call routing",
+        "Indicates 3 years of stability"
+      ],
+      "weaknesses": [
+        "Very basic task descriptions",
+        "Unprofessional formatting",
+        "No specific telecommunications software listed"
+      ],
+      "suggestions": [
+        "Format into a standard chronological resume",
+        "Include volume of calls handled daily",
+        "Use terms like 'Patient Routing' and 'Switchboard Operation'"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nChief Human Resources Officer | 2015-Present\n- Directed global HR strategy for 5,000 employees across 10 countries.\n- Led HR integration for 3 major corporate acquisitions.\n- Spearheaded enterprise Workday HRIS implementation.\nSKILLS: Global HR Strategy, M&A Integration, Workday, Executive Compensation.\nEDUCATION: MBA, SPHR.",
+    "review": {
+      "ats_score": 98,
+      "strengths": [
+        "Massive global personnel scale",
+        "Clear strategic M&A experience",
+        "Highlights major technology implementation (Workday)"
+      ],
+      "weaknesses": [
+        "No early career background",
+        "Missing a professional summary",
+        "Could expand on specific retention metrics"
+      ],
+      "suggestions": [
+        "Add a powerful executive summary",
+        "Include metrics on cost savings from M&A synergies",
+        "Detail board of directors reporting experience"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "HR Business Partner | 2017-2023\n- Partnered with tech division VP to align talent strategy with business goals.\n- Increased employee retention by 15% through new mentorship programs.\n- Resolved complex employee relations issues.\nSKILLS: Talent Strategy, Employee Relations, Retention, HRIS.\nEDUCATION: Master of Human Resources, SHRM-CP.",
+    "review": {
+      "ats_score": 88,
+      "strengths": [
+        "Strong strategic alignment with leadership",
+        "Excellent retention improvement metrics",
+        "Holds prestigious SHRM certification"
+      ],
+      "weaknesses": [
+        "Does not name specific HRIS platforms",
+        "Vague description of employee relations",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Name specific HRIS tools used (e.g., ADP, Workday)",
+        "Briefly detail the nature of the employee relations cases",
+        "Add a career summary"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "HR Generalist | 2019-Present\n- Administered employee benefits and open enrollment.\n- Processed bi-weekly payroll for 200 staff.\n- Handled basic employee complaints.\nSKILLS: Benefits Administration, Payroll Processing, Conflict Resolution.\nEDUCATION: BA Business.",
+    "review": {
+      "ats_score": 74,
+      "strengths": [
+        "Covers core generalist functions",
+        "Quantifies the number of employees for payroll",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No specific payroll software mentioned",
+        "Lacks strategic HR initiatives",
+        "Very basic descriptions"
+      ],
+      "suggestions": [
+        "Specify the payroll software (e.g., Paylocity, ADP)",
+        "Use professional terms for complaint handling (Employee Relations)",
+        "Include any compliance or policy updating experience"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "HR Coordinator | 2020-2023\n- Conducted new hire orientation.\n- Processed I-9 forms and background checks.\n- Updated employee files in the database.\nSKILLS: Onboarding, I-9 Compliance, HR Databases, Organization.\nEDUCATION: BS Communications.",
+    "review": {
+      "ats_score": 67,
+      "strengths": [
+        "Highlights crucial compliance tasks (I-9)",
+        "Shows onboarding experience",
+        "Clear entry-level HR role"
+      ],
+      "weaknesses": [
+        "No specific HRIS software named",
+        "Lacks volume metrics (how many hires)",
+        "No summary provided"
+      ],
+      "suggestions": [
+        "Quantify the number of new hires processed monthly",
+        "Specify the background check and HRIS platforms used",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "HR Person\nFiled complaints from employees. Planned the company holiday parties. Made sure everyone got paid. 4 years.",
+    "review": {
+      "ats_score": 42,
+      "strengths": [
+        "Indicates employee relations exposure",
+        "Shows culture building (event planning)",
+        "Mentions payroll basics"
+      ],
+      "weaknesses": [
+        "Highly unprofessional job title",
+        "Informal language",
+        "No dates or company names"
+      ],
+      "suggestions": [
+        "Rename to HR Assistant or Coordinator",
+        "Format chronologically with clear dates",
+        "Use professional terminology (e.g., 'Event Coordination')"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Benefits Helper\nMailed out the health insurance forms. Answered questions about the dental plan.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Shows specialized focus on benefits",
+        "Indicates employee communication skills"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "No formatting, dates, or metrics",
+        "Lacks knowledge of digital enrollment platforms"
+      ],
+      "suggestions": [
+        "Use a professional title like Benefits Administrator",
+        "Mention digital enrollment software if used",
+        "Quantify the number of employees supported"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nDirector of Talent Acquisition | 2016-Present\n- Directed a team of 30 recruiters, executing 1,000+ hires annually.\n- Implemented Greenhouse ATS, reducing time-to-fill by 20%.\n- Championed DEI initiatives, increasing diverse leadership hires by 25%.\nSKILLS: TA Strategy, ATS Implementation, DEI, Executive Hiring, Employer Branding.\nEDUCATION: BA Human Resources.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive scale of hiring and team management",
+        "Clear efficiency and diversity metrics",
+        "Highlights specific ATS expertise"
+      ],
+      "weaknesses": [
+        "Brief education section",
+        "Missing a professional summary",
+        "Lacks specific budget management figures"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Include the annual recruitment budget managed",
+        "Mention specific employer branding campaigns"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Executive Recruiter | 2014-2023\n- Specialized in C-suite and VP-level placements for tech startups.\n- Saved $500k annually in external agency fees through direct sourcing.\n- Maintained a 95% offer acceptance rate.\nSKILLS: Executive Search, Direct Sourcing, Negotiation, Client Management.\nEDUCATION: BS Business Administration.",
+    "review": {
+      "ats_score": 90,
+      "strengths": [
+        "Excellent financial savings metrics",
+        "High-level niche specialization",
+        "Strong closing metrics (acceptance rate)"
+      ],
+      "weaknesses": [
+        "No specific sourcing tools mentioned",
+        "Lacks details on diversity sourcing",
+        "No summary section"
+      ],
+      "suggestions": [
+        "List tools like LinkedIn Recruiter or Entelo",
+        "Mention strategies used for diversity at the executive level",
+        "Add a brief career summary"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Technical Recruiter | 2018-Present\n- Sourced software engineers and data scientists.\n- Used LinkedIn Recruiter to build talent pipelines.\n- Conducted initial phone screens and negotiated offers.\nSKILLS: Technical Sourcing, LinkedIn Recruiter, Pipeline Building, Negotiation.\nEDUCATION: BA Psychology.",
+    "review": {
+      "ats_score": 77,
+      "strengths": [
+        "Clear industry specialization",
+        "Mentions industry-standard sourcing tool",
+        "Covers full-cycle elements"
+      ],
+      "weaknesses": [
+        "No metrics on number of hires made",
+        "Lacks specific technical roles or languages recruited for",
+        "Vague pipeline details"
+      ],
+      "suggestions": [
+        "Quantify the number of successful placements monthly/yearly",
+        "Specify technologies recruited for (e.g., Java, Python, AWS)",
+        "Include metrics on time-to-fill"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Junior Recruiter | 2021-2023\n- Did phone screens for entry-level jobs.\n- Went to college job fairs to find candidates.\n- Scheduled interviews for the hiring managers.\nSKILLS: Phone Screening, Job Fairs, Scheduling.\nEDUCATION: BA Communications.",
+    "review": {
+      "ats_score": 66,
+      "strengths": [
+        "Shows campus recruiting experience",
+        "Covers basic screening and scheduling",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "Informal phrasing",
+        "No Applicant Tracking System (ATS) mentioned",
+        "Lacks volume metrics"
+      ],
+      "suggestions": [
+        "Specify any ATS used (e.g., Workday, Taleo)",
+        "Quantify the number of screens or fairs attended",
+        "Use professional action verbs"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Hiring Person\nRead resumes all day. Called people to see if they wanted a job. 3 years.",
+    "review": {
+      "ats_score": 39,
+      "strengths": [
+        "Indicates resume review experience",
+        "Shows outbound calling experience",
+        "3 years of tenure"
+      ],
+      "weaknesses": [
+        "Extremely unprofessional job title",
+        "No company names or formatting",
+        "Lacks all recruiting terminology"
+      ],
+      "suggestions": [
+        "Rename to Recruiter or Sourcing Specialist",
+        "Use terms like 'Candidate Sourcing' and 'Resume Screening'",
+        "Format chronologically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Interviewer\nAsked candidates questions from a list. Wrote down their answers for the boss.",
+    "review": {
+      "ats_score": 35,
+      "strengths": [
+        "Shows direct candidate interaction",
+        "Indicates documentation skills"
+      ],
+      "weaknesses": [
+        "Does not demonstrate full-cycle recruiting",
+        "Very informal and brief",
+        "Missing dates, education, and skills sections"
+      ],
+      "suggestions": [
+        "Detail the types of interview formats used (e.g., behavioral)",
+        "Include full standard resume sections",
+        "Specify the level of roles interviewed for"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nVP of Supply Chain | 2014-Present\n- Directed global logistics and procurement for a $2B manufacturing firm.\n- Implemented SAP APO, realizing $50M in inventory optimization savings.\n- Mitigated international tariff risks through dual-sourcing strategies.\nSKILLS: Global Supply Chain, SAP APO, Risk Mitigation, Vendor Management.\nEDUCATION: MBA, CSCP.",
+    "review": {
+      "ats_score": 97,
+      "strengths": [
+        "Massive financial impact and scale",
+        "Mentions specific enterprise software (SAP APO)",
+        "Holds top-tier certification (CSCP)"
+      ],
+      "weaknesses": [
+        "No early career history",
+        "Missing a professional summary",
+        "Could expand on team size managed"
+      ],
+      "suggestions": [
+        "Add a robust executive summary",
+        "Quantify the number of direct and indirect reports",
+        "Detail specific regions managed globally"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Supply Chain Architect | 2016-2023\n- Engineered end-to-end demand forecasting models using AI integrations.\n- Reduced stockouts by 18% across 40 distribution centers.\n- Redesigned warehouse flows using Lean principles.\nSKILLS: Demand Forecasting, AI Integration, Lean Six Sigma, Network Optimization.\nEDUCATION: MS Supply Chain Management.",
+    "review": {
+      "ats_score": 89,
+      "strengths": [
+        "Advanced technical and AI application in supply chain",
+        "Strong quantifiable improvements in stockouts",
+        "Highlights Lean process design"
+      ],
+      "weaknesses": [
+        "Lacks specific ERP software mentions",
+        "No details on cross-functional collaboration",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Include specific ERPs or forecasting tools used",
+        "Mention collaboration with sales/marketing for demand planning",
+        "Add a career summary"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Supply Chain Analyst | 2018-Present\n- Analyzed inventory levels using SQL and Tableau.\n- Created weekly reports on supplier performance.\n- Identified $200k in potential freight savings.\nSKILLS: Data Analysis, SQL, Tableau, Supplier Metrics, Freight Optimization.\nEDUCATION: BS Logistics.",
+    "review": {
+      "ats_score": 79,
+      "strengths": [
+        "Highlights strong technical data skills (SQL, Tableau)",
+        "Quantifies potential cost savings",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "Could detail the size of the datasets analyzed",
+        "Vague description of supplier metrics",
+        "No summary"
+      ],
+      "suggestions": [
+        "Specify which supplier KPIs were tracked",
+        "Detail the volume of data queried",
+        "Add an objective or summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Inventory Planner | 2019-2023\n- Set reorder points for warehouse stock.\n- Used Excel to track what items were selling fast.\n- Ordered more product when needed.\nSKILLS: Inventory Planning, Excel, Purchasing.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 67,
+      "strengths": [
+        "Covers core inventory planning concepts (reorder points)",
+        "Mentions primary tool (Excel)",
+        "Shows purchasing overlap"
+      ],
+      "weaknesses": [
+        "Lacks advanced forecasting methods",
+        "No specific ERP/WMS mentioned",
+        "Very basic descriptions"
+      ],
+      "suggestions": [
+        "Specify advanced Excel skills (VLOOKUP, Pivot Tables)",
+        "Include any WMS software utilized",
+        "Quantify the number of SKUs managed"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Supply Worker\nCounted boxes in the back room. Put numbers into an excel sheet. 5 years.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Shows practical inventory counting experience",
+        "Mentions basic data entry",
+        "Indicates long tenure"
+      ],
+      "weaknesses": [
+        "Unprofessional title and formatting",
+        "Lacks specific supply chain terminology",
+        "No dates or companies listed"
+      ],
+      "suggestions": [
+        "Rename to Inventory Clerk",
+        "Use terms like 'Cycle Counting' and 'Inventory Auditing'",
+        "Format chronologically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Chain Helper\nTalked to vendors on the phone. Found cheaper stuff for us to buy.",
+    "review": {
+      "ats_score": 36,
+      "strengths": [
+        "Shows basic vendor communication",
+        "Indicates cost-saving focus"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "No metrics on money saved",
+        "Missing all standard resume sections"
+      ],
+      "suggestions": [
+        "Rename to Purchasing Assistant",
+        "Quantify the savings achieved",
+        "Include education, skills, and exact dates"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nGlobal Logistics Director | 2015-Present\n- Managed a fleet of 500 trucks and international ocean freight contracts.\n- Implemented a cloud-based TMS, reducing routing inefficiencies and saving $12M annually.\n- Maintained 99% on-time delivery across global networks.\nSKILLS: Logistics Strategy, TMS Implementation, Fleet Management, Freight Negotiation.\nEDUCATION: MBA.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive operational scale and financial savings",
+        "Highlights major system implementation (TMS)",
+        "Excellent delivery metrics"
+      ],
+      "weaknesses": [
+        "Brief descriptions",
+        "Missing a professional summary",
+        "Could specify the TMS platform used"
+      ],
+      "suggestions": [
+        "Add a powerful executive summary",
+        "Name the specific Transportation Management System",
+        "Include details on customs or compliance oversight"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Logistics Engineering Manager | 2013-2022\n- Engineered route optimization algorithms that reduced fuel costs by 15%.\n- Designed automated sorting facility layouts handling 50k packages daily.\n- Led a team of 8 industrial and logistics engineers.\nSKILLS: Route Optimization, Facility Design, Team Leadership, AutoCAD, Fuel Efficiency.\nEDUCATION: MS Industrial Engineering.",
+    "review": {
+      "ats_score": 91,
+      "strengths": [
+        "Strong quantitative improvements (fuel costs)",
+        "Clear engineering and design focus",
+        "Relevant advanced degree"
+      ],
+      "weaknesses": [
+        "No summary section",
+        "Could list specific routing software",
+        "Lacks cross-functional collaboration details"
+      ],
+      "suggestions": [
+        "Mention specific routing or GIS software",
+        "Add an executive summary",
+        "Detail collaboration with warehouse operations"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Logistics Coordinator | 2019-Present\n- Tracked daily shipments using GPS software.\n- Resolved customs delays for international freight.\n- Communicated delivery updates to clients.\nSKILLS: Freight Tracking, Customs Clearance, Client Communication, Logistics.\nEDUCATION: BA Business.",
+    "review": {
+      "ats_score": 76,
+      "strengths": [
+        "Covers core logistics tracking duties",
+        "Mentions international customs experience",
+        "Shows client-facing skills"
+      ],
+      "weaknesses": [
+        "No metrics on shipment volume",
+        "Lacks specific software names",
+        "Very brief bullet points"
+      ],
+      "suggestions": [
+        "Quantify the daily/weekly shipment volume",
+        "Specify the tracking or TMS software utilized",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Fleet Dispatcher | 2018-2023\n- Dispatched routes for 50 local drivers.\n- Handled driver call-offs and rescheduled deliveries.\n- Checked driver logbooks for DOT compliance.\nSKILLS: Dispatching, DOT Compliance, Route Scheduling.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 71,
+      "strengths": [
+        "Quantifies the size of the fleet managed",
+        "Mentions critical DOT compliance",
+        "Shows crisis management (call-offs)"
+      ],
+      "weaknesses": [
+        "No specific dispatch software mentioned",
+        "Lacks efficiency or safety metrics",
+        "No professional summary"
+      ],
+      "suggestions": [
+        "Specify dispatch software (e.g., McLeod, TMW)",
+        "Include metrics on safety records or on-time delivery",
+        "Add a brief summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Shipping Guy\nDrove the forklift. Loaded trucks on the dock. Read the shipping labels. 4 years.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Shows hands-on warehouse experience",
+        "Mentions equipment operation (forklift)",
+        "Indicates stable tenure"
+      ],
+      "weaknesses": [
+        "Highly unprofessional job title",
+        "No formatting or company details",
+        "Lacks safety certifications"
+      ],
+      "suggestions": [
+        "Rename to Shipping & Receiving Clerk",
+        "List OSHA or specific forklift certifications",
+        "Format with bullet points"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Box Tracker\nLooked at GPS to see where the trucks were. Called drivers if they were late.",
+    "review": {
+      "ats_score": 35,
+      "strengths": [
+        "Shows basic tracking knowledge",
+        "Indicates communication with drivers"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "Missing all standard resume sections",
+        "No metrics or software listed"
+      ],
+      "suggestions": [
+        "Rename to Logistics Assistant or Track & Trace Clerk",
+        "Include software names and specific dates",
+        "Build out a full resume structure"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nChief Procurement Officer | 2012-Present\n- Managed a $1B global spend across direct and indirect categories.\n- Established a supplier risk management framework, auditing top 200 vendors.\n- Negotiated enterprise SaaS contracts, reducing IT spend by 15%.\nSKILLS: Global Sourcing, Risk Management, Contract Negotiation, Spend Analytics.\nEDUCATION: MBA, CPSM.",
+    "review": {
+      "ats_score": 95,
+      "strengths": [
+        "Massive financial scale ($1B spend)",
+        "Strong focus on risk management and vendor auditing",
+        "Holds top-tier CPSM certification"
+      ],
+      "weaknesses": [
+        "Missing a professional summary",
+        "Could name specific ERP or procurement platforms",
+        "Brief bullet points for a C-level role"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Mention tools like SAP Ariba or Coupa",
+        "Expand on board reporting or executive leadership duties"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Strategic Sourcing Category Manager | 2015-2023\n- Led IT hardware sourcing, managing a $50M portfolio.\n- Executed RFPs that resulted in a 20% cost reduction for server equipment.\n- Consolidated supplier base from 50 to 15 key strategic partners.\nSKILLS: Category Management, RFP Execution, IT Sourcing, Supplier Consolidation.\nEDUCATION: BS Supply Chain.",
+    "review": {
+      "ats_score": 88,
+      "strengths": [
+        "Clear category specialization (IT Hardware)",
+        "Strong cost reduction and consolidation metrics",
+        "Highlights formal RFP processes"
+      ],
+      "weaknesses": [
+        "No specific procurement software listed",
+        "Lacks cross-functional collaboration details",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Specify the e-procurement tools used",
+        "Mention collaboration with the IT department",
+        "Add a career summary"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Procurement Specialist | 2018-Present\n- Created and processed purchase orders.\n- Handled day-to-day vendor relations and issue resolution.\n- Tracked delivery timelines to ensure production did not stop.\nSKILLS: PO Processing, Vendor Relations, Delivery Tracking.\nEDUCATION: BA Business.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Covers core procurement execution tasks",
+        "Shows focus on operational continuity",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No metrics on PO volume or spend amount",
+        "Lacks ERP software names",
+        "Very basic descriptions"
+      ],
+      "suggestions": [
+        "Quantify the annual spend or PO volume managed",
+        "List specific ERPs (e.g., Oracle, SAP)",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Buyer | 2017-2022\n- Ordered raw materials for the manufacturing plant.\n- Used SAP Ariba to submit orders.\n- Checked inventory levels before buying.\nSKILLS: Purchasing, SAP Ariba, Inventory Checking.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Mentions industry-standard software (SAP Ariba)",
+        "Shows alignment with manufacturing needs",
+        "Highlights inventory awareness"
+      ],
+      "weaknesses": [
+        "No negotiation or cost savings mentioned",
+        "Lacks volume metrics",
+        "Brief bullet points"
+      ],
+      "suggestions": [
+        "Include any cost-saving negotiations achieved",
+        "Quantify the material budget managed",
+        "Use stronger action verbs"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Purchasing Agent | 2019-2023\n- Bought office supplies for 3 branches.\n- Negotiated small discounts with local vendors.\n- Reconciled invoices with accounts payable.\nSKILLS: Office Purchasing, Negotiation, Invoice Reconciliation.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Shows cross-branch support",
+        "Highlights basic negotiation skills",
+        "Mentions AP collaboration"
+      ],
+      "weaknesses": [
+        "No specific spend amounts",
+        "Lacks procurement software experience",
+        "No formal degree"
+      ],
+      "suggestions": [
+        "Quantify the total purchasing budget",
+        "Mention any tools used (e.g., Excel, Coupa)",
+        "Add a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Buyer\nBought stuff for the office. Called stores to ask for prices. 2 years.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Indicates basic purchasing experience",
+        "Shows price comparison efforts"
+      ],
+      "weaknesses": [
+        "Extremely informal and brief",
+        "No company names or specific dates",
+        "Lacks all professional procurement terminology"
+      ],
+      "suggestions": [
+        "Use professional phrasing (e.g., 'Sourced office materials')",
+        "Format chronologically with clear details",
+        "Include software or budgeting skills"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nPlant Manager | 2015-Present\n- Managed a 200,000 sq ft automotive facility with $50M output.\n- Certified Lean Six Sigma Black Belt; increased throughput by 25%.\n- Led union negotiations for 300 floor workers, achieving zero strikes.\nSKILLS: Plant Operations, Lean Six Sigma, Union Negotiation, P&L.\nEDUCATION: MS Industrial Engineering.",
+    "review": {
+      "ats_score": 97,
+      "strengths": [
+        "Massive operational and personnel scale",
+        "Strong, quantified continuous improvement metrics",
+        "Holds elite Six Sigma Black Belt certification"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Could mention specific safety/OSHA records",
+        "Lacks early career details"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Include metrics on safety (e.g., days without incident)",
+        "Mention specific ERP/MES systems overseen"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Manufacturing Engineer | 2014-2023\n- Programmed Allen-Bradley PLCs for automated assembly lines.\n- Reduced cycle time by 15% through robotic arm integration.\n- Conducted root cause analysis on equipment failures.\nSKILLS: PLC Programming, Robotics, Root Cause Analysis, AutoCAD.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 90,
+      "strengths": [
+        "Mentions specific technical hardware (Allen-Bradley PLCs)",
+        "Clear automation and efficiency metrics",
+        "Relevant engineering degree"
+      ],
+      "weaknesses": [
+        "No summary section",
+        "Could expand on GD&T or specific CAD tools",
+        "Lacks details on cross-functional teamwork"
+      ],
+      "suggestions": [
+        "Detail collaboration with production supervisors",
+        "Add an executive summary",
+        "Mention specific robotic brands used (e.g., FANUC)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Production Supervisor | 2017-Present\n- Supervised 40 assembly workers per shift.\n- Ensured daily production quotas were met.\n- Enforced strict OSHA safety guidelines.\nSKILLS: Staff Supervision, Production Quotas, OSHA Compliance.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Clear leadership of shift personnel",
+        "Highlights safety compliance (OSHA)",
+        "Shows focus on operational targets"
+      ],
+      "weaknesses": [
+        "No metrics on production volume",
+        "Lacks continuous improvement methodologies (e.g., 5S)",
+        "Very brief descriptions"
+      ],
+      "suggestions": [
+        "Quantify the daily production volume",
+        "Mention any Lean or 5S experience",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "CNC Machinist | 2016-2022\n- Operated 5-axis CNC machines to mill aerospace parts.\n- Read G-code and adjusted feeds and speeds.\n- Checked part tolerances with micrometers.\nSKILLS: 5-Axis CNC, G-code, Precision Measurement, Blueprint Reading.\nEDUCATION: Machinist Certificate.",
+    "review": {
+      "ats_score": 82,
+      "strengths": [
+        "Highly specific technical skills (5-axis, G-code)",
+        "Shows precision measurement experience",
+        "Relevant industry (aerospace)"
+      ],
+      "weaknesses": [
+        "No metrics on scrap reduction or parts produced",
+        "Lacks CAD/CAM software programming experience",
+        "No summary"
+      ],
+      "suggestions": [
+        "Include software like Mastercam if used",
+        "Quantify the tolerances held (e.g., +/- .0005\")",
+        "Add a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Assembly Line Lead | 2019-2023\n- Led a line of 10 workers.\n- Did quality checks at the end of the line.\n- Filled out daily shift reports.\nSKILLS: Assembly, Quality Checks, Shift Reporting.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Shows introductory leadership",
+        "Highlights quality assurance duties",
+        "Indicates reporting experience"
+      ],
+      "weaknesses": [
+        "Very basic descriptions",
+        "No specific products or industries mentioned",
+        "Lacks production metrics"
+      ],
+      "suggestions": [
+        "Specify the products assembled",
+        "Quantify the daily output of the line",
+        "Use professional phrasing (e.g., 'End-of-line Quality Assurance')"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Factory Worker\nPut things together with a drill. Swept the floor. 4 years.",
+    "review": {
+      "ats_score": 36,
+      "strengths": [
+        "Indicates tool usage",
+        "Shows stable 4-year tenure"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "No company names or dates",
+        "Missing all standard resume sections"
+      ],
+      "suggestions": [
+        "Rename to Assembler or Production Associate",
+        "Format chronologically with clear details",
+        "Specify the types of products built"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nDirector of Quality Assurance | 2014-Present\n- Directed enterprise QA strategy, maintaining ISO 9001 certification.\n- Reduced manufacturing defect rate by 40% using root cause analysis.\n- Managed a team of 15 QA engineers and inspectors.\nSKILLS: ISO 9001, Defect Reduction, Root Cause Analysis, Team Leadership.\nEDUCATION: MS Quality Management.",
+    "review": {
+      "ats_score": 95,
+      "strengths": [
+        "Excellent defect reduction metrics",
+        "Clear regulatory compliance (ISO 9001)",
+        "Strong leadership and educational background"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Could detail specific statistical tools used",
+        "Lacks budget management details"
+      ],
+      "suggestions": [
+        "Add a powerful executive summary",
+        "Mention tools like Minitab or SPC",
+        "Detail cross-functional work with production teams"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "QA Automation Lead | 2016-2023\n- Built Selenium automation frameworks, achieving 95% test coverage.\n- Integrated tests into Jenkins CI/CD pipelines.\n- Mentored 5 junior SDETs.\nSKILLS: Selenium, Java, Jenkins, CI/CD, Test Automation.\nEDUCATION: BS Computer Science.",
+    "review": {
+      "ats_score": 92,
+      "strengths": [
+        "High test coverage metric",
+        "Mentions modern CI/CD integration",
+        "Shows mentorship and leadership"
+      ],
+      "weaknesses": [
+        "Lacks API or mobile testing details",
+        "No summary section",
+        "Could expand on cross-browser tools"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Mention API tools like Postman or REST Assured",
+        "Specify Agile/Scrum involvement"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Quality Control Inspector | 2018-Present\n- Measured machined parts using calipers and micrometers.\n- Documented out-of-spec parts and alerted the supervisor.\n- Read technical blueprints.\nSKILLS: Precision Measurement, Blueprints, Defect Logging.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Mentions specific measurement tools",
+        "Shows blueprint reading skills",
+        "Highlights defect escalation"
+      ],
+      "weaknesses": [
+        "No mention of GD&T",
+        "Lacks metrics on inspection volume",
+        "Very basic descriptions"
+      ],
+      "suggestions": [
+        "Specify knowledge of Geometric Dimensioning and Tolerancing (GD&T)",
+        "Quantify the number of parts inspected daily",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "QA Analyst | 2019-2023\n- Executed manual test cases for web software.\n- Logged bugs in Jira.\n- Re-tested software after developers fixed it.\nSKILLS: Manual Testing, Jira, Bug Tracking.\nEDUCATION: BA IT.",
+    "review": {
+      "ats_score": 70,
+      "strengths": [
+        "Mentions industry-standard tool (Jira)",
+        "Covers the bug tracking lifecycle",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No automation experience",
+        "Lacks metrics on bugs found or test cases written",
+        "Vague on types of testing performed"
+      ],
+      "suggestions": [
+        "Specify testing types (e.g., Regression, Smoke)",
+        "Quantify the volume of testing",
+        "Introduce basic automation concepts if known"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Food Safety QA | 2020-Present\n- Checked food temperatures on the line.\n- Did swab tests for bacteria.\n- Filled out HACCP paperwork.\nSKILLS: HACCP, Swab Testing, Temperature Checks.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Highlights critical compliance framework (HACCP)",
+        "Shows hands-on environmental testing",
+        "Clear industry focus"
+      ],
+      "weaknesses": [
+        "Informal phrasing",
+        "No formal food science degree",
+        "Lacks audit preparation experience"
+      ],
+      "suggestions": [
+        "Use professional phrasing (e.g., 'Environmental Swabbing')",
+        "Mention interactions with FDA/USDA inspectors if any",
+        "Add a professional summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Tester\nLooked for broken things on the website. Told the boss when I found a glitch. 1 year.",
+    "review": {
+      "ats_score": 35,
+      "strengths": [
+        "Indicates exploratory testing",
+        "Shows communication of defects"
+      ],
+      "weaknesses": [
+        "Extremely unprofessional title and tone",
+        "No bug tracking software mentioned",
+        "Missing standard resume formatting"
+      ],
+      "suggestions": [
+        "Rename to QA Tester or QA Analyst",
+        "List tools used (e.g., Jira, Bugzilla)",
+        "Format professionally with exact dates"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nSenior Project Manager | 2013-Present\n- Directed $100M high-rise commercial construction projects from ground-break to turnover.\n- Managed schedules using Primavera P6, delivering 100% of projects on time.\n- Negotiated subcontractor bids, saving $5M in projected costs.\nSKILLS: Commercial Construction, Primavera P6, Budgeting, Subcontractor Negotiation.\nEDUCATION: BS Construction Management, PMP.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive project scale ($100M)",
+        "Excellent delivery and cost-saving metrics",
+        "Holds PMP and relevant degree"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Could list specific safety records",
+        "Lacks details on specialized software (e.g., Procore)"
+      ],
+      "suggestions": [
+        "Add a robust executive summary",
+        "Mention any project management software used",
+        "Detail safety and OSHA compliance oversight"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Superintendent | 2015-2023\n- Oversaw daily field operations for 200+ subcontractors.\n- Maintained zero lost-time safety incidents over 5 years.\n- Conducted weekly safety toolbox talks and enforced OSHA 30 standards.\nSKILLS: Field Operations, OSHA 30, Subcontractor Management, Safety Compliance.\nEDUCATION: Associates Degree.",
+    "review": {
+      "ats_score": 91,
+      "strengths": [
+        "Exceptional safety record",
+        "Clear leadership of massive field teams",
+        "Highlights crucial OSHA 30 certification"
+      ],
+      "weaknesses": [
+        "No specific project values or types mentioned",
+        "Lacks digital reporting skills",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Specify the types of buildings constructed",
+        "Mention software used for daily logs (e.g., Procore, PlanGrid)",
+        "Add a career summary"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Construction Estimator | 2018-Present\n- Prepared bid packages for commercial projects.\n- Used Procore to manage RFIs and submittals.\n- Did material takeoffs from blueprints.\nSKILLS: Estimating, Procore, Blueprints, Bidding.\nEDUCATION: BS Civil Engineering.",
+    "review": {
+      "ats_score": 78,
+      "strengths": [
+        "Mentions industry-standard software (Procore)",
+        "Covers core estimating duties",
+        "Relevant engineering degree"
+      ],
+      "weaknesses": [
+        "No metrics on bid win rate",
+        "Lacks dollar values of projects estimated",
+        "Brief descriptions"
+      ],
+      "suggestions": [
+        "Quantify the value of bids won",
+        "Specify the types of materials estimated",
+        "Add a professional objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Field Engineer | 2020-2023\n- Tracked RFIs and submittals.\n- Walked the site to check progress against the schedule.\n- Took photos for the daily log.\nSKILLS: RFIs, Site Inspections, Daily Logs.\nEDUCATION: BS Construction Management.",
+    "review": {
+      "ats_score": 72,
+      "strengths": [
+        "Highlights standard field engineering tasks",
+        "Relevant degree",
+        "Shows progress tracking experience"
+      ],
+      "weaknesses": [
+        "Very basic phrasing",
+        "No specific project management software mentioned",
+        "Lacks quality control specifics"
+      ],
+      "suggestions": [
+        "Use professional terminology (e.g., 'QA/QC Inspections')",
+        "List software used for logs and RFIs",
+        "Specify the scale of the projects"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Foreman | 2017-2022\n- Led a crew of 15 carpenters.\n- Filled out timecards.\n- Made sure everyone wore hard hats.\nSKILLS: Crew Leadership, Timecards, Safety.\nEDUCATION: High School Diploma.",
+    "review": {
+      "ats_score": 65,
+      "strengths": [
+        "Shows frontline trade leadership",
+        "Mentions basic safety enforcement",
+        "Quantifies crew size"
+      ],
+      "weaknesses": [
+        "Informal language",
+        "No specific project details",
+        "Lacks formal safety certifications (OSHA)"
+      ],
+      "suggestions": [
+        "Use terms like 'Payroll Administration' and 'OSHA Compliance'",
+        "List any OSHA certifications",
+        "Detail the types of carpentry projects completed"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Builder\nHammered wood. Drove the big truck. Built houses. 3 years.",
+    "review": {
+      "ats_score": 35,
+      "strengths": [
+        "Indicates hands-on construction skills",
+        "Shows equipment operation"
+      ],
+      "weaknesses": [
+        "Extremely informal and brief",
+        "No specific tools, dates, or company names",
+        "Missing all standard formatting"
+      ],
+      "suggestions": [
+        "Rename to Carpenter or Construction Laborer",
+        "Format chronologically with clear details",
+        "List specific power tools and machinery operated"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nPrincipal Civil Engineer | 2014-Present\n- Designed complex highway interchanges with a $500M portfolio budget.\n- Led a team of 40 engineers and drafters.\n- Secured federal and state environmental approvals.\nSKILLS: Highway Design, Budgeting ($500M), Team Leadership, Permitting.\nEDUCATION: MS Civil Engineering, PE License.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive project budget and scale",
+        "Holds required PE License",
+        "Clear leadership of large engineering teams"
+      ],
+      "weaknesses": [
+        "No specific CAD/Civil 3D software mentioned",
+        "Missing a professional summary",
+        "Brief descriptions for a Principal role"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Specify the engineering software utilized (e.g., MicroStation, Civil 3D)",
+        "Expand on stakeholder management"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Lead Structural Engineer | 2016-2023\n- Engineered seismic retrofitting for 10 major suspension bridges.\n- Utilized AutoCAD Civil 3D and STAAD.Pro for structural analysis.\n- Ensured 100% compliance with ASCE standards.\nSKILLS: Structural Analysis, Seismic Retrofitting, AutoCAD Civil 3D, STAAD.Pro, ASCE.\nEDUCATION: BS Civil Engineering, PE.",
+    "review": {
+      "ats_score": 93,
+      "strengths": [
+        "Highly specialized skills (seismic retrofitting)",
+        "Lists industry-standard software (STAAD.Pro)",
+        "Includes PE license and compliance standards"
+      ],
+      "weaknesses": [
+        "No team leadership or mentoring mentioned",
+        "Lacks financial project metrics",
+        "No summary section"
+      ],
+      "suggestions": [
+        "Quantify the value of the bridge projects",
+        "Mention any mentorship of junior engineers",
+        "Add a career summary"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Geotechnical Engineer | 2018-Present\n- Wrote soil reports for building foundations.\n- Analyzed ground stability for retaining walls.\n- Took samples in the field.\nSKILLS: Soil Analysis, Foundation Design, Field Sampling.\nEDUCATION: BS Civil Engineering.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Clear specialty focus",
+        "Covers field and analytical duties",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No specific geotechnical software listed",
+        "Lacks details on project sizes",
+        "Very basic phrasing"
+      ],
+      "suggestions": [
+        "Specify software (e.g., gINT, GeoStudio)",
+        "Quantify the types or sizes of buildings supported",
+        "Use professional terminology (e.g., 'Subsurface Investigations')"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Junior Civil Designer | 2021-2023\n- Drafted site plans using AutoCAD.\n- Did math for stormwater runoff.\n- Printed plan sets for the city.\nSKILLS: AutoCAD, Site Plans, Stormwater Calculations.\nEDUCATION: BS Civil Engineering.",
+    "review": {
+      "ats_score": 71,
+      "strengths": [
+        "Highlights essential entry-level drafting skills",
+        "Mentions stormwater calculations",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "Informal phrasing ('Did math')",
+        "No mention of Civil 3D specifically",
+        "Lacks an objective or summary"
+      ],
+      "suggestions": [
+        "Use terms like 'Hydrological Calculations'",
+        "Specify AutoCAD Civil 3D if used",
+        "Add a professional objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Transportation Engineer | 2019-Present\n- Modeled traffic flow for new intersections.\n- Looked at crash data to make roads safer.\n- Wrote reports for the DOT.\nSKILLS: Traffic Modeling, Crash Data Analysis, DOT Reporting.\nEDUCATION: BS Civil Engineering.",
+    "review": {
+      "ats_score": 74,
+      "strengths": [
+        "Clear industry focus",
+        "Mentions safety improvements",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No specific traffic modeling software named",
+        "Informal language",
+        "No quantitative metrics"
+      ],
+      "suggestions": [
+        "Specify software used (e.g., Synchro, VISSIM)",
+        "Quantify safety improvements or intersection volume",
+        "Use professional phrasing"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Civil Drafter\nDrew roads on the computer. Printed maps. Sent them to the boss. 2 years.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Indicates drafting experience",
+        "Shows mapping exposure"
+      ],
+      "weaknesses": [
+        "Extremely informal and brief",
+        "No CAD software named",
+        "Missing standard formatting"
+      ],
+      "suggestions": [
+        "Specify the exact CAD software used",
+        "Format chronologically with clear details",
+        "Use professional terms like 'Drafted infrastructure plans'"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nPrincipal Mechanical Engineer | 2013-Present\n- Designed HVAC systems for $200M hospital projects using Revit.\n- Achieved LEED Gold certification on 5 major facilities.\n- Mentored 15 junior mechanical engineers.\nSKILLS: HVAC Design, Revit, LEED AP, Team Leadership, Healthcare Facilities.\nEDUCATION: MS Mechanical Engineering, PE.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "High-value specialized project experience",
+        "Holds PE license and LEED AP",
+        "Highlights mentorship and leadership"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Could expand on load calculation methods",
+        "Brief bullet points"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Mention software used for load calculations (e.g., Trane TRACE)",
+        "Detail cross-functional coordination"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Senior Product Design Engineer | 2015-2023\n- Designed consumer electronics using SolidWorks, holding 10 patents.\n- Conducted Finite Element Analysis (FEA) to reduce material costs by 15%.\n- Collaborated with overseas manufacturing teams for DFM.\nSKILLS: SolidWorks, FEA, DFM, Patents, Consumer Electronics.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 92,
+      "strengths": [
+        "Exceptional innovation metrics (10 patents)",
+        "Strong cost reduction through analysis (FEA)",
+        "Shows Design for Manufacturability (DFM) experience"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Lacks details on rapid prototyping tools",
+        "No mention of specific materials used"
+      ],
+      "suggestions": [
+        "Add a career summary",
+        "Mention prototyping (e.g., 3D printing, CNC)",
+        "Specify materials (e.g., injection molded plastics)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Mechanical Engineer | 2018-Present\n- Did thermal analysis on battery packs.\n- Built prototypes in the shop.\n- Updated CAD drawings.\nSKILLS: Thermal Analysis, Prototyping, CAD.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 70,
+      "strengths": [
+        "Covers analytical and hands-on skills",
+        "Relevant degree",
+        "Clear industry application (battery packs)"
+      ],
+      "weaknesses": [
+        "No specific CAD or analysis software named",
+        "Informal phrasing",
+        "Lacks measurable impact"
+      ],
+      "suggestions": [
+        "Name the CAD and analysis software (e.g., SolidWorks, ANSYS)",
+        "Quantify thermal improvements",
+        "Use stronger action verbs"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Reliability Engineer | 2019-2023\n- Calculated MTBF for machine parts.\n- Ran FMEA meetings with the team.\n- Tracked warranty claims.\nSKILLS: MTBF, FMEA, Reliability, Data Tracking.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 77,
+      "strengths": [
+        "Uses strong industry acronyms (MTBF, FMEA)",
+        "Shows analytical and preventative focus",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No metrics on reliability improvements",
+        "Lacks specific software tools used for tracking",
+        "Very brief descriptions"
+      ],
+      "suggestions": [
+        "Quantify the increase in component lifespan",
+        "Specify reliability software (e.g., ReliaSoft)",
+        "Add an objective or summary"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Junior ME | 2021-Present\n- Made BOMs for the assembly team.\n- Changed dimensions on CAD models.\n- Helped test parts.\nSKILLS: BOM Creation, CAD, Testing.\nEDUCATION: BS Mechanical Engineering.",
+    "review": {
+      "ats_score": 68,
+      "strengths": [
+        "Highlights core entry-level tasks (BOMs)",
+        "Shows testing exposure",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No specific CAD software mentioned",
+        "Passive language ('Helped')",
+        "No summary"
+      ],
+      "suggestions": [
+        "Specify the CAD platform used",
+        "Use active verbs (e.g., 'Executed part testing')",
+        "Add a professional objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Machine Drawer\nDrew pictures of parts. Sent them to the boss. 2 years.",
+    "review": {
+      "ats_score": 35,
+      "strengths": [
+        "Indicates basic drafting experience",
+        "2 years of tenure"
+      ],
+      "weaknesses": [
+        "Highly unprofessional job title",
+        "No CAD software mentioned",
+        "Missing formatting and educational details"
+      ],
+      "suggestions": [
+        "Rename to Mechanical Drafter",
+        "List the specific software used",
+        "Format chronologically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nSchool District Superintendent | 2015-Present\n- Directed a district of 20,000 students and $150M budget.\n- Implemented a 1:1 technology program, distributing laptops to all high schoolers.\n- Increased district graduation rate by 15% over 5 years.\nSKILLS: District Leadership, Budgeting, Educational Technology, Strategic Planning.\nEDUCATION: Ed.D in Educational Leadership.",
+    "review": {
+      "ats_score": 97,
+      "strengths": [
+        "Massive scale of leadership and budget",
+        "Clear, quantifiable improvement in graduation rates",
+        "Holds highest relevant degree (Ed.D)"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Could expand on community/board relations",
+        "Brief bullet points"
+      ],
+      "suggestions": [
+        "Add a powerful executive summary",
+        "Detail collaboration with the school board",
+        "Mention specific curriculum overhaul initiatives"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "High School Science Teacher | 2016-2023\n- Taught AP Biology aligned with NGSS standards.\n- Managed courses using Canvas LMS, increasing student engagement.\n- Achieved a 90% pass rate on AP exams.\nSKILLS: AP Biology, NGSS, Canvas LMS, Classroom Management.\nEDUCATION: M.Ed, State Teaching License.",
+    "review": {
+      "ats_score": 86,
+      "strengths": [
+        "Mentions specific teaching standards (NGSS)",
+        "Highlights technology integration (Canvas)",
+        "Excellent quantifiable student outcomes"
+      ],
+      "weaknesses": [
+        "No summary section",
+        "Could include details on differentiated instruction",
+        "Lacks extracurricular or committee involvement"
+      ],
+      "suggestions": [
+        "Add a brief career summary",
+        "Mention any science fair or club leadership",
+        "Detail strategies for diverse learners"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Instructional Designer | 2018-Present\n- Built corporate eLearning modules using Articulate Storyline.\n- Worked with SMEs to gather content.\n- Uploaded courses to the company LMS.\nSKILLS: Articulate Storyline, eLearning, SME Collaboration, LMS.\nEDUCATION: MA Instructional Design.",
+    "review": {
+      "ats_score": 79,
+      "strengths": [
+        "Mentions industry-standard authoring tool",
+        "Shows SME collaboration",
+        "Relevant advanced degree"
+      ],
+      "weaknesses": [
+        "No metrics on learner completion or satisfaction",
+        "Lacks specific LMS platform names",
+        "Very basic descriptions"
+      ],
+      "suggestions": [
+        "Quantify the number of courses created",
+        "Name the LMS used (e.g., Cornerstone, Moodle)",
+        "Include metrics on training effectiveness"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Academic Advisor | 2017-2022\n- Advised a caseload of 400 undergrads.\n- Maintained a 90% student retention rate.\n- Helped students pick classes and majors.\nSKILLS: Academic Advising, Student Retention, Course Scheduling.\nEDUCATION: BA Psychology.",
+    "review": {
+      "ats_score": 77,
+      "strengths": [
+        "Quantifies student caseload",
+        "Excellent retention metric",
+        "Shows core advising duties"
+      ],
+      "weaknesses": [
+        "No specific Student Information System (SIS) mentioned",
+        "Informal phrasing at times",
+        "No summary"
+      ],
+      "suggestions": [
+        "Specify the SIS used (e.g., Banner, Workday Student)",
+        "Use professional terms like 'Degree Auditing'",
+        "Add a professional objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Teacher\nTaught math to kids. Graded papers. Handled parent teacher conferences. 5 years.",
+    "review": {
+      "ats_score": 45,
+      "strengths": [
+        "Indicates subject taught",
+        "Shows parent communication experience",
+        "5 years of tenure"
+      ],
+      "weaknesses": [
+        "No grade level specified",
+        "Informal language",
+        "Missing licensure, education, and dates"
+      ],
+      "suggestions": [
+        "Specify the grade level (e.g., Middle School Math)",
+        "List teaching credentials and degrees",
+        "Format chronologically"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Tutor\nHelped kids with homework after school. Checked their math. 1 year.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Shows academic support experience",
+        "Indicates math focus"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "No specific age groups or outcomes",
+        "Lacks professional formatting"
+      ],
+      "suggestions": [
+        "Rename to After-School Tutor",
+        "Quantify the number of students helped",
+        "Include any grade improvements observed"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nGeneral Counsel | 2014-Present\n- Managed a $20M outside counsel budget for a Fortune 500 tech firm.\n- Led legal strategy for 5 M&A transactions valued over $1B total.\n- Oversaw IP portfolio, filing 50+ patents.\nSKILLS: Corporate Law, M&A, Intellectual Property, Budget Management, Executive Leadership.\nEDUCATION: JD, State Bar License.",
+    "review": {
+      "ats_score": 96,
+      "strengths": [
+        "Massive financial and legal scale",
+        "Clear high-level strategic involvement (M&A, IP)",
+        "Required licensure included"
+      ],
+      "weaknesses": [
+        "No professional summary",
+        "Could expand on risk mitigation strategies",
+        "Brief descriptions for an executive"
+      ],
+      "suggestions": [
+        "Add an executive summary",
+        "Mention board of directors advisory experience",
+        "Detail specific regulatory compliance oversight"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Corporate Paralegal | 2017-2023\n- Drafted NDAs and vendor contracts.\n- Managed contract lifecycle in Relativity.\n- Organized corporate minute books.\nSKILLS: Contract Drafting, Relativity, Lifecycle Management, Legal Research.\nEDUCATION: Paralegal Certificate, BA English.",
+    "review": {
+      "ats_score": 82,
+      "strengths": [
+        "Mentions industry-standard software (Relativity)",
+        "Highlights core corporate paralegal duties",
+        "Includes formal certification"
+      ],
+      "weaknesses": [
+        "No metrics on contract volume",
+        "Lacks a professional summary",
+        "Brief bullet points"
+      ],
+      "suggestions": [
+        "Quantify the number of contracts managed monthly",
+        "Add a career objective or summary",
+        "Detail interaction with outside counsel"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Associate Attorney | 2019-Present\n- Handled commercial litigation cases.\n- Did eDiscovery review for large lawsuits.\n- Wrote legal briefs for the partner.\nSKILLS: Commercial Litigation, eDiscovery, Legal Writing.\nEDUCATION: JD, State Bar License.",
+    "review": {
+      "ats_score": 75,
+      "strengths": [
+        "Clear practice area focus",
+        "Includes required licensure",
+        "Mentions eDiscovery"
+      ],
+      "weaknesses": [
+        "Informal phrasing ('Did eDiscovery', 'Wrote legal briefs')",
+        "No metrics on case volume or settlements",
+        "No summary"
+      ],
+      "suggestions": [
+        "Use professional phrasing (e.g., 'Managed eDiscovery workflows', 'Drafted motions')",
+        "Quantify the value of cases handled",
+        "Specify eDiscovery platforms used"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Law Clerk\nFiled legal papers at the courthouse. Answered phones for the lawyers. 2 years.",
+    "review": {
+      "ats_score": 40,
+      "strengths": [
+        "Indicates law firm exposure",
+        "Shows basic administrative support"
+      ],
+      "weaknesses": [
+        "Extremely brief and informal",
+        "No formatting or dates",
+        "Lacks legal research skills"
+      ],
+      "suggestions": [
+        "Format chronologically with clear details",
+        "Include any legal research or drafting performed",
+        "Use professional terminology"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Legal Assistant\nTyped up documents. Organized folders for the big cases. 3 years.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Shows document preparation experience",
+        "Indicates organizational skills"
+      ],
+      "weaknesses": [
+        "Highly informal",
+        "Missing software skills (e.g., LexisNexis, MS Office)",
+        "No standard formatting"
+      ],
+      "suggestions": [
+        "Use a standard resume format",
+        "List specific legal document types typed",
+        "Include software proficiencies"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "EXPERIENCE\nChief Operating Officer | 2015-Present\n- Directed a $5B enterprise, expanding margins by 30%.\n- Led digital transformation of global supply chain.\n- Managed 10,000+ employees across 20 countries.\nSKILLS: Executive Leadership, Digital Transformation, Margin Expansion, Global Operations.\nEDUCATION: MBA.",
+    "review": {
+      "ats_score": 98,
+      "strengths": [
+        "Massive global scale and financial responsibility",
+        "Exceptional margin expansion metric",
+        "Clear transformative leadership"
+      ],
+      "weaknesses": [
+        "No early career background",
+        "Missing a professional summary",
+        "Brief bullet points for a COO"
+      ],
+      "suggestions": [
+        "Add a powerful executive summary",
+        "Detail board reporting experience",
+        "Name specific transformative technologies implemented"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Director of Operations | 2016-2023\n- Managed operations across 5 regional sites with 500 staff.\n- Created KPI dashboards in Tableau to track daily performance.\n- Reduced operating costs by 15%.\nSKILLS: Multi-site Management, KPI Dashboards, Tableau, Cost Reduction.\nEDUCATION: BS Business Administration.",
+    "review": {
+      "ats_score": 90,
+      "strengths": [
+        "Strong cost reduction metrics",
+        "Highlights technical tracking skills (Tableau)",
+        "Clear multi-site leadership"
+      ],
+      "weaknesses": [
+        "Lacks specific budget dollar amounts",
+        "No summary section",
+        "Could detail specific process improvements made"
+      ],
+      "suggestions": [
+        "Quantify the operating budget managed",
+        "Add an executive summary",
+        "Mention methodologies used for cost reduction (e.g., Lean)"
+      ],
+      "verdict": "Strong Fit"
+    }
+  },
+  {
+    "resume_text": "Operations Analyst | 2019-Present\n- Mapped business processes to find bottlenecks.\n- Did cost-benefit analysis for new software.\n- Used Lean principles to speed up workflows.\nSKILLS: Process Mapping, Cost-Benefit Analysis, Lean, Operations.\nEDUCATION: BA Economics.",
+    "review": {
+      "ats_score": 76,
+      "strengths": [
+        "Highlights analytical methods (Cost-benefit, Process mapping)",
+        "Mentions Lean principles",
+        "Relevant degree"
+      ],
+      "weaknesses": [
+        "No quantitative metrics on speed improvements",
+        "Lacks specific software tools used for mapping (e.g., Visio)",
+        "Informal phrasing"
+      ],
+      "suggestions": [
+        "Quantify workflow speed improvements",
+        "Specify mapping tools like MS Visio or Lucidchart",
+        "Add a career objective"
+      ],
+      "verdict": "Potential Fit"
+    }
+  },
+  {
+    "resume_text": "Ops Guy\nRan the daily stuff. Made sure people worked on time. Fixed problems when they happened. 5 years.",
+    "review": {
+      "ats_score": 35,
+      "strengths": [
+        "Shows daily operational oversight",
+        "Indicates problem-solving"
+      ],
+      "weaknesses": [
+        "Extremely unprofessional title and tone",
+        "Missing all standard resume formatting",
+        "Lacks any specific metrics or tools"
+      ],
+      "suggestions": [
+        "Rename to Operations Manager or Supervisor",
+        "Format chronologically with clear details",
+        "Use professional terminology"
+      ],
+      "verdict": "Weak Fit"
+    }
+  },
+  {
+    "resume_text": "Operations Helper\nChecked the inventory. Locked the doors at night. Helped the manager. 2 years.",
+    "review": {
+      "ats_score": 38,
+      "strengths": [
+        "Indicates inventory exposure",
+        "Shows responsibility (security/locking up)"
+      ],
+      "weaknesses": [
+        "Highly informal",
+        "Vague task descriptions",
+        "No company or educational details"
+      ],
+      "suggestions": [
+        "Rename to Operations Assistant",
+        "Detail specific inventory systems used",
+        "Format professionally"
+      ],
+      "verdict": "Weak Fit"
+    }
+  }
+]
