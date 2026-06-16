@@ -538,5 +538,1137 @@
   {
     "resume_text": "EXPERIENCE\nHead of Computer Vision | Visionary AI | 2016 - Present\n- Direct the computer vision research and engineering department, building advanced image and video analysis systems for industrial automation and retail analytics.\n- Spearheaded the development of a real-time facial recognition and pose estimation system, deploying it across 1,000+ retail locations to analyze customer behavior and optimize store layouts.\n- Engineered a novel anomaly detection framework using Convolutional Neural Networks (CNNs) for manufacturing quality control, reducing defect rates by 18%.\n- Managed strategic partnerships with hardware vendors to co-develop optimized edge AI cameras capable of processing complex neural networks locally.\nSenior Research Engineer | Robotics Inc | 2009 - 2016\n- Designed visual SLAM (Simultaneous Localization and Mapping) algorithms for autonomous warehouse robots.\n- Optimized image processing pipelines in C++ and OpenCV, significantly improving real-time tracking performance.\n\nSKILLS\nComputer Vision, Image Processing, Convolutional Neural Networks (CNNs), Facial Recognition, Visual SLAM, Edge AI, PyTorch, OpenCV, C++, R&D Leadership\n\nEDUCATION\nPh.D. in Electrical Engineering (Computer Vision) | 2008",
     "summary": "Computer vision specialist and R&D executive bringing 15 years of advanced experience designing and deploying highly sophisticated image and video analysis systems. Expert in directing computer vision departments to build real-time facial recognition and pose estimation technologies, successfully deployed across 1,000+ retail locations to optimize analytics. Demonstrated capability in engineering novel CNN anomaly detection frameworks for industrial quality control, significantly reducing manufacturing defect rates by 18%. Highly skilled in designing complex visual SLAM algorithms for autonomous robotics and optimizing processing pipelines with C++ and OpenCV. A PhD-educated leader equipped with proven success in forging strategic hardware partnerships to co-develop optimized edge AI cameras, driving the scalable application of cutting-edge computer vision research."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Software Engineer | AlphaTech | 2021-Present. Developed 10 REST APIs in Java/Spring Boot, improving data retrieval by 15%. SKILLS: Java, Spring, Git. EDUCATION: BS Computer Science.",
+    "summary": "Entry-level Software Engineer with hands-on experience building Java REST APIs and optimizing data retrieval."
+  },
+  {
+    "resume_text": "EXPERIENCE: Software Engineer | BetaSoft | 2018-2021. Designed Node.js microservices handling 10k RPS. Optimized MongoDB queries, reducing latency by 20%. SKILLS: Node.js, React, MongoDB. EDU: BS CS.",
+    "summary": "Mid-level Software Engineer proficient in Node.js microservices and database query optimization."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Software Engineer | GammaInc | 2015-Present. Led cloud migration to AWS, saving $50k annually. Mentored 5 junior devs. SKILLS: Python, AWS, Docker. EDU: MS Software Engineering.",
+    "summary": "Senior Software Engineer with 8 years of experience leading AWS cloud migrations and mentoring development teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Software Engineer | DeltaCorp | 2010-Present. Architected a multi-region highly available backend serving 5M users. Reduced downtime by 40%. SKILLS: Go, Kubernetes, System Architecture.",
+    "summary": "Staff Software Engineer specializing in highly available, multi-region distributed systems and Kubernetes."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Software Engineer | EpsilonTech | 2005-Present. Patented 3 distributed caching algorithms. Directed technical strategy for a 100-person engineering org. SKILLS: C++, Distributed Systems, Technical Strategy.",
+    "summary": "Principal Software Engineer recognized for patented distributed caching algorithms and enterprise technical strategy."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Software Engineering | ZetaSolutions | 2012-Present. Managed $5M budget and 50+ engineers. Shipped 4 major enterprise products ahead of schedule. SKILLS: Agile Leadership, Budgeting, SDLC.",
+    "summary": "Director of Software Engineering with a proven track record of managing $5M budgets and delivering enterprise products."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Engineering | EtaSoft | 2008-Present. Scaled engineering department from 20 to 200. Championed DevOps culture, increasing deployment frequency by 300%. SKILLS: Executive Leadership, Scaling Orgs.",
+    "summary": "VP of Engineering skilled in scaling technical organizations to 200+ employees and driving DevOps cultural transformations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior AI Engineer | AIWorks | 2022-Present. Built customer support chatbots using LangChain and OpenAI API, deflecting 20% of tickets. SKILLS: Python, LangChain, Prompt Engineering. EDU: BS AI.",
+    "summary": "Entry-level AI Engineer experienced in building LLM-powered chatbots and applying prompt engineering techniques."
+  },
+  {
+    "resume_text": "EXPERIENCE: AI Engineer | CognitiveSystems | 2019-2022. Fine-tuned transformer models for sentiment analysis, achieving 92% accuracy. Deployed models using Docker. SKILLS: PyTorch, Hugging Face, NLP.",
+    "summary": "Mid-level AI Engineer with expertise in fine-tuning transformer models and deploying scalable NLP solutions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior AI Engineer | NeuralNet | 2016-Present. Architected scalable RAG pipelines using Pinecone and LLMs, indexing 10M documents for enterprise search. SKILLS: Python, RAG, Vector Databases.",
+    "summary": "Senior AI Engineer specializing in Retrieval-Augmented Generation (RAG) and large-scale vector database architectures."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff AI Engineer | BrainCorp | 2012-Present. Developed proprietary computer vision models for autonomous drones, improving object detection by 30%. SKILLS: Computer Vision, TensorFlow, C++.",
+    "summary": "Staff AI Engineer focused on advanced computer vision models and edge deployment for autonomous systems."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal AI Engineer | TuringTech | 2008-Present. Led core AI research, publishing 5 papers at NeurIPS. Designed novel reinforcement learning frameworks. SKILLS: Reinforcement Learning, AI Research.",
+    "summary": "Principal AI Engineer and researcher with multiple NeurIPS publications and expertise in reinforcement learning."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of AI | VisionaryLabs | 2014-Present. Managed an AI lab of 40 researchers. Secured $10M in R&D funding for next-gen generative AI models. SKILLS: R&D Management, Generative AI.",
+    "summary": "Director of AI adept at managing large research labs and securing multi-million dollar R&D funding."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of AI Engineering | SynthData | 2010-Present. Defined enterprise AI strategy, integrating AI into 5 core products and driving $20M in new revenue. SKILLS: AI Strategy, Executive Leadership.",
+    "summary": "VP of AI Engineering with a strong background in enterprise AI strategy and revenue-driving product integration."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Machine Learning Engineer | DataMind | 2021-Present. Trained linear regression and XGBoost models for sales forecasting, improving accuracy by 10%. SKILLS: Scikit-learn, Python, SQL.",
+    "summary": "Entry-level Machine Learning Engineer experienced in classical ML algorithms and sales forecasting models."
+  },
+  {
+    "resume_text": "EXPERIENCE: ML Engineer | Predicta | 2018-2021. Built recommendation systems using collaborative filtering, increasing user engagement by 15%. SKILLS: Spark MLlib, Python, Databricks.",
+    "summary": "Mid-level Machine Learning Engineer with a proven track record of building and scaling recommendation engines."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior ML Engineer | OptimaAI | 2015-Present. Deployed ML models to AWS SageMaker. Automated hyperparameter tuning, reducing training time by 40%. SKILLS: AWS SageMaker, CI/CD for ML, Python.",
+    "summary": "Senior Machine Learning Engineer specializing in cloud-native MLOps and automated model deployment on AWS."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff ML Engineer | AlgoTech | 2011-Present. Architected fraud detection pipelines processing 1M transactions/sec with sub-millisecond latency. SKILLS: Fraud Detection, Kafka, Scala.",
+    "summary": "Staff Machine Learning Engineer expert in ultra-low-latency fraud detection and real-time streaming architectures."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal ML Engineer | DeepInsights | 2006-Present. Designed foundational MLOps platforms enabling 100+ data scientists to deploy models autonomously. SKILLS: MLOps, Kubernetes, Kubeflow.",
+    "summary": "Principal Machine Learning Engineer dedicated to building enterprise-scale MLOps platforms and CI/CD pipelines."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Machine Learning | MLWorks | 2013-Present. Led a team of 30 ML engineers. Reduced compute costs by $1M via distributed training optimization. SKILLS: Team Leadership, Cost Optimization.",
+    "summary": "Director of Machine Learning known for optimizing distributed training costs and leading high-performing engineering teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Machine Learning | IntelliData | 2009-Present. Steered global ML initiatives, delivering predictive maintenance solutions that saved manufacturing clients $50M. SKILLS: Global Strategy, Predictive ML.",
+    "summary": "VP of Machine Learning with a history of delivering high-impact predictive maintenance solutions for enterprise clients."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Data Scientist | StatCorp | 2022-Present. Cleaned and analyzed 100GB of customer data using Pandas. Created Tableau dashboards for marketing. SKILLS: Pandas, Tableau, SQL.",
+    "summary": "Entry-level Data Scientist proficient in data wrangling, SQL querying, and creating interactive Tableau dashboards."
+  },
+  {
+    "resume_text": "EXPERIENCE: Data Scientist | MetricAI | 2018-2022. Developed customer churn models achieving 85% AUC. Conducted A/B tests that boosted conversion rates by 5%. SKILLS: A/B Testing, Predictive Modeling, R.",
+    "summary": "Mid-level Data Scientist experienced in A/B testing and developing predictive churn models to drive business growth."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Data Scientist | Insightful | 2015-Present. Led NLP initiatives to extract sentiment from 2M daily reviews. Built automated reporting pipelines. SKILLS: NLP, Python, Snowflake.",
+    "summary": "Senior Data Scientist specializing in Natural Language Processing and automated analytics pipelines."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Data Scientist | QuantData | 2010-Present. Pioneered causal inference frameworks for marketing attribution, reallocating $10M in ad spend efficiently. SKILLS: Causal Inference, Bayesian Stats.",
+    "summary": "Staff Data Scientist recognized for applying causal inference and Bayesian statistics to optimize marketing attribution."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Data Scientist | AlgoTrade | 2005-Present. Developed high-frequency trading algorithms using stochastic calculus. Generated 12% alpha annually. SKILLS: Quantitative Finance, Time Series.",
+    "summary": "Principal Data Scientist with deep expertise in quantitative finance, time series forecasting, and algorithmic trading."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Data Science | EcomGiant | 2012-Present. Managed 40 data scientists. Shipped personalized pricing models that increased gross margins by 8%. SKILLS: Pricing Strategy, Team Leadership.",
+    "summary": "Director of Data Science adept at leading large teams to deliver pricing optimization and profitability improvements."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Data Science | GlobalRetail | 2008-Present. Governed enterprise data strategy, establishing a Data Center of Excellence and driving $100M in data-led ROI. SKILLS: Data Strategy, Executive Leadership.",
+    "summary": "VP of Data Science focused on establishing Data Centers of Excellence and maximizing enterprise ROI through analytics."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Data Engineer | DataPipe | 2021-Present. Wrote SQL scripts to extract data from APIs. Built basic dbt models for reporting tables. SKILLS: SQL, dbt, Python. EDU: BS IT.",
+    "summary": "Entry-level Data Engineer with hands-on experience in SQL scripting and dbt data modeling."
+  },
+  {
+    "resume_text": "EXPERIENCE: Data Engineer | FlowTech | 2018-2021. Designed ETL pipelines using Apache Airflow and Spark. Migrated on-premise data to AWS S3. SKILLS: Airflow, Spark, AWS S3.",
+    "summary": "Mid-level Data Engineer skilled in Apache Airflow orchestration and migrating data to AWS cloud environments."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Data Engineer | BigDataInc | 2014-Present. Architected real-time streaming data pipelines with Kafka and Flink, processing 50k events/sec. SKILLS: Kafka, Flink, Streaming Data.",
+    "summary": "Senior Data Engineer specializing in high-throughput, real-time event streaming architectures using Kafka."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Data Engineer | CloudWarehouse | 2010-Present. Engineered Snowflake data warehouse serving 500+ analysts. Optimized schemas, reducing query costs by 30%. SKILLS: Snowflake, Dimensional Modeling.",
+    "summary": "Staff Data Engineer with expertise in Snowflake cost optimization and enterprise dimensional data modeling."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Data Engineer | DataMesh | 2006-Present. Championed enterprise data mesh architecture. Decentralized data ownership across 20 domains, improving data agility. SKILLS: Data Mesh, Data Governance.",
+    "summary": "Principal Data Engineer recognized for implementing decentralized data mesh architectures and enterprise governance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Data Engineering | StreamLine | 2011-Present. Managed 30 data engineers. Standardized CI/CD for data pipelines, achieving 99.9% data availability. SKILLS: Data Ops, Team Management.",
+    "summary": "Director of Data Engineering focused on standardizing DataOps practices and ensuring high data availability."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Data Engineering | EnterpriseData | 2005-Present. Directed global data infrastructure for a Fortune 500 company, managing a 10PB data lake. SKILLS: Petabyte-Scale Architecture, IT Strategy.",
+    "summary": "VP of Data Engineering with executive experience managing petabyte-scale data lakes and global infrastructure."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Cloud Engineer | SkyNet | 2022-Present. Provisioned EC2 instances and S3 buckets via AWS Console. Monitored CloudWatch alarms for uptime. SKILLS: AWS, CloudWatch, Linux.",
+    "summary": "Entry-level Cloud Engineer familiar with AWS resource provisioning and basic cloud monitoring."
+  },
+  {
+    "resume_text": "EXPERIENCE: Cloud Engineer | CloudOps | 2018-2022. Automated infrastructure deployment using Terraform. Managed IAM policies and improved security posture. SKILLS: Terraform, IAM, Azure.",
+    "summary": "Mid-level Cloud Engineer experienced in Infrastructure as Code (Terraform) and managing Azure security policies."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Cloud Engineer | OmniCloud | 2015-Present. Architected multi-region AWS environments for high availability. Reduced cloud spend by 20% via FinOps practices. SKILLS: AWS Architecture, FinOps.",
+    "summary": "Senior Cloud Engineer specializing in highly available multi-region architectures and cloud cost optimization."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Cloud Engineer | HybridSystems | 2011-Present. Led migration of 1000+ VMs to Google Cloud Platform. Designed hybrid networking with Cloud Interconnect. SKILLS: GCP, Hybrid Cloud, Networking.",
+    "summary": "Staff Cloud Engineer expert in large-scale GCP migrations and hybrid cloud network integration."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Cloud Engineer | CloudScale | 2007-Present. Developed serverless computing frameworks utilizing AWS Lambda. Enforced zero-trust cloud network boundaries. SKILLS: Serverless, Zero Trust.",
+    "summary": "Principal Cloud Engineer focused on serverless architectures and zero-trust cloud security boundaries."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Cloud Engineering | AeroCloud | 2012-Present. Managed $10M cloud budget. Led a team of 40 engineers to maintain 99.99% infrastructure uptime. SKILLS: Budget Management, Cloud Reliability.",
+    "summary": "Director of Cloud Engineering adept at managing multi-million dollar budgets and ensuring strict uptime SLAs."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Cloud Engineering | GlobalNet | 2008-Present. Drove enterprise-wide multi-cloud strategy across AWS and Azure, mitigating vendor lock-in for a $2B corp. SKILLS: Multi-Cloud Strategy, Executive Leadership.",
+    "summary": "VP of Cloud Engineering offering strategic vision for multi-cloud enterprise deployments and vendor management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior DevOps Engineer | AutoBuild | 2021-Present. Assisted in maintaining Jenkins CI/CD pipelines. Wrote bash scripts to automate daily server backups. SKILLS: Jenkins, Bash, Linux.",
+    "summary": "Entry-level DevOps Engineer with foundational experience in CI/CD maintenance and Bash scripting."
+  },
+  {
+    "resume_text": "EXPERIENCE: DevOps Engineer | ReleaseFast | 2018-2021. Containerized 20+ legacy applications using Docker. Deployed to Kubernetes clusters via GitLab CI. SKILLS: Docker, Kubernetes, GitLab CI.",
+    "summary": "Mid-level DevOps Engineer proficient in Docker containerization and Kubernetes deployments via GitLab CI."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior DevOps Engineer | ScaleOps | 2014-Present. Championed GitOps methodology using ArgoCD. Reduced deployment failures by 60% through automated rollbacks. SKILLS: GitOps, ArgoCD, Ansible.",
+    "summary": "Senior DevOps Engineer specializing in GitOps workflows and automated infrastructure configuration."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff DevOps Engineer | SiteReliability | 2010-Present. Established robust observability stacks using Prometheus and Grafana. Decreased MTTR by 45%. SKILLS: Observability, Prometheus, Grafana.",
+    "summary": "Staff DevOps Engineer recognized for building advanced observability stacks and significantly reducing MTTR."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal DevOps Engineer | SystemCore | 2006-Present. Architected enterprise CI/CD frameworks adopted by 500+ developers. Standardized DevSecOps security scanning. SKILLS: DevSecOps, Enterprise CI/CD.",
+    "summary": "Principal DevOps Engineer focused on enterprise-wide CI/CD standardization and integrating DevSecOps practices."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of DevOps | AgileRelease | 2012-Present. Led 50 DevOps engineers. Fostered a culture of infrastructure as code, reducing environment provisioning from weeks to minutes. SKILLS: IaC Culture, Leadership.",
+    "summary": "Director of DevOps dedicated to transforming engineering cultures through Infrastructure as Code and automation."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of DevOps | ContinuousFlow | 2008-Present. Governed global release engineering strategy. Improved software delivery cadence by 500% across 20 product lines. SKILLS: Release Strategy, Global Operations.",
+    "summary": "VP of DevOps with a proven record of exponentially increasing software delivery cadence across global operations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Cybersecurity Analyst | SecureIt | 2022-Present. Monitored SOC alerts and triaged phishing emails. Documented security incidents in ServiceNow. SKILLS: SOC, Phishing Analysis, Incident Triage.",
+    "summary": "Entry-level Cybersecurity Analyst experienced in SOC monitoring and initial incident triage."
+  },
+  {
+    "resume_text": "EXPERIENCE: Cybersecurity Engineer | DefendNet | 2018-2022. Configured Palo Alto firewalls and managed IPS/IDS rules. Conducted weekly vulnerability scans using Nessus. SKILLS: Firewalls, Nessus, Vulnerability Scanning.",
+    "summary": "Mid-level Cybersecurity Engineer skilled in firewall configuration and proactive vulnerability management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Cybersecurity Engineer | CyberShield | 2015-Present. Led incident response for malware outbreaks. Tuned Splunk SIEM to reduce false positives by 40%. SKILLS: Incident Response, Splunk, SIEM.",
+    "summary": "Senior Cybersecurity Engineer specializing in high-stakes incident response and SIEM optimization."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Security Engineer | TrustSec | 2011-Present. Executed advanced penetration testing on web applications and APIs. Discovered and patched 20+ zero-day vulnerabilities. SKILLS: Penetration Testing, OWASP.",
+    "summary": "Staff Security Engineer recognized for advanced penetration testing and discovering critical web vulnerabilities."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Security Architect | IronClad | 2006-Present. Designed zero-trust network architectures for global offices. Integrated IAM frameworks using Okta. SKILLS: Zero Trust, IAM, Security Architecture.",
+    "summary": "Principal Security Architect focused on designing zero-trust networks and enterprise IAM frameworks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Cybersecurity | SafeCorp | 2012-Present. Managed a 30-person security team. Ensured continuous compliance with SOC2 and ISO 27001 standards. SKILLS: Compliance, Risk Management, Team Leadership.",
+    "summary": "Director of Cybersecurity adept at managing compliance audits and leading large security operations teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Cybersecurity | GlobalDefend | 2008-Present. Defined enterprise cyber risk strategy. Handled C-suite and board reporting on cyber threats and mitigation plans. SKILLS: Cyber Strategy, Board Reporting.",
+    "summary": "VP of Cybersecurity offering executive-level risk strategy and clear board-level communication on cyber threats."
+  },
+  {
+    "resume_text": "EXPERIENCE: Associate Product Manager | LaunchPad | 2021-Present. Wrote user stories and maintained the product backlog in Jira. Conducted 50+ user interviews to gather feedback. SKILLS: User Stories, Jira, User Research.",
+    "summary": "Entry-level Product Manager experienced in backlog management and conducting qualitative user research."
+  },
+  {
+    "resume_text": "EXPERIENCE: Product Manager | SaaSWorks | 2018-2021. Managed the lifecycle of a B2B SaaS tool, growing ARR by $1M. Collaborated with UI/UX to improve onboarding. SKILLS: B2B SaaS, Roadmapping, UI/UX.",
+    "summary": "Mid-level Product Manager with a track record of launching B2B SaaS features and driving revenue growth."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Product Manager | NextGenApp | 2014-Present. Owned the mobile app roadmap for 2M+ users. Executed A/B tests that increased daily engagement by 15%. SKILLS: Mobile PM, A/B Testing, Data Analytics.",
+    "summary": "Senior Product Manager specializing in mobile applications and utilizing A/B testing to maximize user engagement."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Product Manager | DataProducts | 2010-Present. Led cross-functional squads to deliver complex data analytics products. Aligned product KPIs with corporate OKRs. SKILLS: Cross-functional Leadership, OKRs.",
+    "summary": "Staff Product Manager focused on aligning complex product deliveries with strategic corporate OKRs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Product Manager | FinTechPro | 2006-Present. Architected financial product platforms processing $1B+ annually. Spearheaded regulatory compliance features. SKILLS: FinTech, Platform Strategy.",
+    "summary": "Principal Product Manager recognized for architecting high-volume FinTech platforms and navigating regulatory landscapes."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Product Management | VisionaryTech | 2011-Present. Mentored a team of 15 PMs. Expanded product lines into European markets, capturing 10% market share. SKILLS: Market Expansion, PM Mentorship.",
+    "summary": "Director of Product Management adept at international market expansion and scaling product management teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Product | OmniCorp | 2005-Present. Directed enterprise product portfolio generating $200M. Executed strategic acquisitions to expand feature capabilities. SKILLS: Portfolio Management, M&A.",
+    "summary": "VP of Product with executive experience managing $200M portfolios and driving strategic M&A product integrations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Project Coordinator | BuildIt | 2022-Present. Scheduled weekly status meetings and took detailed minutes. Tracked project tasks using Asana and Trello. SKILLS: Task Tracking, Scheduling, Asana.",
+    "summary": "Entry-level Project Manager skilled in coordinating team schedules and maintaining task trackers."
+  },
+  {
+    "resume_text": "EXPERIENCE: Project Manager | AgileDev | 2018-2022. Managed software development sprints as Scrum Master. Delivered 5 major releases on time and under budget. SKILLS: Scrum Master, Agile, Budgeting.",
+    "summary": "Mid-level Project Manager and certified Scrum Master experienced in delivering software releases on time."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Project Manager | EnterpriseSolutions | 2014-Present. Led $5M ERP implementation projects. Mitigated critical risks and managed stakeholders across 5 departments. SKILLS: ERP Implementations, Risk Mitigation.",
+    "summary": "Senior Project Manager specializing in multi-million dollar ERP implementations and cross-departmental stakeholder management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Project Manager | InfraBuild | 2010-Present. Directed global infrastructure projects spanning 3 continents. Standardized PMO processes, improving delivery by 20%. SKILLS: Global Projects, PMO Standardization.",
+    "summary": "Staff Project Manager recognized for standardizing PMO processes and executing complex global infrastructure projects."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Project Manager | MegaWorks | 2006-Present. Orchestrated complex $50M capital projects. Navigated strict regulatory environments and secured critical permits. SKILLS: Capital Projects, Regulatory Compliance.",
+    "summary": "Principal Project Manager focused on high-stakes capital projects and complex regulatory navigation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of PMO | StrategyExecute | 2011-Present. Established the Project Management Office for a 1000-person firm. Managed a portfolio of 100+ concurrent IT projects. SKILLS: PMO Leadership, Portfolio Management.",
+    "summary": "Director of PMO adept at establishing governance structures and managing massive IT project portfolios."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Project Management | GlobalCorp | 2005-Present. Aligned enterprise project portfolios with corporate strategic objectives. Oversaw $100M+ in strategic initiatives. SKILLS: Strategic Alignment, Executive Leadership.",
+    "summary": "VP of Project Management offering executive vision for aligning $100M+ project portfolios with strategic corporate goals."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Business Analyst | InsightBiz | 2021-Present. Gathered requirements for internal tools. Created process flow diagrams using MS Visio. SKILLS: Requirement Gathering, MS Visio, Process Mapping.",
+    "summary": "Entry-level Business Analyst experienced in process mapping and initial requirement elicitation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Business Analyst | DataDriven | 2018-2021. Authored 50+ Business Requirement Documents (BRDs). Bridged communication between IT and finance stakeholders. SKILLS: BRDs, Stakeholder Communication, SQL.",
+    "summary": "Mid-level Business Analyst skilled in writing comprehensive BRDs and bridging IT and business teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Business Analyst | ProcessPro | 2014-Present. Led JAD sessions for enterprise software overhauls. Identified bottlenecks, increasing operational efficiency by 15%. SKILLS: JAD Sessions, Process Re-engineering.",
+    "summary": "Senior Business Analyst specializing in process re-engineering and facilitating enterprise JAD sessions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Business Analyst | TransformTech | 2010-Present. Guided digital transformation strategies. Designed future-state workflows leveraging BPMN 2.0. SKILLS: Digital Transformation, BPMN, Future-State Design.",
+    "summary": "Staff Business Analyst recognized for designing future-state workflows and leading digital transformation initiatives."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Business Analyst | CoreSystems | 2006-Present. Advised C-suite on major CRM acquisitions. Developed rigorous ROI analyses prior to software procurement. SKILLS: ROI Analysis, Vendor Evaluation, CRM.",
+    "summary": "Principal Business Analyst focused on high-level vendor evaluation and ROI analysis for enterprise software acquisitions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Business Analysis | StrategyGroup | 2012-Present. Managed 20+ BAs. Standardized requirement elicitation templates across the entire enterprise. SKILLS: Team Management, Standardization.",
+    "summary": "Director of Business Analysis adept at standardizing enterprise BA practices and leading large analyst teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Business Analysis | GlobalOps | 2007-Present. Directed global process optimization initiatives, driving $20M in cost savings through business realignment. SKILLS: Global Optimization, Cost Savings.",
+    "summary": "VP of Business Analysis offering strategic leadership in global process optimization and enterprise cost reduction."
+  },
+  {
+    "resume_text": "EXPERIENCE: Sales Development Rep | SellFast | 2022-Present. Executed cold calling and email outreach campaigns. Generated 30+ qualified leads per month using Salesforce. SKILLS: Cold Calling, Lead Generation, Salesforce.",
+    "summary": "Entry-level Sales Representative experienced in outbound lead generation and CRM management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Account Executive | TechSales | 2018-2022. Closed $1.5M in annual software revenue. Conducted product demos and negotiated contracts with mid-market clients. SKILLS: B2B Sales, Negotiation, Product Demos.",
+    "summary": "Mid-level Account Executive with a proven track record of closing B2B software deals and negotiating contracts."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Account Executive | EnterpriseCloud | 2014-Present. Exceeded $3M enterprise quota by 120%. Navigated 6-month sales cycles with Fortune 500 C-suite. SKILLS: Enterprise Sales, C-suite Selling.",
+    "summary": "Senior Sales Executive specializing in long-cycle enterprise sales and building C-level relationships."
+  },
+  {
+    "resume_text": "EXPERIENCE: Strategic Account Manager | MajorAccounts | 2010-Present. Retained top 20 clients with a 98% renewal rate. Upsold $2M in additional services through strategic account reviews. SKILLS: Account Management, Upselling.",
+    "summary": "Strategic Account Manager recognized for exceptionally high retention rates and upselling key enterprise clients."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Sales Executive | MegaDeals | 2005-Present. Secured multi-year, $10M+ contracts in the aerospace sector. Led complex cross-functional proposal teams. SKILLS: Mega-deals, RFP Management, Aerospace.",
+    "summary": "Principal Sales Executive focused on closing massive multi-year contracts and leading complex RFP responses."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Sales | RegionGrow | 2011-Present. Managed a team of 15 AEs across the Midwest territory. Increased regional revenue by 40% in two years. SKILLS: Sales Leadership, Territory Management.",
+    "summary": "Director of Sales adept at managing regional sales teams and driving significant territory revenue growth."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Sales | GlobalRevenue | 2008-Present. Directed North American sales strategy. Realigned compensation plans to drive aggressive new logo acquisition, doubling ARR to $50M. SKILLS: Sales Strategy, Comp Planning.",
+    "summary": "VP of Sales offering executive vision for compensation planning and driving aggressive annual recurring revenue growth."
+  },
+  {
+    "resume_text": "EXPERIENCE: Marketing Coordinator | BrandBuzz | 2021-Present. Drafted social media copy and scheduled posts via Hootsuite. Assisted in organizing trade show materials. SKILLS: Social Media, Copywriting, Event Coordination.",
+    "summary": "Entry-level Marketing Coordinator experienced in social media management and event logistics."
+  },
+  {
+    "resume_text": "EXPERIENCE: Marketing Manager | GrowthMarketing | 2017-2021. Managed PPC campaigns with a $50k/month budget, reducing CPA by 15%. Executed email drip campaigns in HubSpot. SKILLS: PPC, HubSpot, Email Marketing.",
+    "summary": "Mid-level Marketing Manager skilled in optimizing PPC budgets and automating email marketing campaigns."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Marketing Manager | EcomBrand | 2014-Present. Led product launch campaigns generating $5M in first-quarter sales. Directed a team of 4 designers and copywriters. SKILLS: Product Launches, Team Leadership.",
+    "summary": "Senior Marketing Manager specializing in high-impact product launches and cross-functional creative leadership."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Marketing Strategist | OmniChannel | 2010-Present. Architected overarching omnichannel customer journeys. Integrated offline and online marketing data to improve LTV by 20%. SKILLS: Omnichannel, LTV Optimization.",
+    "summary": "Staff Marketing Strategist recognized for building cohesive omnichannel journeys and optimizing customer lifetime value."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Marketing Manager | BrandIdentity | 2005-Present. Orchestrated massive corporate rebranding initiatives. Secured tier-1 influencer partnerships reaching 50M+ impressions. SKILLS: Corporate Rebranding, Influencer Strategy.",
+    "summary": "Principal Marketing Manager focused on corporate rebranding and securing massive influencer partnerships."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Marketing | MarketLead | 2012-Present. Managed a $10M marketing budget. Built the demand generation department from scratch, scaling inbound leads by 300%. SKILLS: Demand Generation, Budget Management.",
+    "summary": "Director of Marketing adept at managing large budgets and scaling demand generation departments."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Marketing | GlobalCMO | 2008-Present. Defined global marketing vision across EMEA and APAC. Increased enterprise market share by 12% against primary competitors. SKILLS: Global Strategy, Market Expansion.",
+    "summary": "VP of Marketing offering executive leadership for global marketing visions and international market share expansion."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Financial Analyst | FinanceWorks | 2022-Present. Reconciled daily bank statements and processed expense reports. Assisted in preparing month-end journal entries. SKILLS: Bank Reconciliation, Excel, Month-end Close.",
+    "summary": "Entry-level Financial Analyst experienced in bank reconciliations and month-end close support."
+  },
+  {
+    "resume_text": "EXPERIENCE: Financial Analyst | CorporateFinance | 2018-2022. Built rolling forecast models in Excel. Analyzed departmental budget variances, identifying $100k in savings. SKILLS: Financial Modeling, Variance Analysis, Forecasting.",
+    "summary": "Mid-level Financial Analyst skilled in building forecast models and executing variance analysis to identify cost savings."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Financial Analyst | InvestCo | 2015-Present. Developed DCF models for potential M&A targets. Prepared board-level presentations on quarterly financial performance. SKILLS: DCF Modeling, M&A Analysis, Board Reporting.",
+    "summary": "Senior Financial Analyst specializing in DCF valuation modeling and preparing executive board presentations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Financial Analyst | GlobalCapital | 2011-Present. Led capital expenditure (CapEx) planning for a $500M portfolio. Optimized cash flow forecasting methodologies. SKILLS: CapEx Planning, Cash Flow Optimization.",
+    "summary": "Staff Financial Analyst recognized for optimizing cash flow forecasting and managing massive CapEx portfolios."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Financial Analyst | WealthStrategy | 2006-Present. Architected quantitative risk models for hedge fund portfolios. Generated 10% alpha during market downturns. SKILLS: Quantitative Modeling, Risk Assessment.",
+    "summary": "Principal Financial Analyst focused on quantitative risk modeling and generating alpha in volatile markets."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of FP&A | EnterpriseForecast | 2013-Present. Directed a team of 12 analysts. Overhauled the annual operating plan (AOP) process, cutting cycle time by 3 weeks. SKILLS: FP&A Leadership, AOP Management.",
+    "summary": "Director of FP&A adept at overhauling annual operating plans and leading large financial analysis teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Finance | GlobalTreasury | 2009-Present. Managed corporate treasury, taxation, and FP&A. Secured $50M in series C funding, negotiating favorable debt covenants. SKILLS: Fundraising, Treasury, Executive Leadership.",
+    "summary": "VP of Finance offering executive expertise in corporate treasury, fundraising, and debt negotiation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Accounting Clerk | LedgerKeepers | 2021-Present. Processed 500+ AP/AR invoices weekly using QuickBooks. Cut vendor checks and maintained digital filing systems. SKILLS: Accounts Payable, QuickBooks, Data Entry.",
+    "summary": "Entry-level Accounting Clerk experienced in high-volume AP/AR processing and QuickBooks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Accountant | BalanceSheet Pro | 2017-2021. Managed general ledger entries and prepared quarterly tax filings. Assisted external auditors during annual reviews. SKILLS: General Ledger, Tax Filings, Audit Support.",
+    "summary": "Mid-level Accountant skilled in general ledger maintenance and supporting external corporate audits."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Accountant | AuditMasters | 2014-Present. Ensured GAAP compliance across all financial statements. Reconciled complex intercompany transactions for 5 subsidiaries. SKILLS: GAAP, Intercompany Reconciliation, Financial Statements.",
+    "summary": "Senior Accountant specializing in strict GAAP compliance and complex intercompany financial reconciliations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Accounting Manager | CorporateBooks | 2010-Present. Supervised a team of 8 accountants. Reduced month-end close time from 10 days to 4 days through process automation. SKILLS: Month-end Close, Team Supervision, Automation.",
+    "summary": "Accounting Manager recognized for slashing month-end close times and supervising dedicated accounting teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Tax Accountant | TaxStrategy | 2005-Present. Developed international tax mitigation strategies, saving the corporation $5M annually. Navigated complex IRS audits. SKILLS: International Tax, IRS Audits, Tax Strategy.",
+    "summary": "Principal Tax Accountant focused on international tax mitigation and successfully navigating complex IRS audits."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Accounting | LedgerLeaders | 2012-Present. Standardized global accounting policies across 20 countries. Implemented SAP ERP accounting modules enterprise-wide. SKILLS: Global Accounting, SAP ERP, Policy Standardization.",
+    "summary": "Director of Accounting adept at implementing SAP ERP systems and standardizing global accounting policies."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Accounting / Controller | GlobalFinance | 2008-Present. Governed all accounting operations for a $1B firm. Ensured impeccable SOX compliance and signed off on SEC filings. SKILLS: Corporate Controller, SOX Compliance, SEC Filings.",
+    "summary": "VP of Accounting and Corporate Controller offering executive oversight of SOX compliance and SEC financial filings."
+  },
+  {
+    "resume_text": "EXPERIENCE: HR Assistant | PeopleOps | 2022-Present. Processed I-9 verifications and updated employee files in BambooHR. Scheduled onboarding sessions for 100+ new hires. SKILLS: Onboarding, BambooHR, Record Keeping.",
+    "summary": "Entry-level HR Assistant experienced in onboarding logistics and maintaining HRIS databases."
+  },
+  {
+    "resume_text": "EXPERIENCE: HR Generalist | CultureFirst | 2018-2022. Administered employee benefits and managed open enrollment. Handled tier-1 employee relations issues and conflict resolution. SKILLS: Benefits Administration, Employee Relations, Conflict Resolution.",
+    "summary": "Mid-level HR Generalist skilled in benefits administration and frontline employee relations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior HR Business Partner | TalentAlign | 2015-Present. Advised engineering VPs on talent succession planning. Reduced departmental turnover by 15% through targeted retention programs. SKILLS: HRBP, Succession Planning, Retention.",
+    "summary": "Senior HR Business Partner specializing in succession planning and implementing effective retention programs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Compensation Analyst | PayScale | 2011-Present. Architected corporate salary bands and equity compensation frameworks. Ensured competitive market positioning. SKILLS: Compensation & Benefits, Equity Planning, Benchmarking.",
+    "summary": "Staff HR Professional recognized for architecting competitive corporate compensation and equity frameworks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Diversity & Inclusion Officer | InclusiveCorp | 2006-Present. Spearheaded enterprise DEI initiatives, increasing diverse leadership representation by 25%. SKILLS: DEI Strategy, Inclusive Leadership, Corporate Culture.",
+    "summary": "Principal HR Professional focused on driving impactful Diversity, Equity, and Inclusion (DEI) strategies."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of HR | PeopleStrategy | 2013-Present. Managed an HR team of 15. Standardized performance review cycles globally, linking KPIs directly to merit increases. SKILLS: Performance Management, Global HR Leadership.",
+    "summary": "Director of HR adept at standardizing global performance management cycles and leading diverse HR teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Human Resources | GlobalTalent | 2009-Present. Directed global talent strategy for 5,000 employees. Led organizational design during three major M&A integrations. SKILLS: M&A HR Integration, Organizational Design, Executive HR.",
+    "summary": "VP of Human Resources offering executive leadership for global talent strategy and complex M&A integrations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Recruiting Coordinator | HireFast | 2021-Present. Scheduled 50+ candidate interviews weekly. Managed candidate communications and updated applicant tracking systems (Greenhouse). SKILLS: Interview Scheduling, Greenhouse, Communication.",
+    "summary": "Entry-level Recruiting Coordinator experienced in high-volume interview scheduling and ATS management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Technical Recruiter | CodeHires | 2017-2021. Sourced and hired 30+ software engineers annually. Conducted behavioral phone screens and negotiated offer letters. SKILLS: Technical Sourcing, Phone Screening, Offer Negotiation.",
+    "summary": "Mid-level Technical Recruiter skilled in sourcing software engineers and negotiating competitive offer letters."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Executive Recruiter | TopBrass | 2014-Present. Specialized in C-suite and VP placements. Reduced agency spend by $500k through aggressive direct sourcing on LinkedIn. SKILLS: Executive Search, LinkedIn Recruiter, Direct Sourcing.",
+    "summary": "Senior Recruiter specializing in executive search and direct sourcing to significantly reduce agency spend."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Sourcing Specialist | TalentPipeline | 2010-Present. Built complex Boolean search strings to uncover niche talent. Maintained a warm pipeline of 500+ passive candidates. SKILLS: Boolean Search, Passive Sourcing, Talent Pipelining.",
+    "summary": "Staff Sourcing Specialist recognized for advanced Boolean search techniques and maintaining expansive passive talent pipelines."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Employer Brand Manager | BrandTalent | 2006-Present. Overhauled employer value proposition (EVP). Increased inbound applications by 40% through targeted social media campaigns. SKILLS: Employer Branding, EVP, Recruitment Marketing.",
+    "summary": "Principal Recruiting Professional focused on overhauling employer branding and driving recruitment marketing campaigns."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Talent Acquisition | ScaleTeam | 2012-Present. Led a team of 20 recruiters. Implemented data-driven hiring metrics, reducing time-to-fill from 45 to 25 days. SKILLS: TA Leadership, Time-to-Fill Optimization, Recruiting Metrics.",
+    "summary": "Director of Talent Acquisition adept at implementing data-driven hiring metrics and drastically reducing time-to-fill."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Talent Acquisition | GlobalHire | 2008-Present. Defined enterprise global hiring strategy, executing 1,000+ hires annually. Standardized global interview rubrics to eliminate bias. SKILLS: Global TA Strategy, Bias Mitigation, High-Volume Hiring.",
+    "summary": "VP of Talent Acquisition offering executive oversight for massive global hiring initiatives and mitigating interview bias."
+  },
+  {
+    "resume_text": "EXPERIENCE: Clinic Assistant | HealthFirst | 2022-Present. Greeted patients and verified insurance information. Scanned medical records into the Epic EMR system. SKILLS: Patient Intake, Insurance Verification, Epic EMR.",
+    "summary": "Entry-level Healthcare Worker experienced in patient intake, insurance verification, and basic EMR management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Medical Billing Specialist | CareBilling | 2018-2022. Processed Medicare and private insurance claims. Followed up on denied claims, recovering $50k in outstanding revenue. SKILLS: Medical Billing, ICD-10, Claims Denial Management.",
+    "summary": "Mid-level Healthcare Professional skilled in medical billing, ICD-10 coding, and recovering denied insurance claims."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Healthcare Administrator | CityHospital | 2015-Present. Managed daily operations for a 50-bed outpatient clinic. Improved patient wait times by 20% through workflow optimization. SKILLS: Clinic Operations, Workflow Optimization, Patient Experience.",
+    "summary": "Senior Healthcare Administrator specializing in outpatient clinic operations and optimizing patient wait times."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Clinical Trial Coordinator | ResearchMed | 2011-Present. Coordinated phase III oncology trials. Ensured strict FDA and GCP compliance across 5 testing sites. SKILLS: Clinical Trials, FDA Compliance, GCP.",
+    "summary": "Staff Healthcare Professional recognized for coordinating complex phase III clinical trials and ensuring FDA compliance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Health Informatics Specialist | DataMed | 2006-Present. Architected health data interoperability standards (HL7/FHIR) across the hospital network. SKILLS: Health Informatics, HL7, FHIR, Data Interoperability.",
+    "summary": "Principal Healthcare Professional focused on health informatics and implementing HL7/FHIR interoperability standards."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Hospital Operations | MetroHealth | 2012-Present. Directed a $20M operational budget. Managed 100+ non-clinical staff and oversaw major facility renovations. SKILLS: Hospital Operations, Budgeting, Facility Management.",
+    "summary": "Director of Healthcare Operations adept at managing large hospital budgets and directing expansive non-clinical staff."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Healthcare Strategy | NationalHealth | 2008-Present. Formulated M&A strategies for acquiring regional clinics. Transitioned the network to value-based care models. SKILLS: Healthcare M&A, Value-Based Care, Executive Strategy.",
+    "summary": "VP of Healthcare Strategy offering executive leadership in clinical M&A and transitioning networks to value-based care."
+  },
+  {
+    "resume_text": "EXPERIENCE: Nursing Assistant (CNA) | Oakwood Care | 2021-Present. Assisted patients with daily living activities. Recorded vitals and reported changes to the charge nurse. SKILLS: Patient Care, Vitals Recording, CPR Certified.",
+    "summary": "Entry-level Nursing Assistant experienced in direct patient care and accurately recording vital signs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Registered Nurse (RN) | City ER | 2017-2021. Provided emergency triage and trauma care. Administered IV medications and collaborated with attending physicians. SKILLS: ER Nursing, Triage, IV Administration, ACLS.",
+    "summary": "Mid-level Registered Nurse skilled in fast-paced emergency room triage and trauma care."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior ICU Nurse | HeartCare Hospital | 2014-Present. Managed post-operative care for cardiac surgery patients. Operated complex life-support equipment and ventilators. SKILLS: ICU Care, Post-Op Recovery, Life Support Equipment.",
+    "summary": "Senior ICU Nurse specializing in critical post-operative cardiac care and operating complex life-support systems."
+  },
+  {
+    "resume_text": "EXPERIENCE: Charge Nurse | GeneralMed | 2010-Present. Supervised a 30-bed Med-Surg unit. Created weekly shift schedules and mentored newly graduated nursing staff. SKILLS: Unit Supervision, Scheduling, Mentorship.",
+    "summary": "Staff-level Charge Nurse recognized for supervising Med-Surg units and mentoring new nursing graduates."
+  },
+  {
+    "resume_text": "EXPERIENCE: Nurse Practitioner (NP) | FamilyHealth | 2006-Present. Diagnosed and treated acute illnesses for a panel of 500+ patients. Prescribed medications and ordered diagnostic tests. SKILLS: Clinical Diagnostics, Prescribing, Patient Panel Management.",
+    "summary": "Principal Nurse Practitioner focused on independent clinical diagnostics, treatment, and comprehensive patient care."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Nursing | CareCenter | 2012-Present. Managed 150+ nursing staff. Improved patient safety scores by 30% by enforcing strict infection control protocols. SKILLS: Nursing Leadership, Infection Control, Patient Safety.",
+    "summary": "Director of Nursing adept at managing massive nursing departments and enforcing critical infection control protocols."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Nursing Officer (CNO) | MetroHospital | 2008-Present. Defined clinical care standards for a 500-bed facility. Managed a $40M clinical budget and ensured Magnet recognition. SKILLS: Executive Clinical Leadership, Magnet Status, Budgeting.",
+    "summary": "Chief Nursing Officer offering executive oversight for clinical care standards, large budgets, and achieving Magnet recognition."
+  },
+  {
+    "resume_text": "EXPERIENCE: Logistics Coordinator | ShipFast | 2022-Present. Tracked daily freight shipments using GPS software. Updated clients on delivery delays and resolved routing issues. SKILLS: Freight Tracking, Customer Communication, Logistics Software.",
+    "summary": "Entry-level Supply Chain Coordinator experienced in freight tracking and resolving daily routing issues."
+  },
+  {
+    "resume_text": "EXPERIENCE: Procurement Specialist | BuildMaterials | 2018-2022. Issued purchase orders and managed vendor relationships. Negotiated a 10% discount on bulk steel orders. SKILLS: Procurement, Vendor Negotiation, Purchase Orders.",
+    "summary": "Mid-level Supply Chain Specialist skilled in issuing purchase orders and negotiating bulk material discounts."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Supply Chain Analyst | GlobalGoods | 2015-Present. Modeled inventory holding costs using Excel and SQL. Reduced warehouse overstock by 15% through improved demand forecasting. SKILLS: Demand Forecasting, Inventory Optimization, Data Analysis.",
+    "summary": "Senior Supply Chain Analyst specializing in demand forecasting and optimizing inventory holding costs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Logistics Engineer | TransportPro | 2011-Present. Designed automated sorting facility layouts. Engineered routing algorithms that reduced fleet fuel consumption by 12%. SKILLS: Facility Design, Routing Algorithms, Fuel Optimization.",
+    "summary": "Staff Supply Chain Engineer recognized for designing automated sorting facilities and optimizing fleet routing algorithms."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Strategic Sourcing Manager | TechHardware | 2006-Present. Consolidated international supplier base from 200 to 50. Mitigated risk during the global semiconductor shortage. SKILLS: Strategic Sourcing, Supplier Consolidation, Risk Mitigation.",
+    "summary": "Principal Sourcing Manager focused on international supplier consolidation and navigating global supply chain risks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Supply Chain | OmniLogistics | 2013-Present. Managed a $50M supply chain budget. Implemented SAP Ariba, standardizing procurement workflows globally. SKILLS: SAP Ariba, Budget Management, Global Operations.",
+    "summary": "Director of Supply Chain adept at implementing SAP Ariba and standardizing global procurement workflows."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Global Supply Chain | EnterpriseGoods | 2009-Present. Directed end-to-end supply chain for a $2B corp. Established predictive AI forecasting, saving $20M annually in logistics costs. SKILLS: End-to-End Supply Chain, AI Forecasting, Executive Leadership.",
+    "summary": "VP of Supply Chain offering executive leadership in AI-driven demand forecasting and massive logistics cost reduction."
+  },
+  {
+    "resume_text": "EXPERIENCE: Assembly Line Worker | FactoryTech | 2021-Present. Operated pneumatic hand tools to assemble automotive components. Maintained a 99% quality pass rate on daily quotas. SKILLS: Assembly Operation, Hand Tools, Quality Control.",
+    "summary": "Entry-level Manufacturing Worker experienced in assembly line operations and maintaining high quality control standards."
+  },
+  {
+    "resume_text": "EXPERIENCE: CNC Machinist | PrecisionParts | 2017-2021. Programmed and operated 5-axis CNC machines. Read blueprints and ensured parts met strict aerospace tolerances. SKILLS: CNC Programming, Blueprint Reading, Precision Machining.",
+    "summary": "Mid-level Manufacturing Machinist skilled in operating 5-axis CNC machines and reading complex engineering blueprints."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Manufacturing Engineer | AutoMakers | 2014-Present. Integrated robotic welding arms onto the assembly line, decreasing cycle time by 20%. Conducted root cause analysis on defects. SKILLS: Robotics Integration, Cycle Time Reduction, Root Cause Analysis.",
+    "summary": "Senior Manufacturing Engineer specializing in robotics integration and reducing assembly line cycle times."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Quality Assurance Manager | ClearBuild | 2010-Present. Enforced ISO 9001 standards across the facility. Led Six Sigma initiatives that reduced scrap material by 30%. SKILLS: ISO 9001, Six Sigma, Scrap Reduction.",
+    "summary": "Staff Manufacturing Manager recognized for enforcing ISO 9001 standards and leading successful Six Sigma initiatives."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Lean Specialist | LeanFactory | 2005-Present. Architected enterprise-wide Kaizen and 5S events. Redesigned floor layouts to minimize ergonomic strain and maximize throughput. SKILLS: Lean Manufacturing, Kaizen, 5S, Floor Layout.",
+    "summary": "Principal Manufacturing Specialist focused on driving Lean methodologies, Kaizen events, and ergonomic floor redesigns."
+  },
+  {
+    "resume_text": "EXPERIENCE: Plant Manager | HeavyIndustries | 2012-Present. Directed daily operations for a 200,000 sq ft facility. Managed 300+ unionized workers and maintained zero lost-time injuries for 3 years. SKILLS: Plant Management, Union Relations, OSHA Safety.",
+    "summary": "Plant Manager adept at directing massive manufacturing facilities, managing union relations, and enforcing strict safety records."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Manufacturing | GlobalProduce | 2008-Present. Oversee 10 international production plants. Transitioned facilities to Industry 4.0 IoT monitoring, boosting global output by 15%. SKILLS: Industry 4.0, Global Production, Executive Leadership.",
+    "summary": "VP of Manufacturing offering executive oversight for international production plants and pioneering Industry 4.0 integrations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Construction Laborer | BuildRight | 2022-Present. Assisted carpenters with framing and drywall installation. Unloaded material deliveries and maintained a clean, safe worksite. SKILLS: Framing, Drywall, Site Maintenance, OSHA 10.",
+    "summary": "Entry-level Construction Worker experienced in framing, drywall installation, and general site maintenance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Heavy Equipment Operator | EarthMovers | 2018-2022. Operated excavators and bulldozers for commercial foundation digging. Read grading stakes to ensure accurate trench depths. SKILLS: Excavator Operation, Grading, Trenching.",
+    "summary": "Mid-level Construction Professional skilled in operating heavy machinery and executing precise foundation grading."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Construction Estimator | BidWinners | 2015-Present. Conducted detailed material takeoffs from architectural blueprints. Won 10 commercial bids totaling $15M in 2022. SKILLS: Estimating, Takeoffs, Blueprint Reading, Commercial Bidding.",
+    "summary": "Senior Construction Estimator specializing in complex material takeoffs and securing multi-million dollar commercial bids."
+  },
+  {
+    "resume_text": "EXPERIENCE: Project Superintendent | TowerBuild | 2011-Present. Supervised daily field operations for a 20-story high-rise. Coordinated 50+ subcontractors and enforced OSHA 30 safety protocols. SKILLS: Field Supervision, Subcontractor Management, OSHA 30.",
+    "summary": "Construction Superintendent recognized for supervising high-rise field operations and managing diverse subcontractors."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Safety Director | SecureSite | 2006-Present. Developed enterprise-wide safety manuals. Conducted rigorous site audits, reducing recordable safety incidents by 40%. SKILLS: Safety Auditing, Risk Mitigation, Enterprise Safety Programs.",
+    "summary": "Principal Construction Professional focused on developing enterprise safety programs and conducting rigorous site audits."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Construction | CityBuilders | 2013-Present. Managed a portfolio of 5 concurrent commercial projects. Controlled a $50M budget and ensured all projects finished under budget. SKILLS: Portfolio Management, Budget Control, Commercial Construction.",
+    "summary": "Director of Construction adept at managing multi-project portfolios and tightly controlling massive commercial budgets."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Construction Operations | MegaBuild | 2009-Present. Directed global construction strategy. Negotiated enterprise partnerships with suppliers, saving $10M annually on steel and concrete. SKILLS: Executive Strategy, Supplier Partnerships, Cost Reduction.",
+    "summary": "VP of Construction offering executive leadership in global construction strategy and negotiating enterprise supplier partnerships."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Civil Engineer | CityWorks | 2021-Present. Drafted basic stormwater drainage plans in AutoCAD Civil 3D. Assisted in performing field soil sampling. SKILLS: AutoCAD Civil 3D, Drainage Design, Soil Sampling.",
+    "summary": "Entry-level Civil Engineer experienced in AutoCAD Civil 3D drafting and assisting with field soil sampling."
+  },
+  {
+    "resume_text": "EXPERIENCE: Civil Engineer | InfrastructurePro | 2018-2021. Designed municipal roadway improvements. Calculated traffic flow metrics and secured local environmental permits for construction. SKILLS: Roadway Design, Traffic Modeling, Permitting.",
+    "summary": "Mid-level Civil Engineer skilled in municipal roadway design, traffic flow modeling, and environmental permitting."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Structural Engineer | BridgeBuilders | 2014-Present. Performed seismic retrofitting analysis for highway overpasses using SAP2000. Stamped and sealed finalized structural blueprints. SKILLS: Seismic Retrofitting, SAP2000, Structural Analysis, PE License.",
+    "summary": "Senior Structural Engineer specializing in seismic retrofitting for bridges and executing complex structural analyses."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Geotechnical Engineer | EarthSciences | 2010-Present. Authored comprehensive foundation recommendation reports for skyscrapers. Analyzed deep slope stability and groundwater flow. SKILLS: Geotechnical Engineering, Slope Stability, Foundation Design.",
+    "summary": "Staff Civil Engineer recognized for authoring deep foundation recommendations and analyzing complex slope stability."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Hydrology Engineer | WaterWorks | 2005-Present. Architected flood mitigation systems for coastal cities. Utilized HEC-RAS to model complex river hydraulics and watershed dynamics. SKILLS: Hydrology, HEC-RAS, Flood Mitigation.",
+    "summary": "Principal Civil Engineer focused on advanced hydrology modeling, watershed dynamics, and coastal flood mitigation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Civil Engineering | UrbanPlan | 2012-Present. Managed an engineering department of 40. Oversaw the design and approval of a $100M municipal water treatment plant. SKILLS: Department Leadership, Water Treatment, Large-scale Infrastructure.",
+    "summary": "Director of Civil Engineering adept at leading large engineering departments and overseeing massive municipal infrastructure projects."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Infrastructure | GlobalCivil | 2008-Present. Steered international infrastructure development strategy. Liaised with government transport ministries to secure $500M in public contracts. SKILLS: Public Contracts, International Infrastructure, Executive Leadership.",
+    "summary": "VP of Civil Engineering offering executive expertise in securing massive public infrastructure contracts and international development."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Mechanical Engineer | AeroParts | 2022-Present. Updated 3D CAD models using SolidWorks. Created Bill of Materials (BOM) for the assembly floor. SKILLS: SolidWorks, BOM Creation, 3D Modeling.",
+    "summary": "Entry-level Mechanical Engineer experienced in SolidWorks 3D modeling and generating accurate Bills of Materials."
+  },
+  {
+    "resume_text": "EXPERIENCE: Mechanical Engineer | HVAC Solutions | 2018-2022. Designed commercial HVAC ducting systems. Performed thermal load calculations to optimize energy efficiency by 15%. SKILLS: HVAC Design, Thermal Load Calculations, AutoCAD.",
+    "summary": "Mid-level Mechanical Engineer skilled in designing commercial HVAC systems and executing thermal load calculations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Mechanical Design Engineer | TechHardware | 2015-Present. Engineered custom aluminum enclosures for consumer electronics. Conducted Finite Element Analysis (FEA) to ensure drop-test durability. SKILLS: Enclosure Design, FEA, Consumer Electronics.",
+    "summary": "Senior Mechanical Engineer specializing in consumer electronics enclosure design and rigorous Finite Element Analysis."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Reliability Engineer | MachineWorks | 2011-Present. Calculated Mean Time Between Failures (MTBF) for industrial turbines. Led FMEA sessions to proactively redesign failure points. SKILLS: MTBF, FMEA, Reliability Engineering.",
+    "summary": "Staff Mechanical Engineer recognized for leading FMEA sessions and calculating complex reliability metrics for industrial machinery."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Fluid Dynamics Engineer | AeroSpace | 2006-Present. Utilized ANSYS Fluent to perform complex CFD simulations on aircraft wing prototypes, reducing drag by 8%. SKILLS: CFD, ANSYS Fluent, Aerodynamics.",
+    "summary": "Principal Mechanical Engineer focused on advanced Computational Fluid Dynamics (CFD) and aerodynamic drag reduction."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Mechanical Engineering | RoboTech | 2013-Present. Managed 30 mechanical engineers. Oversaw the prototyping and rapid iteration of a new autonomous warehouse robot. SKILLS: Robotics, Rapid Prototyping, Team Leadership.",
+    "summary": "Director of Mechanical Engineering adept at overseeing rapid robotics prototyping and managing engineering teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Hardware Engineering | GlobalDevices | 2009-Present. Directed global hardware R&D. Streamlined Design for Manufacturability (DFM) processes, accelerating product time-to-market by 25%. SKILLS: DFM, Hardware R&D, Executive Strategy.",
+    "summary": "VP of Hardware Engineering offering executive leadership in global R&D and streamlining Design for Manufacturability."
+  },
+  {
+    "resume_text": "EXPERIENCE: Teaching Assistant | State University | 2021-Present. Graded undergraduate calculus exams and hosted bi-weekly office hours. Managed the online Canvas course portal. SKILLS: Grading, Tutoring, Canvas LMS.",
+    "summary": "Entry-level Educator experienced in tutoring undergraduate students, grading, and managing Learning Management Systems."
+  },
+  {
+    "resume_text": "EXPERIENCE: High School Science Teacher | City District | 2018-2021. Taught AP Biology to 150+ students annually. Increased standardized test pass rates by 12% through interactive lab experiments. SKILLS: AP Biology, Lesson Planning, Classroom Management.",
+    "summary": "Mid-level Educator skilled in high school science instruction, lesson planning, and improving standardized test pass rates."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Instructional Designer | EdTechCorp | 2014-Present. Developed interactive eLearning modules using Articulate Storyline. Collaborated with SMEs to build corporate compliance training. SKILLS: Instructional Design, Articulate Storyline, SME Collaboration.",
+    "summary": "Senior Education Professional specializing in instructional design and developing interactive corporate eLearning modules."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Academic Advisor | Regional College | 2010-Present. Guided a caseload of 400+ at-risk students. Implemented an early warning tracking system that boosted freshman retention by 15%. SKILLS: Academic Advising, Student Retention, Mentorship.",
+    "summary": "Staff Education Professional recognized for guiding at-risk students and implementing effective freshman retention programs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Curriculum Architect | National Schools | 2006-Present. Redesigned the K-12 math curriculum to align with Common Core standards. Authored 5 published mathematics textbooks. SKILLS: Curriculum Development, Common Core, Textbook Authoring.",
+    "summary": "Principal Education Professional focused on architecting K-12 curricula and authoring standardized mathematics textbooks."
+  },
+  {
+    "resume_text": "EXPERIENCE: School Principal | Innovation High | 2012-Present. Managed 80 faculty members and a $5M school budget. Fostered a positive school culture, reducing disciplinary incidents by 40%. SKILLS: School Administration, Budgeting, Educational Leadership.",
+    "summary": "Director-level School Principal adept at managing large faculties, school budgets, and fostering positive educational cultures."
+  },
+  {
+    "resume_text": "EXPERIENCE: Superintendent of Schools | Metro District | 2008-Present. Directed a district of 20,000 students. Spearheaded a 1:1 laptop initiative, bridging the digital divide across 15 campuses. SKILLS: District Leadership, EdTech Initiatives, Executive Administration.",
+    "summary": "Executive Superintendent offering district-wide leadership and pioneering comprehensive educational technology initiatives."
+  },
+  {
+    "resume_text": "EXPERIENCE: Legal Assistant | LawWorks | 2021-Present. Filed legal briefs at the county courthouse. Answered phones and organized client case files in the digital database. SKILLS: Document Filing, Client Communication, Legal Administration.",
+    "summary": "Entry-level Legal Assistant experienced in document filing, database organization, and general legal administration."
+  },
+  {
+    "resume_text": "EXPERIENCE: Paralegal | CorporateLaw | 2018-2021. Drafted initial NDAs and vendor contracts. Utilized Relativity to conduct eDiscovery for commercial litigation cases. SKILLS: Contract Drafting, eDiscovery, Relativity.",
+    "summary": "Mid-level Paralegal skilled in drafting corporate contracts and conducting eDiscovery utilizing Relativity."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Associate Attorney | BigLaw Firm | 2015-Present. Represented Fortune 500 clients in intellectual property disputes. Authored complex motions and secured 5 major summary judgments. SKILLS: IP Litigation, Legal Writing, Motion Drafting.",
+    "summary": "Senior Attorney specializing in intellectual property litigation, legal writing, and securing summary judgments."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Corporate Counsel | TechStartup | 2011-Present. Advised product teams on data privacy laws (GDPR/CCPA). Negotiated SaaS licensing agreements with enterprise clients. SKILLS: Data Privacy, SaaS Contracting, Corporate Counsel.",
+    "summary": "Staff Legal Counsel recognized for navigating data privacy laws and negotiating complex enterprise SaaS agreements."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Compliance Officer | FinBank | 2006-Present. Architected anti-money laundering (AML) frameworks. Defended the institution during rigorous SEC and FINRA audits. SKILLS: AML, SEC Compliance, Regulatory Audits.",
+    "summary": "Principal Legal Professional focused on architecting AML compliance frameworks and defending against SEC audits."
+  },
+  {
+    "resume_text": "EXPERIENCE: Managing Partner | LawGroup | 2012-Present. Led a team of 20 attorneys in the M&A practice group. Generated $5M in annual billable hours and expanded the client portfolio. SKILLS: Law Firm Management, M&A Law, Business Development.",
+    "summary": "Director-level Managing Partner adept at leading M&A practice groups and driving significant law firm revenue growth."
+  },
+  {
+    "resume_text": "EXPERIENCE: General Counsel | GlobalCorp | 2008-Present. Managed all global legal affairs and a $10M outside counsel budget. Directed legal strategy for a $2B corporate acquisition. SKILLS: General Counsel, M&A Strategy, Executive Leadership.",
+    "summary": "General Counsel offering executive leadership for global legal affairs, massive M&A strategy, and outside counsel management."
+  },
+  {
+    "resume_text": "EXPERIENCE: Operations Assistant | DailyLogistics | 2022-Present. Tracked daily office supplies and ordered replacements. Handled mail distribution and updated operational spreadsheets. SKILLS: Office Administration, Inventory Tracking, Microsoft Excel.",
+    "summary": "Entry-level Operations Assistant experienced in inventory tracking, mail distribution, and basic office administration."
+  },
+  {
+    "resume_text": "EXPERIENCE: Operations Coordinator | SupplyFlow | 2018-2022. Monitored daily supply chain metrics. Coordinated between the warehouse and sales teams to resolve order delays. SKILLS: Order Coordination, Supply Chain Metrics, Cross-functional Communication.",
+    "summary": "Mid-level Operations Coordinator skilled in tracking supply chain metrics and resolving cross-departmental order delays."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Operations Manager | RetailGiant | 2015-Present. Managed a 50-person fulfillment center. Optimized shift scheduling, reducing overtime costs by 15% during peak seasons. SKILLS: Fulfillment Operations, Shift Scheduling, Cost Reduction.",
+    "summary": "Senior Operations Manager specializing in fulfillment center management and optimizing shift schedules to reduce costs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Process Engineer | EfficiencyPro | 2011-Present. Mapped complex business workflows. Implemented Lean Six Sigma changes that increased back-office processing speed by 25%. SKILLS: Process Engineering, Lean Six Sigma, Workflow Mapping.",
+    "summary": "Staff Operations Professional recognized for mapping complex workflows and implementing Lean Six Sigma process improvements."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Operations Architect | ScaleUp | 2006-Present. Designed the operational blueprint for international market expansion. Established KPIs for 5 new European offices. SKILLS: Operational Blueprinting, Market Expansion, KPI Development.",
+    "summary": "Principal Operations Professional focused on architecting operational blueprints for international expansion and KPI development."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Operations | OmniServices | 2012-Present. Directed multi-site operations with a $20M budget. Upgraded legacy ERP systems, enhancing data visibility across the enterprise. SKILLS: Multi-site Operations, ERP Upgrades, Budgeting.",
+    "summary": "Director of Operations adept at directing multi-site facilities, managing large budgets, and upgrading enterprise ERP systems."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Operating Officer (COO) | GlobalEnterprise | 2008-Present. Steered global operations for a 10,000-person firm. Increased profit margins by 12% through comprehensive supply chain restructuring. SKILLS: COO, Supply Chain Restructuring, Executive Operations.",
+    "summary": "Chief Operating Officer offering executive leadership for global operations and driving massive corporate profit margin increases."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Technology Officer | FinTech Global | 2005-Present. Directed a 500-person engineering organization. Led transition to a cloud-native architecture, processing $10B annually. SKILLS: CTO, Cloud-Native Architecture, Executive Leadership.",
+    "summary": "Chief Technology Officer providing executive vision for 500-person engineering orgs and massive cloud-native transitions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief AI Officer | FutureTech | 2010-Present. Formulated the enterprise AI roadmap. Deployed generative AI tools that saved $30M in operational costs across customer service. SKILLS: Chief AI Officer, Generative AI Strategy, Cost Savings.",
+    "summary": "Chief AI Officer recognized for formulating enterprise AI roadmaps and deploying highly profitable generative AI tools."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Data Officer | DataPrime | 2008-Present. Governed data strategy for a Fortune 500 company. Monetized internal data assets, generating $50M in new annual revenue streams. SKILLS: CDO, Data Monetization, Enterprise Data Strategy.",
+    "summary": "Chief Data Officer adept at governing Fortune 500 data strategies and successfully monetizing internal data assets."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Cloud Architect | SkyHigh Corp | 2006-Present. Architected hybrid cloud environments mitigating vendor lock-in. Managed a $100M cloud infrastructure budget. SKILLS: Chief Cloud Architect, Hybrid Cloud, Budget Management.",
+    "summary": "Chief Cloud Architect specializing in hybrid cloud environments and managing massive multi-million dollar infrastructure budgets."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Information Security Officer (CISO) | SecureBank | 2007-Present. Protected $50B in assets against cyber threats. Implemented global Zero Trust frameworks and handled board reporting. SKILLS: CISO, Zero Trust, Board Reporting.",
+    "summary": "Chief Information Security Officer focused on protecting massive financial assets and implementing global Zero Trust frameworks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Product Officer (CPO) | SaaSLeaders | 2009-Present. Defined product vision for a $500M portfolio. Led the strategic acquisition of 3 competitor platforms to expand market share. SKILLS: CPO, Product Vision, M&A.",
+    "summary": "Chief Product Officer offering executive leadership for $500M portfolios and driving strategic competitor acquisitions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Revenue Officer (CRO) | SalesGiant | 2005-Present. Aligned sales, marketing, and customer success. Accelerated ARR from $100M to $300M in 4 years through international expansion. SKILLS: CRO, ARR Acceleration, Revenue Alignment.",
+    "summary": "Chief Revenue Officer adept at aligning revenue-generating departments and exponentially accelerating annual recurring revenue."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Financial Officer (CFO) | CapitalGroup | 2004-Present. Managed all financial operations. Led the company through a successful $1B IPO and navigated complex SEC audits. SKILLS: CFO, IPO Leadership, SEC Audits.",
+    "summary": "Chief Financial Officer recognized for leading successful billion-dollar IPOs and navigating complex financial audits."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Human Resources Officer (CHRO) | TalentFirst | 2006-Present. Directed global talent strategy for 20,000 employees. Championed DEI initiatives that transformed corporate culture. SKILLS: CHRO, Global Talent Strategy, DEI.",
+    "summary": "Chief Human Resources Officer focused on directing global talent strategies and championing transformative DEI initiatives."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Medical Officer (CMO) | NationalHealth | 2005-Present. Governed clinical care standards across 50 hospitals. Improved patient survival rates by 15% through evidence-based protocols. SKILLS: CMO, Clinical Care Standards, Evidence-Based Medicine.",
+    "summary": "Chief Medical Officer offering executive oversight for clinical standards across hospital networks and improving patient survival rates."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Executive Officer (CEO) | OmniGlobal | 2000-Present. Steered corporate vision and strategy. Grew the company from a startup to a Fortune 500 enterprise with $5B in revenue. SKILLS: CEO, Corporate Vision, Enterprise Growth.",
+    "summary": "Chief Executive Officer adept at steering corporate visions and scaling startups into massive Fortune 500 enterprises."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Software Engineer | DevWorks | 2022-Present. Developed responsive front-end components using React, increasing user engagement by 12%. Fixed 50+ bugs in the legacy Java backend. SKILLS: React, Java, Git, HTML/CSS. EDU: BS Computer Science.",
+    "summary": "Entry-level Software Engineer with hands-on experience in React and Java, proven to enhance user engagement and maintain legacy systems."
+  },
+  {
+    "resume_text": "EXPERIENCE: Software Engineer | CloudSoft | 2019-2022. Built and deployed Node.js microservices to AWS, processing 5k requests per minute. Optimized MongoDB queries to reduce load times by 20%. SKILLS: Node.js, AWS, MongoDB, Express. EDU: BS CS.",
+    "summary": "Mid-level Software Engineer proficient in developing scalable Node.js microservices and optimizing database query performance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Software Engineer | FinTech Inc | 2015-Present. Architected secure transaction APIs in Go, handling $2M daily volume. Mentored 4 junior developers and led the migration to Kubernetes. SKILLS: Go, Kubernetes, PostgreSQL, Microservices.",
+    "summary": "Senior Software Engineer with expertise in building high-volume financial APIs using Go and driving containerization strategies."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Software Engineer | DataCorp | 2012-Present. Engineered real-time data ingestion pipelines using Python and Kafka. Standardized CI/CD practices across 5 engineering teams, cutting deployment time by 40%. SKILLS: Python, Kafka, CI/CD, Distributed Systems.",
+    "summary": "Staff Software Engineer recognized for architecting real-time streaming pipelines and standardizing enterprise CI/CD processes."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Software Engineer | AlphaSystems | 2008-Present. Led technical strategy for a 150-person engineering department. Patented a novel distributed caching algorithm that saved $500k in annual AWS costs. SKILLS: System Architecture, C++, AWS, Caching.",
+    "summary": "Principal Software Engineer specializing in high-level technical strategy, distributed caching, and large-scale cloud cost optimization."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Software Engineering | RetailTech | 2014-Present. Managed a $5M R&D budget and 40 engineers. Delivered an enterprise e-commerce platform 2 months ahead of schedule, generating $10M in first-year revenue. SKILLS: Team Leadership, Agile, Budgeting.",
+    "summary": "Director of Software Engineering adept at managing large R&D budgets and leading engineering teams to deliver high-revenue platforms."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Engineering | SecureApp | 2010-Present. Scaled engineering org from 20 to 150 employees. Drove transition to an API-first architecture, enabling 3 new strategic partnerships. SKILLS: Executive Leadership, API Strategy, Org Scaling.",
+    "summary": "VP of Engineering with a proven track record of scaling technical organizations and steering API-first architectural transitions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Technology Officer | GlobalNet | 2005-Present. Directed global technology vision for a 1000-person enterprise. Orchestrated a $20M digital transformation, moving all on-premise infrastructure to cloud-native solutions. SKILLS: CTO, Cloud-Native, IT Strategy.",
+    "summary": "Executive CTO offering strategic vision for global digital transformations and enterprise-wide cloud-native adoptions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior AI Engineer | AI Startup | 2023-Present. Implemented a customer support chatbot utilizing OpenAI APIs and LangChain, deflecting 15% of tier-1 support tickets. SKILLS: Python, LangChain, OpenAI, Prompt Engineering. EDU: BS AI.",
+    "summary": "Entry-level AI Engineer experienced in utilizing LLMs and LangChain to automate customer support workflows."
+  },
+  {
+    "resume_text": "EXPERIENCE: AI Engineer | VisionaryTech | 2020-2023. Trained custom computer vision models using PyTorch for defect detection, achieving 94% accuracy. Deployed models to edge devices using TensorRT. SKILLS: PyTorch, Computer Vision, TensorRT, C++.",
+    "summary": "Mid-level AI Engineer skilled in developing and deploying high-accuracy computer vision models to edge devices."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior AI Engineer | NLP Solutions | 2016-Present. Architected robust RAG pipelines using Hugging Face transformers and Pinecone vector databases. Improved semantic search relevance by 25%. SKILLS: RAG, NLP, Pinecone, Python.",
+    "summary": "Senior AI Engineer specializing in Natural Language Processing and building scalable RAG pipelines for semantic search."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff AI Engineer | HealthAI | 2013-Present. Designed deep learning architectures for predictive diagnostics. Reduced false positive rates in medical imaging by 30%. SKILLS: Deep Learning, Medical Imaging, TensorFlow, Keras.",
+    "summary": "Staff AI Engineer recognized for designing advanced deep learning models that significantly improve medical imaging diagnostics."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal AI Engineer | AutoDrive | 2009-Present. Authored 4 patents in reinforcement learning for autonomous navigation. Optimized neural network latency for real-time processing at 60 FPS. SKILLS: Reinforcement Learning, Autonomous Systems, AI Research.",
+    "summary": "Principal AI Engineer and researcher focused on reinforcement learning and low-latency neural network optimization."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of AI | EnterpriseAI | 2015-Present. Managed 25 AI researchers and engineers. Successfully launched a generative AI content platform that acquired 100k users in 3 months. SKILLS: AI Product Launch, Team Management, Generative AI.",
+    "summary": "Director of AI adept at leading research teams and launching high-adoption generative AI platforms."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of AI Engineering | SynthData | 2011-Present. Defined enterprise AI roadmap, securing $15M in funding for a new AI Center of Excellence. Integrated ML models across 5 core SaaS products. SKILLS: AI Strategy, Center of Excellence, Executive Leadership.",
+    "summary": "VP of AI Engineering with executive experience establishing AI Centers of Excellence and driving enterprise AI product integration."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief AI Officer | FutureCorp | 2006-Present. Steered global AI initiatives, leveraging proprietary LLMs to automate internal operations, saving $40M annually. SKILLS: CAIO, Enterprise AI, Cost Optimization.",
+    "summary": "Chief AI Officer offering strategic direction for proprietary LLM deployments and massive operational cost reductions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Machine Learning Engineer | PredictIt | 2022-Present. Cleaned datasets and built baseline random forest models for customer churn prediction, yielding 80% accuracy. SKILLS: Python, Scikit-learn, Pandas, SQL.",
+    "summary": "Entry-level Machine Learning Engineer experienced in data preprocessing and building baseline predictive classification models."
+  },
+  {
+    "resume_text": "EXPERIENCE: Machine Learning Engineer | AdTech | 2019-2022. Developed collaborative filtering recommendation engines using Apache Spark, increasing ad click-through rates by 12%. SKILLS: Apache Spark, Recommender Systems, Scala, Python.",
+    "summary": "Mid-level Machine Learning Engineer with a proven track record of deploying recommendation engines using Apache Spark."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior ML Engineer | FinModel | 2015-Present. Automated MLOps pipelines using Kubeflow and AWS SageMaker. Cut model deployment time from 2 weeks to 3 days. SKILLS: MLOps, AWS SageMaker, Kubeflow, CI/CD.",
+    "summary": "Senior Machine Learning Engineer specializing in building automated MLOps pipelines and accelerating model deployment on AWS."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal ML Engineer | DeepData | 2008-Present. Engineered distributed training frameworks for massive NLP models, cutting training costs by 35%. Mentored 15 ML engineers. SKILLS: Distributed Training, NLP, PyTorch, Architecture.",
+    "summary": "Principal Machine Learning Engineer focused on optimizing distributed training frameworks and mentoring large engineering teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Machine Learning | RetailML | 2014-Present. Directed a team of 30 ML engineers building dynamic pricing models. Increased overall gross margin by 4% in one year. SKILLS: Dynamic Pricing, ML Strategy, Department Leadership.",
+    "summary": "Director of Machine Learning adept at directing pricing optimization models and leading high-performing ML departments."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Machine Learning | GlobalAnalytics | 2010-Present. Governed predictive modeling strategies across 4 international branches. Partnered with sales to close $20M in AI-driven contracts. SKILLS: Global ML Strategy, Technical Sales Support.",
+    "summary": "VP of Machine Learning offering strategic leadership for global predictive modeling initiatives and driving AI-based contract sales."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Data Scientist | InsightEnterprise | 2005-Present. Established the ML vision for a Fortune 500 company. Monetized internal data lakes to create a new $50M revenue stream. SKILLS: Executive Data Strategy, Data Monetization, ML Leadership.",
+    "summary": "Executive Chief Data Scientist recognized for monetizing enterprise data lakes and establishing Fortune 500 machine learning visions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Data Scientist | StatWorks | 2022-Present. Conducted exploratory data analysis on consumer surveys. Created interactive Tableau dashboards for the marketing team. SKILLS: Tableau, R, Python, EDA.",
+    "summary": "Entry-level Data Scientist proficient in exploratory data analysis and developing interactive Tableau visualizations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Data Scientist | MetricCorp | 2018-2022. Executed rigorous A/B testing on e-commerce landing pages, driving a 9% increase in conversion rates. Built logistic regression models. SKILLS: A/B Testing, Statistical Modeling, SQL, Python.",
+    "summary": "Mid-level Data Scientist experienced in rigorous A/B testing and applying statistical models to boost conversion rates."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Data Scientist | HealthMetrics | 2015-Present. Leveraged survival analysis techniques to predict patient readmission risk, saving $1.5M in hospital penalties. SKILLS: Survival Analysis, Healthcare Analytics, Python, SQL.",
+    "summary": "Senior Data Scientist specializing in healthcare analytics and predictive survival analysis to mitigate financial risks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Data Scientist | QuantFund | 2011-Present. Developed time-series forecasting algorithms for equity markets using ARIMA and LSTM networks. Generated 8% alpha consistently. SKILLS: Time-Series Forecasting, LSTM, Quantitative Finance.",
+    "summary": "Staff Data Scientist recognized for engineering advanced time-series forecasting algorithms in quantitative finance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Data Scientist | LogisticsAI | 2007-Present. Designed causal inference models to optimize supply chain routing under uncertainty, reducing fuel consumption by 15%. SKILLS: Causal Inference, Optimization, Bayesian Statistics.",
+    "summary": "Principal Data Scientist focused on applying causal inference and Bayesian statistics to solve complex supply chain optimizations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Data Science | MediaStream | 2013-Present. Managed 25 data scientists. Led the development of a personalized content recommendation engine that increased viewer retention by 22%. SKILLS: Recommendation Engines, Team Leadership.",
+    "summary": "Director of Data Science adept at managing analytics teams and driving viewer retention through personalized recommendation engines."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Data Science | EcomGiant | 2009-Present. Directed global data science operations. Standardized algorithm governance and ethical AI practices across the enterprise. SKILLS: Algorithm Governance, Ethical AI, Global Operations.",
+    "summary": "VP of Data Science offering executive oversight for global analytics operations and standardizing ethical AI frameworks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Analytics Officer | MegaBank | 2004-Present. Championed data-driven culture for a 10,000-person bank. Deployed risk analytics platforms that prevented $100M in default losses. SKILLS: CAO, Risk Analytics, Data Culture.",
+    "summary": "Chief Analytics Officer with a proven track record of championing data-driven cultures and preventing massive default losses."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Data Engineer | PipeData | 2022-Present. Wrote SQL scripts to ingest API data into PostgreSQL. Scheduled nightly batch jobs using cron. SKILLS: SQL, PostgreSQL, Python, Cron. EDU: BS IT.",
+    "summary": "Entry-level Data Engineer with hands-on experience in SQL scripting and scheduling batch data ingestion."
+  },
+  {
+    "resume_text": "EXPERIENCE: Data Engineer | FlowTech | 2019-2022. Built reliable ETL pipelines using Apache Airflow and dbt. Migrated 5TB of legacy SQL Server data to Snowflake. SKILLS: Airflow, dbt, Snowflake, ETL.",
+    "summary": "Mid-level Data Engineer skilled in orchestrating ETL pipelines with Airflow and migrating legacy data to Snowflake."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Data Engineer | DataLake Inc | 2012-Present. Engineered scalable Delta Lake architectures on Databricks. Optimized Spark jobs, reducing compute costs by 30% annually. SKILLS: Databricks, Delta Lake, Spark Optimization, Scala.",
+    "summary": "Staff Data Engineer with expertise in building scalable Delta Lake architectures and optimizing Spark compute costs."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Data Engineer | CloudMesh | 2008-Present. Championed the transition to a decentralized data mesh architecture across 12 business domains. Implemented strict data quality SLAs. SKILLS: Data Mesh, Data Quality, Enterprise Architecture.",
+    "summary": "Principal Data Engineer recognized for implementing decentralized data mesh architectures and enforcing enterprise data quality."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Data Engineering | OmniData | 2014-Present. Managed a department of 40 data engineers. Established robust DataOps CI/CD pipelines, increasing pipeline reliability to 99.9%. SKILLS: DataOps, Department Leadership, Pipeline Reliability.",
+    "summary": "Director of Data Engineering focused on establishing rigorous DataOps practices and ensuring high pipeline reliability."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Data Engineering | GlobalFinance | 2010-Present. Directed the construction of a petabyte-scale AWS data platform. Negotiated enterprise cloud contracts saving $5M annually. SKILLS: Petabyte-Scale Data, Cloud Negotiation, Executive Strategy.",
+    "summary": "VP of Data Engineering offering executive leadership in building petabyte-scale cloud platforms and negotiating vendor contracts."
+  },
+  {
+    "resume_text": "EXPERIENCE: Executive VP of Data Infrastructure | TelecomMega | 2005-Present. Oversaw the modernization of a legacy telecom data warehouse to GCP BigQuery, processing 10PB daily. SKILLS: EVP, Data Modernization, BigQuery, Global Infrastructure.",
+    "summary": "Executive VP of Data Infrastructure adept at overseeing massive legacy modernizations to GCP BigQuery at a 10PB daily scale."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Cloud Engineer | SkySystems | 2022-Present. Provisioned AWS EC2 instances and S3 buckets. Monitored server health using CloudWatch and created basic IAM policies. SKILLS: AWS, EC2, CloudWatch, IAM.",
+    "summary": "Entry-level Cloud Engineer familiar with provisioning AWS resources and monitoring fundamental cloud infrastructure."
+  },
+  {
+    "resume_text": "EXPERIENCE: Cloud Engineer | CloudMigrate | 2019-2022. Automated Azure infrastructure provisioning using Terraform. Migrated 50 on-premise VMs to Azure Virtual Machines with zero data loss. SKILLS: Azure, Terraform, VM Migration, PowerShell.",
+    "summary": "Mid-level Cloud Engineer experienced in Infrastructure as Code (Terraform) and executing seamless Azure VM migrations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Cloud Engineer | OmniWeb | 2015-Present. Architected highly available, multi-region AWS environments. Reduced monthly AWS spend by 25% through reserved instances and right-sizing. SKILLS: AWS Architecture, High Availability, FinOps.",
+    "summary": "Senior Cloud Engineer specializing in multi-region AWS architectures and executing effective FinOps cost reductions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Cloud Engineer | HybridNet | 2012-Present. Designed secure hybrid cloud networks connecting on-premise data centers to GCP via Cloud Interconnect. Enforced zero-trust perimeters. SKILLS: GCP, Hybrid Cloud, Cloud Interconnect, Zero Trust.",
+    "summary": "Staff Cloud Engineer expert in designing secure hybrid cloud networks and enforcing zero-trust perimeters on GCP."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Cloud Architect | TechScale | 2008-Present. Developed serverless computing frameworks leveraging AWS Lambda and API Gateway, supporting 10M daily users. SKILLS: Serverless Architecture, AWS Lambda, API Gateway.",
+    "summary": "Principal Cloud Architect focused on engineering highly scalable serverless architectures to support massive user bases."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Cloud Engineering | SaaSProvider | 2014-Present. Managed a $12M cloud budget and 35 cloud engineers. Standardized disaster recovery protocols, achieving an RTO of under 1 hour. SKILLS: Disaster Recovery, Budget Management, Cloud Strategy.",
+    "summary": "Director of Cloud Engineering adept at managing multi-million dollar cloud budgets and standardizing rapid disaster recovery."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Cloud Infrastructure | EnterpriseCloud | 2010-Present. Defined multi-cloud strategy (AWS & Azure) to avoid vendor lock-in for a Fortune 500 firm. Increased global infrastructure resilience. SKILLS: Multi-Cloud Strategy, Executive Leadership.",
+    "summary": "VP of Cloud Infrastructure offering executive vision for multi-cloud enterprise deployments and vendor risk mitigation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Cloud Officer | GlobalNet | 2004-Present. Led the global transition of all IT services to the cloud, managing a $100M portfolio. Secured compliance across 15 international data jurisdictions. SKILLS: CCO, Cloud Compliance, Global IT.",
+    "summary": "Chief Cloud Officer recognized for leading global IT cloud transitions and navigating complex international data compliance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior DevOps Engineer | AutoDeploy | 2022-Present. Maintained Jenkins build pipelines and wrote Bash scripts to automate server backups. Managed source code in GitLab. SKILLS: Jenkins, Bash, GitLab, Linux.",
+    "summary": "Entry-level DevOps Engineer with foundational experience in maintaining CI/CD pipelines and automating server tasks."
+  },
+  {
+    "resume_text": "EXPERIENCE: DevOps Engineer | ReleaseFast | 2019-2022. Containerized 30+ microservices using Docker. Deployed applications to Kubernetes clusters and monitored logs using ELK stack. SKILLS: Docker, Kubernetes, ELK Stack, CI/CD.",
+    "summary": "Mid-level DevOps Engineer proficient in Docker containerization and deploying microservices to Kubernetes clusters."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior DevOps Engineer | ScaleOps | 2016-Present. Championed GitOps methodologies utilizing ArgoCD. Reduced deployment failures by 50% with automated canary rollbacks. SKILLS: GitOps, ArgoCD, Canary Deployments, Ansible.",
+    "summary": "Senior DevOps Engineer specializing in GitOps workflows and implementing automated canary deployment strategies."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Site Reliability Engineer | UptimeInc | 2012-Present. Built advanced observability platforms using Prometheus and Grafana. Decreased MTTR by 40% across all tier-1 services. SKILLS: SRE, Prometheus, Grafana, Incident Response.",
+    "summary": "Staff SRE recognized for engineering advanced observability platforms and significantly reducing Mean Time to Recovery."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal DevOps Engineer | SystemCore | 2008-Present. Architected enterprise DevSecOps frameworks, integrating SonarQube and Checkmarx into CI/CD pipelines for 500+ developers. SKILLS: DevSecOps, Enterprise CI/CD, Checkmarx, SonarQube.",
+    "summary": "Principal DevOps Engineer focused on architecting enterprise-wide DevSecOps frameworks and standardizing security scanning."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of DevOps | AgileRelease | 2014-Present. Led 45 DevOps engineers. Fostered an 'Infrastructure as Code' culture, reducing environment provisioning from days to minutes. SKILLS: IaC Culture, Department Leadership, Terraform.",
+    "summary": "Director of DevOps dedicated to transforming engineering cultures through Infrastructure as Code and rapid provisioning."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of DevOps | ContinuousFlow | 2010-Present. Governed global release engineering strategy. Improved software delivery frequency by 400% across 12 distinct product lines. SKILLS: Release Strategy, Global Operations, Value Stream Mapping.",
+    "summary": "VP of DevOps with a proven record of exponentially increasing software delivery cadence across complex global product lines."
+  },
+  {
+    "resume_text": "EXPERIENCE: Head of Platform Engineering | MegaCorp | 2005-Present. Directed internal developer platform (IDP) initiatives, boosting developer productivity by 30%. Managed $30M infrastructure budget. SKILLS: Platform Engineering, Executive Leadership, IDP.",
+    "summary": "Head of Platform Engineering offering executive oversight for internal developer platforms and massive infrastructure budgets."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Cybersecurity Analyst | SecureNet | 2022-Present. Monitored SIEM alerts in Splunk and escalated suspicious network traffic. Participated in weekly phishing awareness campaigns. SKILLS: Splunk, Threat Monitoring, Phishing Analysis.",
+    "summary": "Entry-level Cybersecurity Analyst experienced in Tier-1 SIEM monitoring and conducting phishing awareness campaigns."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Security Engineer | CyberShield | 2015-Present. Led incident response for ransomware attacks, achieving containment within 2 hours. Tuned SIEM rules to cut false positives by 40%. SKILLS: Incident Response, Malware Analysis, SIEM Tuning.",
+    "summary": "Senior Security Engineer specializing in rapid incident response and optimizing SIEM rules to reduce alert fatigue."
+  },
+  {
+    "resume_text": "EXPERIENCE: Staff Penetration Tester | TrustSec | 2011-Present. Executed advanced red-team operations on enterprise networks. Discovered 15+ zero-day vulnerabilities in proprietary web applications. SKILLS: Penetration Testing, Red Teaming, OWASP, Burp Suite.",
+    "summary": "Staff Security Professional recognized for advanced red-teaming and discovering critical zero-day web vulnerabilities."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Security Architect | IronClad | 2007-Present. Designed zero-trust network architectures for global offices. Integrated SAML-based IAM frameworks utilizing Okta. SKILLS: Zero Trust, IAM, Okta, Security Architecture.",
+    "summary": "Principal Security Architect focused on designing zero-trust networks and enterprise-wide Identity and Access Management frameworks."
+  },
+  {
+    "resume_text": "EXPERIENCE: Director of Information Security | SafeCorp | 2013-Present. Managed a 30-person SOC team. Guaranteed continuous compliance with SOC2 and ISO 27001 standards during annual audits. SKILLS: Compliance, Risk Management, SOC Leadership, ISO 27001.",
+    "summary": "Director of Information Security adept at managing 24/7 SOC teams and ensuring strict SOC2 and ISO 27001 compliance."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Information Security Officer (CISO) | FinSecure | 2004-Present. Protected $100B in financial assets. Authored corporate security policies and managed a $20M cybersecurity budget. SKILLS: CISO, Executive Leadership, Financial Security.",
+    "summary": "Chief Information Security Officer (CISO) providing executive oversight for massive financial asset protection and corporate security budgets."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Product Officer (CPO) | GlobalSaaS | 2005-Present. Redefined corporate product vision, shifting from on-premise to cloud subscriptions. Tripled company valuation prior to IPO. SKILLS: CPO, Product Vision, Business Model Transition.",
+    "summary": "Chief Product Officer offering executive leadership in redefining corporate product visions and driving massive valuation growth."
+  },
+  {
+    "resume_text": "EXPERIENCE: Project Coordinator | BuildIt | 2022-Present. Scheduled weekly status meetings and distributed minutes. Tracked project tasks and deadlines using Asana. SKILLS: Task Tracking, Scheduling, Asana, Meeting Coordination.",
+    "summary": "Entry-level Project Manager skilled in coordinating team schedules, tracking deadlines, and maintaining project documentation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Principal Project Manager | MegaWorks | 2007-Present. Orchestrated complex $75M capital projects. Navigated strict regulatory environments and secured critical municipal permits. SKILLS: Capital Projects, Regulatory Compliance, Mega-project Management.",
+    "summary": "Principal Project Manager focused on high-stakes capital projects and navigating complex regulatory and permitting environments."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Project Officer | EnterpriseBuild | 2004-Present. Championed enterprise-wide project delivery standards. Board-level reporting on all tier-1 corporate initiatives. SKILLS: CPO, Enterprise Standards, Board Reporting.",
+    "summary": "Chief Project Officer recognized for championing enterprise project delivery standards and overseeing tier-1 corporate initiatives."
+  },
+  {
+    "resume_text": "EXPERIENCE: Junior Business Analyst | InsightBiz | 2022-Present. Gathered requirements for internal HR tools. Created simple process flow diagrams using MS Visio. SKILLS: Requirement Gathering, MS Visio, Process Mapping.",
+    "summary": "Entry-level Business Analyst experienced in process mapping and initial requirement elicitation for internal tools."
+  },
+  {
+    "resume_text": "EXPERIENCE: Business Analyst | DataDriven | 2019-2022. Authored 40+ Business Requirement Documents (BRDs). Bridged communication between IT and finance stakeholders to clarify data needs. SKILLS: BRDs, Stakeholder Communication, SQL, Finance Domain.",
+    "summary": "Mid-level Business Analyst skilled in writing comprehensive BRDs and bridging communication between IT and finance teams."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Business Analyst | ProcessPro | 2015-Present. Led JAD sessions for enterprise CRM overhauls. Identified workflow bottlenecks, increasing operational efficiency by 18%. SKILLS: JAD Sessions, Process Re-engineering, CRM.",
+    "summary": "Senior Business Analyst specializing in process re-engineering and facilitating enterprise JAD sessions for CRM overhauls."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Business Architect | EnterpriseVision | 2005-Present. Defined the overarching business architecture for a Fortune 500 company. Aligned core business capabilities with IT strategy. SKILLS: Business Architecture, IT Alignment, Capability Mapping.",
+    "summary": "Chief Business Architect providing executive vision for aligning core business capabilities with long-term IT strategies."
+  },
+  {
+    "resume_text": "EXPERIENCE: Senior Account Executive | EnterpriseCloud | 2015-Present. Exceeded $4M enterprise quota by 130%. Navigated 9-month sales cycles with Fortune 500 C-suite. SKILLS: Enterprise Sales, C-suite Selling, Quota Attainment.",
+    "summary": "Senior Sales Executive specializing in long-cycle enterprise sales and consistently exceeding multi-million dollar quotas."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Revenue Officer | SalesGiant | 2005-Present. Aligned global sales, marketing, and customer success. Grew total revenue from $100M to $400M over 5 years. SKILLS: CRO, Revenue Alignment, Global Scaling.",
+    "summary": "Chief Revenue Officer adept at aligning revenue-generating departments and exponentially accelerating enterprise revenue."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Marketing Officer | BrandGiant | 2004-Present. Overhauled enterprise brand positioning. Drove $500M in marketing-attributed revenue through aggressive digital transformation. SKILLS: CMO, Brand Positioning, Digital Transformation.",
+    "summary": "Chief Marketing Officer recognized for overhauling enterprise brand positioning and driving massive marketing-attributed revenue."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Financial Officer | CapitalGroup | 2005-Present. Led the company through a successful $1.5B IPO. Navigated complex SEC audits and established global financial controls. SKILLS: CFO, IPO Leadership, SEC Audits, Financial Controls.",
+    "summary": "Chief Financial Officer recognized for leading successful billion-dollar IPOs and establishing global financial controls."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Accounting Officer | EnterpriseBooks | 2004-Present. Championed financial transparency. Reengineered the entire corporate accounting structure prior to acquisition. SKILLS: CAO, Corporate Restructuring, Financial Transparency.",
+    "summary": "Chief Accounting Officer recognized for reengineering corporate accounting structures and championing financial transparency."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Human Resources Officer | TalentFirst | 2005-Present. Transformed corporate culture for a Fortune 500 company. Overhauled executive compensation and benefits packages. SKILLS: CHRO, Executive Compensation, Culture Transformation.",
+    "summary": "Chief Human Resources Officer recognized for transforming corporate cultures and overhauling executive compensation."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Talent Officer | TalentGiant | 2004-Present. Engineered the workforce acquisition strategy for a rapidly expanding unicorn startup. Tripled the workforce in 3 years. SKILLS: CTO, Workforce Planning, Hypergrowth Scaling.",
+    "summary": "Chief Talent Officer recognized for engineering hypergrowth workforce acquisition strategies and scaling unicorn startups."
+  },
+  {
+    "resume_text": "EXPERIENCE: VP of Nursing Operations | RegionalHealth | 2010-Present. Standardized nursing protocols across 15 facilities. Reduced travel nurse dependency, saving $5M annually. SKILLS: Nursing Operations, Cost Reduction, Protocol Standardization.",
+    "summary": "VP of Nursing Operations offering strategic leadership in protocol standardization and significant cost reductions."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Supply Chain Officer | GlobalTransit | 2004-Present. Overhauled enterprise logistics network. Built resilient supply chains resistant to global pandemic disruptions. SKILLS: CSCO, Supply Chain Resilience, Network Overhaul.",
+    "summary": "Chief Supply Chain Officer recognized for overhauling logistics networks and building highly resilient global supply chains."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Manufacturing Officer | InduCorp | 2005-Present. Steered global manufacturing strategy. Consolidated redundant plants to save $100M while increasing total output. SKILLS: CMO, Manufacturing Strategy, Plant Consolidation.",
+    "summary": "Chief Manufacturing Officer recognized for steering global manufacturing strategies and executing highly profitable plant consolidations."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Construction Officer | TowerCorp | 2004-Present. Championed urban high-rise development initiatives. Delivered 20+ skyscrapers globally with pristine safety and budget records. SKILLS: CCO, High-Rise Development, Urban Planning.",
+    "summary": "Chief Construction Officer recognized for delivering massive urban high-rise developments with perfect safety and budget records."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Engineering Officer | CivilGiant | 2005-Present. Oversee technical execution of multi-billion dollar national infrastructure packages. Approved all final PE stamps for federal projects. SKILLS: CEO, National Infrastructure, Technical Authority.",
+    "summary": "Chief Engineering Officer recognized for overseeing multi-billion dollar national infrastructure packages and serving as final technical authority."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Mechanical Officer | MechDynamics | 2004-Present. Championed sustainable hardware development. Pushed enterprise to 100% recyclable components in all new products. SKILLS: CMO, Sustainable Design, Hardware Innovation.",
+    "summary": "Chief Mechanical Officer recognized for championing sustainable hardware development and pushing enterprise-wide green design."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Academic Officer | EdGlobal | 2005-Present. Defined global academic standards for a network of international private schools. Increased university acceptance rates to 99%. SKILLS: CAO, Academic Standards, Global Education.",
+    "summary": "Chief Academic Officer recognized for defining global academic standards and maximizing university acceptance rates."
+  },
+  {
+    "resume_text": "EXPERIENCE: Chief Legal Officer | TechTitan | 2005-Present. Navigated high-stakes international antitrust litigation. Protected corporate IP portfolio worth $10B. SKILLS: CLO, Antitrust Litigation, IP Protection.",
+    "summary": "Chief Legal Officer recognized for navigating international antitrust litigation and protecting massive intellectual property portfolios."
   }
 ]
