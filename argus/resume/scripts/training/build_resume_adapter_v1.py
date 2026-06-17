@@ -31,9 +31,9 @@ JOB_FIT_V2_PATH = "argus/resume/datasets/processed/resume_job_fit_training_ready
 ADAPTER_V1_PATH = "argus/resume/training/resume_adapter_v1.jsonl"
 
 # Reports paths
-DEDUP_REPORT_PATH = "argus/resume/evaluation/job_fit_dedup_report.md"
-SIM_REPORT_PATH = "argus/resume/evaluation/adapter_sampling_simulation_v2.md"
-DATASET_REPORT_PATH = "argus/resume/evaluation/adapter_dataset_report.md"
+DEDUP_REPORT_PATH = "argus/resume/evaluation/_archive/job_fit_dedup_report.md"
+SIM_REPORT_PATH = "argus/resume/evaluation/_archive/adapter_sampling_simulation_v2.md"
+DATASET_REPORT_PATH = "argus/resume/evaluation/_archive/adapter_dataset_report.md"
 
 # Random Seed
 RANDOM_SEED = 42

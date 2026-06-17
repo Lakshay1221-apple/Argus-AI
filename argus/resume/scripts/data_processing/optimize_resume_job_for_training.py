@@ -347,7 +347,7 @@ def main():
     
     clean_path = Path("argus/resume/datasets/processed/resume_job_fit_clean.jsonl")
     ready_path = Path("argus/resume/datasets/processed/resume_job_fit_training_ready.jsonl")
-    report_path = Path("argus/resume/evaluation/resume_job_training_optimization_report.md")
+    report_path = Path("argus/resume/evaluation/_archive/resume_job_training_optimization_report.md")
     
     # 1. Load Cleaned Dataset
     df = pd.read_json(clean_path, lines=True)

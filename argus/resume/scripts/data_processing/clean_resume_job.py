@@ -279,7 +279,7 @@ def main():
     
     raw_path = Path("argus/resume/datasets/raw/resume-job-description-fit.jsonl")
     processed_dir = Path("argus/resume/datasets/processed")
-    evaluation_dir = Path("argus/resume/evaluation")
+    evaluation_dir = Path("argus/resume/evaluation/_archive")
     
     # Create target directories
     processed_dir.mkdir(parents=True, exist_ok=True)

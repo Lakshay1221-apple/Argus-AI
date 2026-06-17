@@ -217,7 +217,7 @@ def main():
     sections_path = Path("argus/resume/datasets/processed/resume_sections_clean.jsonl")
     
     source_out_path = Path("argus/resume/datasets/notebooklm/notebooklm_resume_summary_source.md")
-    report_out_path = Path("argus/resume/evaluation/notebooklm_source_report.md")
+    report_out_path = Path("argus/resume/evaluation/_archive/notebooklm_source_report.md")
     
     source_out_path.parent.mkdir(parents=True, exist_ok=True)
     report_out_path.parent.mkdir(parents=True, exist_ok=True)

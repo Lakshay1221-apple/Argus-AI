@@ -458,11 +458,11 @@ def main():
     clean_path = Path("argus/resume/datasets/processed/resume_summary_clean.jsonl")
     inst_path = Path("argus/resume/datasets/processed/resume_summary_instruction.jsonl")
     
-    report_before_path = Path("argus/resume/evaluation/resume_summary_report_before.md")
-    report_after_path = Path("argus/resume/evaluation/resume_summary_report_after.md")
-    token_analysis_path = Path("argus/resume/evaluation/resume_summary_token_analysis.md")
-    samples_path = Path("argus/resume/evaluation/resume_summary_samples.md")
-    data_card_path = Path("argus/resume/evaluation/resume_summary_data_card.md")
+    report_before_path = Path("argus/resume/evaluation/_archive/resume_summary_report_before.md")
+    report_after_path = Path("argus/resume/evaluation/_archive/resume_summary_report_after.md")
+    token_analysis_path = Path("argus/resume/evaluation/_archive/resume_summary_token_analysis.md")
+    samples_path = Path("argus/resume/evaluation/_archive/resume_summary_samples.md")
+    data_card_path = Path("argus/resume/evaluation/_archive/resume_summary_data_card.md")
     
     # Load tokenizer
     tokenizer = load_tokenizer()

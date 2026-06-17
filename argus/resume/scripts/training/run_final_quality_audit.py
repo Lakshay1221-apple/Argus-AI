@@ -26,10 +26,10 @@ ADAPTER_STANDARDIZED_PATH = "argus/resume/training/resume_adapter_v1_standardize
 SUMMARY_PATH = "argus/resume/datasets/processed/resume_summary_synthetic.jsonl"
 
 # Reports
-REVIEW_AUDIT_REPORT_PATH = "argus/resume/evaluation/review_format_audit.md"
-INSTRUCTION_AUDIT_REPORT_PATH = "argus/resume/evaluation/instruction_audit_report.md"
-SUMMARY_AUDIT_REPORT_PATH = "argus/resume/evaluation/summary_quality_audit.md"
-READINESS_REPORT_PATH = "argus/resume/evaluation/final_training_readiness_report.md"
+REVIEW_AUDIT_REPORT_PATH = "argus/resume/evaluation/_archive/review_format_audit.md"
+INSTRUCTION_AUDIT_REPORT_PATH = "argus/resume/evaluation/_archive/instruction_audit_report.md"
+SUMMARY_AUDIT_REPORT_PATH = "argus/resume/evaluation/active/summary_quality_audit.md"
+READINESS_REPORT_PATH = "argus/resume/evaluation/active/final_training_readiness_report.md"
 
 def parse_flexible_json(file_path: Path) -> List[Dict[str, Any]]:
     with open(file_path, "rb") as f:

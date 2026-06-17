@@ -56,7 +56,7 @@ DATASETS_CONFIG = {
     }
 }
 
-REPORT_OUTPUT_PATH = "argus/resume/evaluation/dataset_balance_report_v2.md"
+REPORT_OUTPUT_PATH = "argus/resume/evaluation/active/dataset_balance_report_v2.md"
 
 def parse_flexible_json(file_path: Path) -> List[Dict[str, Any]]:
     """
